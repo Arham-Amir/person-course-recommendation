@@ -8,7 +8,7 @@ from utilities import *
 import threading
 
 
-PERSONS_RECOMENDATION_DATA_FILE = "persons_recomendation_data1.csv"
+PERSONS_RECOMENDATION_DATA_FILE = "persons_recomendation_data2.csv"
 PERSONS_FOLDER_PATH ='./people/'
 COURSE_FILE_PATH = 'ADC Manufacturing_Pharma_brochure-TEST.pdf'
 COURSE_FILE_PAGE_NUMBER = 1
@@ -38,22 +38,6 @@ def ask_to_model(prompt):
 
 def get_summary_from_prompt(prompt):
     return ask_to_model(prompt)
-
-def save_summary_to_file(summary, filename="summary.txt"):
-    try:
-        with open(filename, "w") as f:
-            f.write(str(summary.choices[0].message.content))
-        print(f"Summary saved successfully to {filename}")
-    except Exception as e:
-        print(f"Error saving summary to file: {e}")
-
-def save_person_extracted_data_to_file(person_details, filename="person.json"):
-    try:
-        with open(filename, "w") as json_file:
-            json.dump(person_details, json_file, indent=4)
-        print(f"Summary saved successfully to {filename}")
-    except Exception as e:
-        print(f"Error saving summary to file: {e}")
 
 def extract_persons_information_and_get_course_recommendation(course_summary):
     person_files = [f for f in os.listdir(PERSONS_FOLDER_PATH) if os.path.isfile(os.path.join(PERSONS_FOLDER_PATH, f)) and f.endswith('.json')]
@@ -88,19 +72,18 @@ def get_course_recommendation_prompt(course_summary, person_details):
     prompt = PROMPT_FOR_RECOMMENDATION + "Course Summary : " + course_summary + "\nPerson Details : " + json.dumps(person_details)
     return ask_to_model(prompt)
 
-def save_recommendation_into_file(person_file_name, person_name, recommendation, recommendation_string):
+def save_recommendation_into_file(person_file_name, person_name, recommendation):
     try:
         file_exists = os.path.isfile(PERSONS_RECOMENDATION_DATA_FILE)
         with open(PERSONS_RECOMENDATION_DATA_FILE, 'a', newline='', encoding='utf-8') as file:
-            fieldnames = ['Person_File_Name', 'Person Name', 'Recommendation']
+            fieldnames = ['Person_File_Name', 'Person Name', 'Recommendation_Score', "Recommended"]
             writer = csv.DictWriter(file, fieldnames=fieldnames)
 
             # If the file doesn't exist, write header first
             if not file_exists:
                 writer.writeheader()
-            writer.writerow({'Person_File_Name': person_file_name, 'Person Name': person_name, 'Recommendation': recommendation})
+            writer.writerow({'Person_File_Name': person_file_name, 'Person Name': person_name, 'Recommendation_Score': recommendation, 'Recommended' : 'yes' if int(recommendation) > 5 else 'no'})
     except Exception as e:
-        print(recommendation_string, recommendation)
         print(f"Error in {person_file_name} while save_recommendation_into_file, the error : {e}")
         
 def extract_recommendation_and_save_into_file(person_file_name, person_name, recommendation_prompt_result):
@@ -110,7 +93,7 @@ def extract_recommendation_and_save_into_file(person_file_name, person_name, rec
     recommendation_match = re.search(recommendation_pattern, clean_content)
     if recommendation_match:
         recommendation = recommendation_match.group(1)
-        save_recommendation_into_file(person_file_name, person_name, recommendation, clean_content)
+        save_recommendation_into_file(person_file_name, person_name, recommendation)
     else:
         print(f"Error in {person_file_name} while extract_recommendation_and_save_into_file, the error : 'Recomendation Not Found.'")
         return

@@ -2,14 +2,14 @@ def extract_person_name(person_file_name, person_data):
     try:
         return person_data["fullName"]
     except Exception as e:
-        print(f"Error in {person_file_name} while extract_person_name, the error : {e}")
+        # print(f"Error in {person_file_name} while extract_person_name, the error : {e}")
         return ""
     
 def extract_person_summary(person_file_name, person_data):
     try:
         return person_data["summary"]
     except Exception as e:
-        print(f"Error in {person_file_name} while extract_person_summary, the error : {e}")
+        # print(f"Error in {person_file_name} while extract_person_summary, the error : {e}")
         return ""
     
 def extract_current_position_details(person_file_name, person_data):
@@ -20,7 +20,7 @@ def extract_current_position_details(person_file_name, person_data):
         dict['current-position-industry'] = person_data["currentPositions"][0]["companyUrnResolutionResult"]["industry"]
         return dict
     except Exception as e:
-        print(f"Error in {person_file_name} while extract_current_position_details, the error : {e}")
+        # print(f"Error in {person_file_name} while extract_current_position_details, the error : {e}")
         return dict
     
 def extract_education_fields_of_study(person_file_name, person_data):
@@ -31,7 +31,7 @@ def extract_education_fields_of_study(person_file_name, person_data):
                 eductaion_fields_list.extend(education["fieldsOfStudy"])
         return eductaion_fields_list
     except Exception as e:
-        print(f"Error in {person_file_name} while extract_education_fields_of_study, the error : {e}")
+        # print(f"Error in {person_file_name} while extract_education_fields_of_study, the error : {e}")
         return eductaion_fields_list
     
 def extract_person_skills(person_file_name, person_data):
@@ -42,7 +42,7 @@ def extract_person_skills(person_file_name, person_data):
                 person_skills_list.append(skill["name"])
         return person_skills_list
     except Exception as e:
-        print(f"Error in {person_file_name} while extract_person_skills, the error : {e}")
+        # print(f"Error in {person_file_name} while extract_person_skills, the error : {e}")
         return person_skills_list
         
 def extract_person_projects(person_file_name, person_data):
@@ -56,6 +56,27 @@ def extract_person_projects(person_file_name, person_data):
             person_projects_list.append(project_info)
         return person_projects_list
     except Exception as e:
-        print(f"Error in {person_file_name} while extract_person_projects, the error : {e}")
+        # print(f"Error in {person_file_name} while extract_person_projects, the error : {e}")
         return person_projects_list
         
+        
+        
+# Other functions 
+
+def save_summary_to_file(summary, filename="summary.txt"):
+    try:
+        with open(filename, "w") as f:
+            f.write(str(summary.choices[0].message.content))
+        # print(f"Summary saved successfully to {filename}")
+    except Exception as e:
+        # print(f"Error saving summary to file: {e}")
+        pass
+
+def save_person_extracted_data_to_file(person_details, filename="person.json"):
+    try:
+        with open(filename, "w") as json_file:
+            json.dump(person_details, json_file, indent=4)
+        # print(f"Summary saved successfully to {filename}")
+    except Exception as e:
+        # print(f"Error saving summary to file: {e}")
+        pass
