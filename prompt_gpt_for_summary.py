@@ -15,7 +15,7 @@ COURSE_FILE_PAGE_NUMBER = 1
 OPEN_AI_API_KEY = "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"
 PROMPT_FOR_SUMMARY = "Please summarize the following course information text into exactly 150 words in a cohesive paragraph that includes a description of the course, its benefits, the target audience, and the ideal qualities of a potential buyer. Here is the course information text:\n"
 PROMPT_FOR_RECOMMENDATION = "Given the following information about a course and a person's details, provide a recommendation score for the course on a scale of 0 to 10. The recommendation should be based on how well the course aligns with the person's background, interests, and goals. Output only the result in a dictionary format like this: `result = {recommendation: 0-10}`.\n"
-
+SAMPLE_FILE = '13406766.json'
 
 MODEL_LOCK = threading.Lock()
 
@@ -27,7 +27,7 @@ def ask_to_model(prompt):
     with MODEL_LOCK:
         try:
             return client.chat.completions.create(
-                model="gpt-3.5-turbo",
+                model="gpt-4o",
                 messages=[
                     {"role": "user", "content": prompt}
                 ]
@@ -41,6 +41,7 @@ def get_summary_from_prompt(prompt):
 
 def extract_persons_information_and_get_course_recommendation(course_summary):
     person_files = [f for f in os.listdir(PERSONS_FOLDER_PATH) if os.path.isfile(os.path.join(PERSONS_FOLDER_PATH, f)) and f.endswith('.json')]
+    # person_files = [SAMPLE_FILE]
     if len(person_files) != 0:
         for person_file in person_files:
             # print(f"Processing {person_file} =============")
@@ -87,12 +88,11 @@ def save_recommendation_into_file(person_file_name, person_name, recommendation)
         print(f"Error in {person_file_name} while save_recommendation_into_file, the error : {e}")
         
 def extract_recommendation_and_save_into_file(person_file_name, person_name, recommendation_prompt_result):
-    recommendation_pattern = r'\{recommendation:\s*(\d+)\}'
+    recommendation_pattern = r'\d+'
     content = recommendation_prompt_result.choices[0].message.content.strip()
-    clean_content = content.replace("\n", "").replace(" ", "")
-    recommendation_match = re.search(recommendation_pattern, clean_content)
+    recommendation_match = re.search(recommendation_pattern, content)
     if recommendation_match:
-        recommendation = recommendation_match.group(1)
+        recommendation = recommendation_match.group()
         save_recommendation_into_file(person_file_name, person_name, recommendation)
     else:
         print(f"Error in {person_file_name} while extract_recommendation_and_save_into_file, the error : 'Recomendation Not Found.'")
@@ -106,7 +106,6 @@ if __name__ == "__main__":
     final_prompt = PROMPT_FOR_SUMMARY + extracted_text_from_pdf
     # print(final_prompt)
     course_summary_result = get_summary_from_prompt(final_prompt)
-    # print(course_summary)
     if course_summary_result:
         course_summary = str(course_summary_result.choices[0].message.content)
         extract_persons_information_and_get_course_recommendation(course_summary)
