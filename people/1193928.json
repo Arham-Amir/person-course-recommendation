@@ -1,0 +1,680 @@
+{
+    "summary": "*  Creative and driven analogue\/mixed-signal Technical Lead...not obsessed by process but obsessed by getting it right first time. This is not a job, it's a passion.\n* Thirty five years experience in analogue and mixed signal design\n* Thirty two patents in circuit design, four currently \"in flight\"\n* Experience in PMU, LDOs, bandgaps and Buck convertors\n* Experience in Bluetooth IP - TIA, LNA, PMU\n*  Deep knowledge and experience of all aspects of analogue design and integration in complex SOCs\n*  Experience in FinFet processes\n*  Experience developing IP for Wearables and IoT \n*  Experience developing IP for NFC\/RFID \n*  Experience developing IP for CMOS imagers\n*  PhD in CMOS analog circuit design\n*  MSc, BSc Electronic Engineering\n\n\nInside Secure\nNXP (contract)\nInnovision\/Broadcom  Semiconductor (contract)\nNanotech Seminconductor (contract)\nMicron Europe Ltd (contract)\nToumaz Technology (contract)\n\nSilicon Labs\nMicron Europe \nHewlett Packard Labs\nPhilips Research Labs \nUniversity of Manchester Institute of Science and Technology \nGEC Avionics Ltd\n\nSpecialties: Analogue and mixed-signal CMOS circuit design.",
+    "lastName": "Neaves",
+    "objectUrn": "urn:li:member:1193928",
+    "geoRegion": "Bury St Edmunds, England, United Kingdom",
+    "fullName": "Philip Neaves",
+    "firstName": "Philip",
+    "currentPositions": [
+        {
+            "companyName": "Oxford Nanopore Technologies",
+            "title": "Associate Director, IC Design",
+            "tenureAtCompany": {
+                "numMonths": 11
+            },
+            "companyUrnResolutionResult": {
+                "employeeCountRange": "501-1000",
+                "headquarters": {
+                    "country": "United Kingdom",
+                    "city": "Oxford",
+                    "postalCode": "OX4 4GA",
+                    "line1": "Oxford Science Park"
+                },
+                "website": "http:\/\/www.nanoporetech.com",
+                "flagshipCompanyUrl": "https:\/\/www.linkedin.com\/company\/oxford-nanopore-technologies\/",
+                "industry": "Biotechnology Research"
+            },
+            "startedOn": {
+                "month": 7,
+                "year": 2023
+            },
+            "companyUrn": "urn:li:fs_salesCompany:340169"
+        }
+    ],
+    "entityUrn": "urn:li:fs_salesProfile:(ACwAAAASN8gBua_7TMR485tod5loGE8tEvzZbns,NAME_SEARCH,UL5j)",
+    "profilePictureDisplayImage": {
+        "artifacts": [
+            {
+                "width": 100,
+                "fileIdentifyingUrlPathSegment": "100_100\/0\/1661412766356?e=1723075200&v=beta&t=iT-4IEXicByWEm5kuyrG8XBF9lMm2NnmRL72Pvx8V10",
+                "height": 100
+            },
+            {
+                "width": 200,
+                "fileIdentifyingUrlPathSegment": "200_200\/0\/1661412766356?e=1723075200&v=beta&t=LVxlMfjIHUfpnCPzQfP8HFrcIl5JQ3MW7Sq6Jc5yrzQ",
+                "height": 200
+            },
+            {
+                "width": 400,
+                "fileIdentifyingUrlPathSegment": "400_400\/0\/1661412766356?e=1723075200&v=beta&t=MvqnJE2RK2kENJa5XuYPzSowuEzAFjpjqOzjbnMbKAc",
+                "height": 400
+            },
+            {
+                "width": 800,
+                "fileIdentifyingUrlPathSegment": "800_800\/0\/1661412766356?e=1723075200&v=beta&t=StaP_QCHWhI4WX6-xncR6Yah3opyZuZpk0op31B7oB8",
+                "height": 800
+            }
+        ],
+        "rootUrl": "https:\/\/media.licdn.com\/dms\/image\/D5603AQGkqC2FB3bXsA\/profile-displayphoto-shrink_"
+    },
+    "projects": [],
+    "contactInfo": {
+        "websites": [
+            {
+                "$anti_abuse_annotations": [
+                    {
+                        "attributeId": 97,
+                        "entityId": 19,
+                        "sourceUrn": "urn:li:member:1193928"
+                    },
+                    {
+                        "attributeId": 48,
+                        "entityId": 19,
+                        "sourceUrn": "urn:li:member:1193928"
+                    }
+                ],
+                "category": "PERSONAL",
+                "dataSource": "LINKEDIN",
+                "url": "http:\/\/www.neaves.net"
+            }
+        ]
+    },
+    "industry": "Biotechnology Research",
+    "educations": [
+        {
+            "endedOn": {
+                "month": 1,
+                "year": 1996
+            },
+            "degree": "PhD",
+            "eduId": 206201,
+            "schoolUrn": "urn:li:fs_salesSchool:166652",
+            "school": "urn:li:fs_salesSchool:166652",
+            "fieldsOfStudy": [
+                "Gas sensing and analogue ASIC design"
+            ],
+            "schoolName": "University of Manchester",
+            "startedOn": {
+                "month": 1,
+                "year": 1996
+            }
+        },
+        {
+            "endedOn": {
+                "month": 1,
+                "year": 1990
+            },
+            "degree": "MSc",
+            "eduId": 206580,
+            "schoolUrn": "urn:li:fs_salesSchool:7609",
+            "school": "urn:li:fs_salesSchool:7609",
+            "fieldsOfStudy": [
+                "Electronic Engineering"
+            ],
+            "schoolName": "University of Warwick",
+            "startedOn": {
+                "month": 1,
+                "year": 1989
+            }
+        },
+        {
+            "endedOn": {
+                "month": 1,
+                "year": 1988
+            },
+            "degree": "BSc",
+            "eduId": 206582,
+            "schoolUrn": "urn:li:fs_salesSchool:7609",
+            "school": "urn:li:fs_salesSchool:7609",
+            "fieldsOfStudy": [
+                "Electronic Engineering"
+            ],
+            "schoolName": "University of Warwick",
+            "startedOn": {
+                "month": 1,
+                "year": 1985
+            }
+        },
+        {
+            "endedOn": {
+                "year": 1988
+            },
+            "school": "urn:li:fs_salesSchool:7609",
+            "startedOn": {
+                "year": 1985
+            },
+            "schoolUrn": "urn:li:fs_salesSchool:7609",
+            "eduId": 79037859
+        },
+        {
+            "endedOn": {
+                "year": 1988
+            },
+            "school": "urn:li:fs_salesSchool:7609",
+            "startedOn": {
+                "year": 1985
+            },
+            "schoolUrn": "urn:li:fs_salesSchool:7609",
+            "eduId": 79037961
+        },
+        {
+            "degree": "BSc, MSc",
+            "schoolUrn": "urn:li:fs_salesSchool:7609",
+            "eduId": 628092862,
+            "school": "urn:li:fs_salesSchool:7609",
+            "fieldsOfStudy": [
+                "Electrical and Electronics Engineering"
+            ],
+            "schoolName": "University of Warwick"
+        },
+        {
+            "schoolName": "borden grammar",
+            "eduId": 171494034
+        }
+    ],
+    "skills": [
+        {
+            "numOfEndorsement": 41,
+            "name": "CMOS"
+        },
+        {
+            "numOfEndorsement": 6,
+            "name": "NFC"
+        },
+        {
+            "numOfEndorsement": 6,
+            "name": "RFID+"
+        },
+        {
+            "numOfEndorsement": 30,
+            "name": "Analog"
+        },
+        {
+            "numOfEndorsement": 8,
+            "name": "ADCs"
+        },
+        {
+            "numOfEndorsement": 1,
+            "name": "Digital Imaging"
+        },
+        {
+            "numOfEndorsement": 18,
+            "name": "Power Management"
+        },
+        {
+            "numOfEndorsement": 13,
+            "name": "Mixed-Signal IC Design"
+        },
+        {
+            "numOfEndorsement": 26,
+            "name": "Analog Circuit Design"
+        },
+        {
+            "numOfEndorsement": 0,
+            "name": "DACS"
+        },
+        {
+            "numOfEndorsement": 1,
+            "name": "Bandgap References"
+        },
+        {
+            "numOfEndorsement": 0,
+            "name": "OTA"
+        },
+        {
+            "numOfEndorsement": 3,
+            "name": "Cadence Spectre"
+        },
+        {
+            "numOfEndorsement": 0,
+            "name": "Cadence Analog Artist"
+        },
+        {
+            "numOfEndorsement": 11,
+            "name": "SPICE"
+        },
+        {
+            "numOfEndorsement": 0,
+            "name": "Eldo"
+        },
+        {
+            "numOfEndorsement": 10,
+            "name": "Circuit Design"
+        },
+        {
+            "numOfEndorsement": 3,
+            "name": "Sensors"
+        },
+        {
+            "numOfEndorsement": 1,
+            "name": "Silicon"
+        },
+        {
+            "numOfEndorsement": 2,
+            "name": "Verilog"
+        },
+        {
+            "numOfEndorsement": 1,
+            "name": "Cadence"
+        },
+        {
+            "numOfEndorsement": 8,
+            "name": "RF"
+        },
+        {
+            "numOfEndorsement": 17,
+            "name": "Semiconductors"
+        },
+        {
+            "numOfEndorsement": 6,
+            "name": "Mixed Signal"
+        },
+        {
+            "numOfEndorsement": 1,
+            "name": "Physical Verification"
+        },
+        {
+            "numOfEndorsement": 6,
+            "name": "ASIC"
+        },
+        {
+            "numOfEndorsement": 1,
+            "name": "Power Supplies"
+        },
+        {
+            "numOfEndorsement": 3,
+            "name": "SoC"
+        },
+        {
+            "numOfEndorsement": 3,
+            "name": "IC"
+        },
+        {
+            "numOfEndorsement": 12,
+            "name": "Integrated Circuit Design"
+        },
+        {
+            "numOfEndorsement": 1,
+            "name": "VCO"
+        },
+        {
+            "numOfEndorsement": 1,
+            "name": "VLSI"
+        },
+        {
+            "numOfEndorsement": 1,
+            "name": "Spectre"
+        },
+        {
+            "numOfEndorsement": 2,
+            "name": "Application-Specific Integrated Circuits (ASIC)"
+        },
+        {
+            "numOfEndorsement": 1,
+            "name": "Radio Frequency (RF)"
+        },
+        {
+            "numOfEndorsement": 1,
+            "name": "Wireless"
+        }
+    ],
+    "numOfConnections": 1685,
+    "patents": [],
+    "headline": "Lead Analogue Architect\/Design",
+    "courses": [],
+    "certifications": [],
+    "memberBadges": {
+        "premium": true,
+        "openLink": true,
+        "jobSeeker": false
+    },
+    "flagshipProfileUrl": "https:\/\/www.linkedin.com\/in\/philip-neaves-b20496",
+    "organizations": [],
+    "location": "Bury St Edmunds, England, United Kingdom",
+    "publications": [],
+    "positions": null,
+    "posts": [
+        {
+            "createdAt": 1712086260000,
+            "insightId": "ff28a5e7-4576-4a16-8b21-7b5cac420e51",
+            "activityUnion": {
+                "postActivity": {
+                    "socialMetadata": {
+                        "reactionTypeCounts": [
+                            {
+                                "type": "LIKE",
+                                "count": 5
+                            },
+                            {
+                                "type": "ENTERTAINMENT",
+                                "count": 5
+                            }
+                        ],
+                        "entityUrn": "urn:li:fs_salesSocialMetadata:urn:li:activity:7181010439852425216",
+                        "threadUrn": "urn:li:activity:7181010439852425216",
+                        "reactionsCount": 10,
+                        "commentsCount": 0,
+                        "canComment": true
+                    },
+                    "activityUrl": "https:\/\/www.linkedin.com\/feed\/sales-navigator\/urn:li:share:7181010439412031488",
+                    "message": {
+                        "attributes": [],
+                        "text": "A deeply philosophical question posed by my thirteen year old son at dinner , \u201cIf a poison expires (goes out of date), is it a better or worse poison?\u201d\u2026..\ud83e\udd7a\u2026sounds like a great interview question\u2026"
+                    },
+                    "entityUrn": "urn:li:share:7181010439412031488"
+                }
+            }
+        },
+        {
+            "createdAt": 1711531200000,
+            "insightId": "de4a2c19-a778-467c-88ee-439704106ff7",
+            "activityUnion": {
+                "postActivity": {
+                    "socialMetadata": {
+                        "reactionTypeCounts": [],
+                        "entityUrn": "urn:li:fs_salesSocialMetadata:urn:li:ugcPost:7178682400606932994",
+                        "threadUrn": "urn:li:ugcPost:7178682400606932994",
+                        "reactionsCount": 0,
+                        "commentsCount": 0,
+                        "canComment": true
+                    },
+                    "activityUrl": "https:\/\/www.linkedin.com\/feed\/sales-navigator\/urn:li:ugcPost:7178682400606932994",
+                    "message": {
+                        "attributes": [],
+                        "text": ""
+                    },
+                    "rootActivity": {
+                        "contentSummaryUnion": {
+                            "mediaContentSummary": {
+                                "mediaType": "VIDEO",
+                                "thumnailUrl": "https:\/\/dms.licdn.com\/playlist\/vid\/D4E10AQGEnQC8CyZI0g\/videocover-firstframe-low\/0\/1711530067542?e=1717977600&v=beta&t=WjEHGj-L_LkqghkyrQuBMNGFMzoMNa0ibH1EFBxhrQ8"
+                            }
+                        },
+                        "activityUrl": "https:\/\/www.linkedin.com\/feed\/sales-navigator\/urn:li:ugcPost:7178677893735022592",
+                        "message": {
+                            "attributes": [
+                                {
+                                    "start": 12,
+                                    "length": 12,
+                                    "value": {
+                                        "com.linkedin.common.HashtagAttributedEntity": {
+                                            "hashtag": "urn:li:hashtag:methylation"
+                                        }
+                                    }
+                                },
+                                {
+                                    "start": 52,
+                                    "length": 7,
+                                    "value": {
+                                        "com.linkedin.common.HashtagAttributedEntity": {
+                                            "hashtag": "urn:li:hashtag:cancer"
+                                        }
+                                    }
+                                },
+                                {
+                                    "start": 211,
+                                    "length": 15,
+                                    "value": {
+                                        "com.linkedin.common.HashtagAttributedEntity": {
+                                            "hashtag": "urn:li:hashtag:cancerresearch"
+                                        }
+                                    }
+                                },
+                                {
+                                    "start": 243,
+                                    "length": 22,
+                                    "value": {
+                                        "com.linkedin.common.HyperlinkAttributedEntity": {
+                                            "url": "https:\/\/bit.ly\/3JcjQUZ"
+                                        }
+                                    }
+                                },
+                                {
+                                    "start": 266,
+                                    "length": 7,
+                                    "value": {
+                                        "com.linkedin.common.HashtagAttributedEntity": {
+                                            "hashtag": "urn:li:hashtag:aacr24"
+                                        }
+                                    }
+                                }
+                            ],
+                            "text": "The role of #methylation is linked to many forms of #cancer. With nanopore sequencing, you can investigate methylation simultaneously with canonical bases.\nJust switch it on... and gain a new insights into your #CancerResearch\n\nFind out more: https:\/\/bit.ly\/3JcjQUZ #AACR24 \n"
+                        },
+                        "entityUrn": "urn:li:ugcPost:7178677893735022592"
+                    },
+                    "entityUrn": "urn:li:ugcPost:7178682400606932994"
+                }
+            }
+        },
+        {
+            "createdAt": 1710950520000,
+            "insightId": "10976318-0a2c-42ec-bf7e-ec23645f7687",
+            "activityUnion": {
+                "postActivity": {
+                    "socialMetadata": {
+                        "reactionTypeCounts": [],
+                        "entityUrn": "urn:li:fs_salesSocialMetadata:urn:li:activity:7176246815116152832",
+                        "threadUrn": "urn:li:activity:7176246815116152832",
+                        "reactionsCount": 0,
+                        "commentsCount": 0,
+                        "canComment": true
+                    },
+                    "activityUrl": "https:\/\/www.linkedin.com\/feed\/sales-navigator\/urn:li:share:7176246814671536130",
+                    "message": {
+                        "attributes": [],
+                        "text": ""
+                    },
+                    "rootActivity": {
+                        "contentSummaryUnion": {
+                            "ingestedContentSummary": {
+                                "image": {
+                                    "attributes": [
+                                        {
+                                            "originalImageUrl": "https:\/\/media.licdn.com\/dms\/image\/D4E10AQHjv76iQFUcMg\/image-shrink_1280\/0\/1710234301518?e=1717977600&v=beta&t=pyeKxoomwohsT14wZQ88Vco8i6_tiWtRJbwX0wuvTOg",
+                                            "sourceType": "URL",
+                                            "imageUrl": "https:\/\/media.licdn.com\/dms\/image\/D4E10AQHjv76iQFUcMg\/image-shrink_1280\/0\/1710234301518?e=1717977600&v=beta&t=pyeKxoomwohsT14wZQ88Vco8i6_tiWtRJbwX0wuvTOg"
+                                        }
+                                    ]
+                                },
+                                "description": "Detecting isoforms and RNA modifications with PCR-free, direct RNA nanopore sequencing Accurately capturing the range of RNA diversity \u2014 including gene expression, isoforms, and RNA methylation \u2014 can help elucidate the molecular mechanisms of disease and functional roles of RNA modifications. For example, RNA modifications, such as n6-methyladenosine (m6A), impact RNA metabolism and play a sign...",
+                                "resolvedUrl": "https:\/\/bit.ly\/3P9ADLs",
+                                "title": "Workflow: Direct RNA sequencing"
+                            }
+                        },
+                        "activityUrl": "https:\/\/www.linkedin.com\/feed\/sales-navigator\/urn:li:share:7173242571748429824",
+                        "message": {
+                            "attributes": [
+                                {
+                                    "start": 244,
+                                    "length": 5,
+                                    "value": {
+                                        "com.linkedin.common.HashtagAttributedEntity": {
+                                            "hashtag": "urn:li:hashtag:wymm"
+                                        }
+                                    }
+                                },
+                                {
+                                    "start": 312,
+                                    "length": 22,
+                                    "value": {
+                                        "com.linkedin.common.HyperlinkAttributedEntity": {
+                                            "url": "https:\/\/bit.ly\/3P9ADLs"
+                                        }
+                                    }
+                                }
+                            ],
+                            "text": "Direct RNA nanopore sequencing: \n-Only technology that directly reads native RNA \n-Quantitation of isoform expression \n-Direct detection of RNA modifications \n-No PCR bias \n-Accurately estimates poly-A tail length \nWhat you're missing matters. #WYMM \n\nCheck out our Direct RNA sequencing workflow to learn more: https:\/\/bit.ly\/3P9ADLs "
+                        },
+                        "entityUrn": "urn:li:share:7173242571748429824"
+                    },
+                    "entityUrn": "urn:li:share:7176246814671536130"
+                }
+            }
+        },
+        {
+            "createdAt": 1710448500000,
+            "insightId": "6a07b3f8-5be9-4ddf-8f70-6be94d3cd29c",
+            "activityUnion": {
+                "postActivity": {
+                    "socialMetadata": {
+                        "reactionTypeCounts": [],
+                        "entityUrn": "urn:li:fs_salesSocialMetadata:urn:li:ugcPost:7174141029841817600",
+                        "threadUrn": "urn:li:ugcPost:7174141029841817600",
+                        "reactionsCount": 0,
+                        "commentsCount": 0,
+                        "canComment": true
+                    },
+                    "activityUrl": "https:\/\/www.linkedin.com\/feed\/sales-navigator\/urn:li:ugcPost:7174141029841817600",
+                    "message": {
+                        "attributes": [],
+                        "text": ""
+                    },
+                    "rootActivity": {
+                        "contentSummaryUnion": {
+                            "mediaContentSummary": {
+                                "mediaType": "VIDEO",
+                                "thumnailUrl": "https:\/\/dms.licdn.com\/playlist\/vid\/D4E10AQF5owQCgBwYYQ\/videocover-firstframe-low\/0\/1710426309882?e=1717977600&v=beta&t=u2rQLiWcVAHyf6lC5LlMSqAqrftcRnRGstPCrdPUbLU"
+                            }
+                        },
+                        "activityUrl": "https:\/\/www.linkedin.com\/feed\/sales-navigator\/urn:li:ugcPost:7174048382049492993",
+                        "message": {
+                            "attributes": [
+                                {
+                                    "start": 97,
+                                    "length": 13,
+                                    "value": {
+                                        "com.linkedin.common.HashtagAttributedEntity": {
+                                            "hashtag": "urn:li:hashtag:nanoporeconf"
+                                        }
+                                    }
+                                },
+                                {
+                                    "start": 244,
+                                    "length": 22,
+                                    "value": {
+                                        "com.linkedin.common.HyperlinkAttributedEntity": {
+                                            "url": "https:\/\/bit.ly\/49VgwJA"
+                                        }
+                                    }
+                                }
+                            ],
+                            "text": "London is Calling. \nIn just over two months we will be opening the doors for the 10th edition of #nanoporeconf. Join us in person or online (for free) to hear groundbreaking genomic research from the Nanopore Community. \n\nGet your ticket here: https:\/\/bit.ly\/49VgwJA"
+                        },
+                        "entityUrn": "urn:li:ugcPost:7174048382049492993"
+                    },
+                    "entityUrn": "urn:li:ugcPost:7174141029841817600"
+                }
+            }
+        },
+        {
+            "createdAt": 1709715720000,
+            "insightId": "7eeb83c5-2251-44e8-8068-c30b3f8d0a79",
+            "activityUnion": {
+                "postActivity": {
+                    "socialMetadata": {
+                        "reactionTypeCounts": [],
+                        "entityUrn": "urn:li:fs_salesSocialMetadata:urn:li:activity:7171067690512539649",
+                        "threadUrn": "urn:li:activity:7171067690512539649",
+                        "reactionsCount": 0,
+                        "commentsCount": 0,
+                        "canComment": true
+                    },
+                    "activityUrl": "https:\/\/www.linkedin.com\/feed\/sales-navigator\/urn:li:share:7171067689984053248",
+                    "message": {
+                        "attributes": [],
+                        "text": ""
+                    },
+                    "rootActivity": {
+                        "contentSummaryUnion": {
+                            "ingestedContentSummary": {
+                                "image": {
+                                    "attributes": [
+                                        {
+                                            "originalImageUrl": "https:\/\/media.licdn.com\/dms\/image\/sync\/D5627AQHlSXQkNLJkVg\/articleshare-shrink_800\/0\/1711993631372?e=1717977600&v=beta&t=EjnY_ZWyG91Sl4GQx0-IIcMbp6ALQ7eYBJXqZut7vl0",
+                                            "sourceType": "URL",
+                                            "imageUrl": "https:\/\/media.licdn.com\/dms\/image\/sync\/D5627AQHlSXQkNLJkVg\/articleshare-shrink_800\/0\/1711993631372?e=1717977600&v=beta&t=EjnY_ZWyG91Sl4GQx0-IIcMbp6ALQ7eYBJXqZut7vl0"
+                                        }
+                                    ]
+                                },
+                                "description": "Discover the groundbreaking potential of RNA liquid biopsies for cancer detection. At #nanoporeconf, @ProfDanielKim will demonstrate how sequencing full-length cell-free RNA in blood can transform the way we monitor, understand, & classify cancer:...",
+                                "resolvedUrl": "https:\/\/x.com\/nanopore\/status\/1764698829528441089?s=20",
+                                "title": "Oxford Nanopore (@nanopore) on X"
+                            }
+                        },
+                        "activityUrl": "https:\/\/www.linkedin.com\/feed\/sales-navigator\/urn:li:share:7170472685578149890",
+                        "message": {
+                            "attributes": [
+                                {
+                                    "start": 25,
+                                    "length": 28,
+                                    "value": {
+                                        "com.linkedin.common.CompanyAttributedEntity": {
+                                            "company": "urn:li:company:340169"
+                                        }
+                                    }
+                                },
+                                {
+                                    "start": 192,
+                                    "length": 13,
+                                    "value": {
+                                        "com.linkedin.common.HashtagAttributedEntity": {
+                                            "hashtag": "urn:li:hashtag:nanoporeconf"
+                                        }
+                                    }
+                                },
+                                {
+                                    "start": 206,
+                                    "length": 5,
+                                    "value": {
+                                        "com.linkedin.common.HashtagAttributedEntity": {
+                                            "hashtag": "urn:li:hashtag:wymm"
+                                        }
+                                    }
+                                },
+                                {
+                                    "start": 213,
+                                    "length": 24,
+                                    "value": {
+                                        "com.linkedin.common.HyperlinkAttributedEntity": {
+                                            "url": "https:\/\/lnkd.in\/ge6rMUkc"
+                                        }
+                                    }
+                                }
+                            ],
+                            "text": "Very excited to speak at Oxford Nanopore Technologies' London Calling 2024 (May 21-24) on our latest advances in RNA liquid biopsy technology for cancer detection using long-read sequencing!\n\n#nanoporeconf #WYMM\n\nhttps:\/\/lnkd.in\/ge6rMUkc"
+                        },
+                        "entityUrn": "urn:li:share:7170472685578149890"
+                    },
+                    "entityUrn": "urn:li:share:7171067689984053248"
+                }
+            }
+        },
+        {
+            "createdAt": 1711615020000,
+            "insightId": "723f4c99-9e26-4fd0-a0cc-08ea34b4a232",
+            "activityUnion": {
+                "commentActivity": {
+                    "socialMetadata": {
+                        "reactionTypeCounts": [
+                            {
+                                "type": "LIKE",
+                                "count": 2
+                            }
+                        ],
+                        "entityUrn": "urn:li:fs_salesSocialMetadata:urn:li:comment:(ugcPost:7178760187426598913,7179033779322146818)",
+                        "threadUrn": "urn:li:ugcPost:7178760187426598913",
+                        "reactionsCount": 2,
+                        "commentsCount": 0,
+                        "canComment": true
+                    },
+                    "commentary": {
+                        "attributes": [],
+                        "text": "8 Ignore facile and trite lists"
+                    },
+                    "activityUrl": "https:\/\/www.linkedin.com\/feed\/sales-navigator\/urn:li:ugcPost:7178760187426598913"
+                }
+            }
+        }
+    ]
+}

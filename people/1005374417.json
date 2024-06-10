@@ -1,0 +1,296 @@
+{
+    "lastName": "Ph\u1ea1m",
+    "objectUrn": "urn:li:member:1005374417",
+    "geoRegion": "Qu\u1eadn 7, Ho Chi Minh City, Vietnam",
+    "fullName": "Ho\u00e0ng Ph\u1ea1m",
+    "firstName": "Ho\u00e0ng",
+    "currentPositions": [
+        {
+            "companyName": "MerapLion",
+            "title": "Information Technology Infrastructure and Security Specialist",
+            "tenureAtCompany": {
+                "numMonths": 9
+            },
+            "companyUrnResolutionResult": {
+                "employeeCountRange": "501-1000",
+                "headquarters": {
+                    "geographicArea": "Ho Chi Minh City",
+                    "country": "Vietnam",
+                    "city": "Qu\u1eadn 10",
+                    "line1": "89 \u0110\u01b0\u1eddng Tr\u1ea7n Thi\u1ec7n Ch\u00e1nh"
+                },
+                "website": "http:\/\/www.merapgroup.com.vn",
+                "flagshipCompanyUrl": "https:\/\/www.linkedin.com\/company\/merap-pharmaceutical\/",
+                "industry": "Pharmaceutical Manufacturing"
+            },
+            "startedOn": {
+                "month": 9,
+                "year": 2023
+            },
+            "companyUrn": "urn:li:fs_salesCompany:73401556"
+        }
+    ],
+    "entityUrn": "urn:li:fs_salesProfile:(ACwAADvsy9EBoeD4gNbaAizaLndVqinVjp1dtZQ,NAME_SEARCH,QMm_)",
+    "profilePictureDisplayImage": {
+        "artifacts": [
+            {
+                "width": 100,
+                "fileIdentifyingUrlPathSegment": "100_100\/0\/1712033754519?e=1723075200&v=beta&t=QHMORkxb00a22s_FCHA_dvxroFrpMwelRmPiP_c02jI",
+                "height": 100
+            },
+            {
+                "width": 200,
+                "fileIdentifyingUrlPathSegment": "200_200\/0\/1712033754519?e=1723075200&v=beta&t=t95rpJkbHmdpwuLdS-GDPWs8w3UQdzwPGAHnEKflt-Q",
+                "height": 200
+            },
+            {
+                "width": 400,
+                "fileIdentifyingUrlPathSegment": "400_400\/0\/1712033754519?e=1723075200&v=beta&t=S75EwvUK2nCDR_EV_Q9ntKQcsx9YAWm6h7az_SF62U8",
+                "height": 400
+            },
+            {
+                "width": 800,
+                "fileIdentifyingUrlPathSegment": "800_800\/0\/1712033754519?e=1723075200&v=beta&t=68-nkRjXJVljzV2_USa2ln_PH0mP-oS7NBKterAyUJA",
+                "height": 800
+            }
+        ],
+        "rootUrl": "https:\/\/media.licdn.com\/dms\/image\/D5603AQHvkYQFYJEEkA\/profile-displayphoto-shrink_"
+    },
+    "projects": [],
+    "contactInfo": {
+        "websites": [
+            {
+                "$anti_abuse_annotations": [
+                    {
+                        "attributeId": 97,
+                        "entityId": 19,
+                        "sourceUrn": "urn:li:member:1005374417"
+                    },
+                    {
+                        "attributeId": 48,
+                        "entityId": 19,
+                        "sourceUrn": "urn:li:member:1005374417"
+                    }
+                ],
+                "category": "PERSONAL",
+                "dataSource": "LINKEDIN",
+                "url": "https:\/\/hoangits.store"
+            }
+        ]
+    },
+    "industry": "Pharmaceutical Manufacturing",
+    "educations": [
+        {
+            "endedOn": {
+                "month": 9,
+                "year": 2020
+            },
+            "degree": "College",
+            "eduId": 900968128,
+            "fieldsOfStudy": [
+                "System, Networking, and LAN\/WAN Management\/Manager"
+            ],
+            "schoolName": "Cao Thang Technical College ",
+            "startedOn": {
+                "month": 9,
+                "year": 2017
+            }
+        }
+    ],
+    "skills": [
+        {
+            "numOfEndorsement": 0,
+            "name": "VMware vSphere"
+        },
+        {
+            "numOfEndorsement": 0,
+            "name": "Veeam Backup & Replication"
+        },
+        {
+            "numOfEndorsement": 0,
+            "name": "Fortinet"
+        },
+        {
+            "numOfEndorsement": 0,
+            "name": "Unifi controller"
+        },
+        {
+            "numOfEndorsement": 0,
+            "name": "synology NAS"
+        },
+        {
+            "numOfEndorsement": 0,
+            "name": "ADC"
+        },
+        {
+            "numOfEndorsement": 0,
+            "name": "Cisco Networking"
+        },
+        {
+            "numOfEndorsement": 0,
+            "name": "Employee Training"
+        },
+        {
+            "numOfEndorsement": 0,
+            "name": "Computer Hardware Troubleshooting"
+        },
+        {
+            "numOfEndorsement": 0,
+            "name": "Asset Management"
+        },
+        {
+            "numOfEndorsement": 0,
+            "name": "monitor cost"
+        },
+        {
+            "numOfEndorsement": 0,
+            "name": "VMWare ESXi"
+        },
+        {
+            "numOfEndorsement": 0,
+            "name": "Microsoft OneDrive"
+        },
+        {
+            "numOfEndorsement": 0,
+            "name": "Microsoft Outlook"
+        },
+        {
+            "numOfEndorsement": 0,
+            "name": "Tester"
+        },
+        {
+            "numOfEndorsement": 0,
+            "name": "IT Supprt"
+        },
+        {
+            "numOfEndorsement": 0,
+            "name": "WiFi"
+        },
+        {
+            "numOfEndorsement": 0,
+            "name": "Facebook Ads"
+        },
+        {
+            "numOfEndorsement": 0,
+            "name": "Facebook Fan Page Creation"
+        },
+        {
+            "numOfEndorsement": 0,
+            "name": "Point of Sale (POS) Systems"
+        },
+        {
+            "numOfEndorsement": 0,
+            "name": "Adobe Illustrator"
+        },
+        {
+            "numOfEndorsement": 0,
+            "name": "Adobe Photoshop"
+        },
+        {
+            "numOfEndorsement": 0,
+            "name": "Email Migration"
+        },
+        {
+            "numOfEndorsement": 0,
+            "name": "Software Support"
+        },
+        {
+            "numOfEndorsement": 0,
+            "name": "WordPress"
+        },
+        {
+            "numOfEndorsement": 0,
+            "name": "Website Administration"
+        },
+        {
+            "numOfEndorsement": 0,
+            "name": "Customer Support"
+        },
+        {
+            "numOfEndorsement": 0,
+            "name": "Google Workspace "
+        },
+        {
+            "numOfEndorsement": 0,
+            "name": "IT Support"
+        },
+        {
+            "numOfEndorsement": 0,
+            "name": "Networking"
+        },
+        {
+            "numOfEndorsement": 0,
+            "name": "Troubleshooting"
+        },
+        {
+            "numOfEndorsement": 0,
+            "name": "Microsoft Office"
+        },
+        {
+            "numOfEndorsement": 0,
+            "name": "Windows"
+        },
+        {
+            "numOfEndorsement": 0,
+            "name": "MacOS"
+        },
+        {
+            "numOfEndorsement": 0,
+            "name": "3CX"
+        },
+        {
+            "numOfEndorsement": 0,
+            "name": "Domain Controller"
+        },
+        {
+            "numOfEndorsement": 0,
+            "name": "Network-Attached Storage (NAS)"
+        },
+        {
+            "numOfEndorsement": 0,
+            "name": "Google Workplace"
+        },
+        {
+            "numOfEndorsement": 0,
+            "name": "Technical Support"
+        }
+    ],
+    "numOfConnections": 34,
+    "patents": [],
+    "headline": "IT Infrastructure and Security Specialist",
+    "courses": [],
+    "certifications": [],
+    "memberBadges": {
+        "premium": false,
+        "openLink": false,
+        "jobSeeker": false
+    },
+    "flagshipProfileUrl": "https:\/\/www.linkedin.com\/in\/ho%C3%A0ng-ph%E1%BA%A1m-a95845240",
+    "organizations": [],
+    "location": "Qu\u1eadn 7, Ho Chi Minh City, Vietnam",
+    "publications": [],
+    "positions": null,
+    "posts": [
+        {
+            "createdAt": 1712033940000,
+            "insightId": "0c18af3d-6e07-40e5-b956-7f6b91ae31c5",
+            "activityUnion": {
+                "commentActivity": {
+                    "socialMetadata": {
+                        "reactionTypeCounts": [],
+                        "entityUrn": "urn:li:fs_salesSocialMetadata:urn:li:comment:(activity:7179967061077454848,7180791015346245632)",
+                        "threadUrn": "urn:li:activity:7179967061077454848",
+                        "reactionsCount": 0,
+                        "commentsCount": 0,
+                        "canComment": true
+                    },
+                    "commentary": {
+                        "attributes": [],
+                        "text": "great!"
+                    },
+                    "activityUrl": "https:\/\/www.linkedin.com\/feed\/sales-navigator\/urn:li:activity:7179967061077454848"
+                }
+            }
+        }
+    ]
+}

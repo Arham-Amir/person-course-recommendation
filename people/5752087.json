@@ -1,0 +1,991 @@
+{
+    "summary": "Experienced Head of Human Resources with a demonstrated history of working in pharmaceutical and biotech organizations. Breadth of functional HR experience and people leadership;  skilled in Talent Management, Succession Planning, Organizational Development & Integration, Employee Relations and Recruitment Strategy.",
+    "lastName": "Tomlin",
+    "objectUrn": "urn:li:member:5752087",
+    "geoRegion": "San Francisco Bay Area",
+    "fullName": "Ann Tomlin",
+    "firstName": "Ann",
+    "currentPositions": [
+        {
+            "companyName": "Lyell Immunopharma",
+            "description": "Leading the HR\/People Team supporting an innovative, courageous organization. Lyell is a clinical-stage T-cell reprogramming company advancing a diverse pipeline of cell therapies for patients with solid tumors.",
+            "title": "Senior Vice President, Head of Human Resources",
+            "companyUrnResolutionResult": {
+                "employeeCountRange": "201-500",
+                "headquarters": {
+                    "geographicArea": "CA",
+                    "country": "United States",
+                    "city": "South San Francisco",
+                    "postalCode": "94080",
+                    "line1": "201 Haskins Way"
+                },
+                "website": "http:\/\/www.lyell.com",
+                "flagshipCompanyUrl": "https:\/\/www.linkedin.com\/company\/lyell\/",
+                "industry": "Biotechnology Research"
+            },
+            "companyUrn": "urn:li:fs_salesCompany:35479224",
+            "tenureAtCompany": {
+                "numMonths": 11
+            },
+            "startedOn": {
+                "month": 7,
+                "year": 2023
+            }
+        }
+    ],
+    "entityUrn": "urn:li:fs_salesProfile:(ACwAAABXxRcBnyPMbLpEkp5BeR3T-iCL1YkeFCQ,NAME_SEARCH,1g7S)",
+    "profilePictureDisplayImage": {
+        "artifacts": [
+            {
+                "width": 100,
+                "fileIdentifyingUrlPathSegment": "100_100\/0\/1667925455811?e=1723075200&v=beta&t=3WFik9CQtZMZQdecTQygOhBlH8cCWWdmHauxN9bI9pg",
+                "height": 100
+            },
+            {
+                "width": 200,
+                "fileIdentifyingUrlPathSegment": "200_200\/0\/1667925455811?e=1723075200&v=beta&t=bJ8uzTFwqRiMG0m7rp2orqEOCyfEqPe3iRX2qImK8JY",
+                "height": 200
+            },
+            {
+                "width": 222,
+                "fileIdentifyingUrlPathSegment": "400_400\/0\/1667925455811?e=1723075200&v=beta&t=KBc3m4gsnzBRONe_8NRsDNgn8wsFw9N2C1ZyRC7AE_A",
+                "height": 222
+            },
+            {
+                "width": 222,
+                "fileIdentifyingUrlPathSegment": "800_800\/0\/1667925455811?e=1723075200&v=beta&t=8M0LcPQJmYnWrn72zToQuhONcNWxJMm-UiijWLhfrVU",
+                "height": 222
+            }
+        ],
+        "rootUrl": "https:\/\/media.licdn.com\/dms\/image\/C5603AQG-6qZkZYgEtg\/profile-displayphoto-shrink_"
+    },
+    "projects": [],
+    "contactInfo": {},
+    "industry": "Biotechnology Research",
+    "educations": [
+        {
+            "endedOn": {
+                "year": 1997
+            },
+            "degree": "Master's",
+            "eduId": 26850226,
+            "schoolUrn": "urn:li:fs_salesSchool:6477",
+            "school": "urn:li:fs_salesSchool:6477",
+            "fieldsOfStudy": [
+                "Labor and Industrial Relations"
+            ],
+            "startedOn": {
+                "year": 1995
+            }
+        },
+        {
+            "endedOn": {
+                "year": 1993
+            },
+            "degree": "Bachelor's",
+            "eduId": 26850221,
+            "schoolUrn": "urn:li:fs_salesSchool:2650",
+            "school": "urn:li:fs_salesSchool:2650",
+            "fieldsOfStudy": [
+                "Communication"
+            ],
+            "startedOn": {
+                "year": 1989
+            }
+        }
+    ],
+    "skills": [
+        {
+            "numOfEndorsement": 0,
+            "name": "Team Leadership"
+        },
+        {
+            "numOfEndorsement": 0,
+            "name": "Cross-functional Team Leadership"
+        },
+        {
+            "numOfEndorsement": 74,
+            "name": "Talent Management"
+        },
+        {
+            "numOfEndorsement": 34,
+            "name": "Succession Planning"
+        },
+        {
+            "numOfEndorsement": 33,
+            "name": "Performance Management"
+        },
+        {
+            "numOfEndorsement": 8,
+            "name": "Employee Engagement"
+        },
+        {
+            "numOfEndorsement": 27,
+            "name": "Talent Acquisition"
+        },
+        {
+            "numOfEndorsement": 2,
+            "name": "Organizational Development"
+        },
+        {
+            "numOfEndorsement": 7,
+            "name": "Onboarding"
+        },
+        {
+            "numOfEndorsement": 11,
+            "name": "Organizational Effectiveness"
+        },
+        {
+            "numOfEndorsement": 4,
+            "name": "Leadership Development"
+        },
+        {
+            "numOfEndorsement": 5,
+            "name": "Employee Relations"
+        },
+        {
+            "numOfEndorsement": 4,
+            "name": "Workforce Planning"
+        },
+        {
+            "numOfEndorsement": 26,
+            "name": "Leadership"
+        },
+        {
+            "numOfEndorsement": 20,
+            "name": "Human Resources"
+        },
+        {
+            "numOfEndorsement": 5,
+            "name": "Personnel Management"
+        },
+        {
+            "numOfEndorsement": 13,
+            "name": "Recruiting"
+        },
+        {
+            "numOfEndorsement": 1,
+            "name": "Training"
+        },
+        {
+            "numOfEndorsement": 15,
+            "name": "Management"
+        },
+        {
+            "numOfEndorsement": 3,
+            "name": "Coaching"
+        },
+        {
+            "numOfEndorsement": 6,
+            "name": "Program Management"
+        },
+        {
+            "numOfEndorsement": 3,
+            "name": "Career Development"
+        }
+    ],
+    "pronoun": "She\/Her",
+    "numOfConnections": 1467,
+    "patents": [],
+    "headline": "Global Talent Leader; SVP, Head of Human Resources",
+    "courses": [],
+    "certifications": [],
+    "memberBadges": {
+        "premium": false,
+        "openLink": false,
+        "jobSeeker": false
+    },
+    "flagshipProfileUrl": "https:\/\/www.linkedin.com\/in\/ann-tomlin-907b141",
+    "organizations": [],
+    "location": "San Francisco Bay Area",
+    "publications": [],
+    "positions": null,
+    "posts": [
+        {
+            "createdAt": 1716952440000,
+            "insightId": "0f61a27b-d574-4d6a-a671-aa95efabc4dd",
+            "activityUnion": {
+                "postActivity": {
+                    "socialMetadata": {
+                        "reactionTypeCounts": [
+                            {
+                                "type": "LIKE",
+                                "count": 10
+                            },
+                            {
+                                "type": "PRAISE",
+                                "count": 1
+                            },
+                            {
+                                "type": "EMPATHY",
+                                "count": 1
+                            }
+                        ],
+                        "entityUrn": "urn:li:fs_salesSocialMetadata:urn:li:ugcPost:7201420570159194112",
+                        "threadUrn": "urn:li:ugcPost:7201420570159194112",
+                        "reactionsCount": 12,
+                        "commentsCount": 0,
+                        "canComment": true
+                    },
+                    "activityUrl": "https:\/\/www.linkedin.com\/feed\/sales-navigator\/urn:li:ugcPost:7201420570159194112",
+                    "message": {
+                        "attributes": [],
+                        "text": "Lyell is looking forward to joining On Track tomorrow in Oakland!"
+                    },
+                    "rootActivity": {
+                        "contentSummaryUnion": {
+                            "mediaContentSummary": {
+                                "title": {
+                                    "text": "Just A Moment EP2: Employment and Career Opportunities"
+                                },
+                                "mediaType": "VIDEO",
+                                "thumnailUrl": "https:\/\/dms.licdn.com\/playlist\/vid\/D5610AQGJSlA9-Whc3Q\/videocover-firstframe-low\/0\/1716910818759?e=1717977600&v=beta&t=MHQKHz-2d-XyJScTDR0WsCzJ4pvAiCPVB-8EIRO5Yqk"
+                            }
+                        },
+                        "activityUrl": "https:\/\/www.linkedin.com\/feed\/sales-navigator\/urn:li:ugcPost:7201246032528039936",
+                        "message": {
+                            "attributes": [
+                                {
+                                    "length": 28,
+                                    "start": 230,
+                                    "value": {
+                                        "com.linkedin.common.CompanyAttributedEntity": {
+                                            "company": "urn:li:company:30982"
+                                        }
+                                    }
+                                },
+                                {
+                                    "length": 21,
+                                    "start": 622,
+                                    "value": {
+                                        "com.linkedin.common.HyperlinkAttributedEntity": {
+                                            "url": "https:\/\/okt.to\/zYmCFg"
+                                        }
+                                    }
+                                },
+                                {
+                                    "length": 15,
+                                    "start": 656,
+                                    "value": {
+                                        "com.linkedin.common.MemberAttributedEntity": {
+                                            "member": "urn:li:member:899520"
+                                        }
+                                    }
+                                },
+                                {
+                                    "length": 12,
+                                    "start": 673,
+                                    "value": {
+                                        "com.linkedin.common.MemberAttributedEntity": {
+                                            "member": "urn:li:member:77607679"
+                                        }
+                                    }
+                                },
+                                {
+                                    "length": 12,
+                                    "start": 706,
+                                    "value": {
+                                        "com.linkedin.common.HashtagAttributedEntity": {
+                                            "hashtag": "urn:li:hashtag:theworkuwba"
+                                        }
+                                    }
+                                }
+                            ],
+                            "text": "Why is sharing job and career opportunities with youth so important? It's to give them the space to envision a future. To envision what exciting things could be next for them. This is exactly what we will be doing tomorrow at the Oakland Museum of California with On Track, supported by our Youth Opportunities Pathways program! \n\nOn Track aims to expose youth to a variety of careers and connect them with adult mentors with similar lived experiences by featuring hands-on exhibits and career coaching. If you would like to support Bay Area youth, please consider learning more about our program or donating by visiting, https:\/\/okt.to\/zYmCFg!\n\nFeaturing Carolina Mart\u00edn, Jason Mendez, and Nicole Harden\n\n#TheWorkUWBA "
+                        },
+                        "entityUrn": "urn:li:ugcPost:7201246032528039936"
+                    },
+                    "entityUrn": "urn:li:ugcPost:7201420570159194112"
+                }
+            }
+        },
+        {
+            "createdAt": 1715204880000,
+            "insightId": "44f30e3f-107b-4381-9934-ceabbe10ea16",
+            "activityUnion": {
+                "postActivity": {
+                    "socialMetadata": {
+                        "reactionTypeCounts": [
+                            {
+                                "type": "LIKE",
+                                "count": 4
+                            },
+                            {
+                                "type": "EMPATHY",
+                                "count": 3
+                            }
+                        ],
+                        "entityUrn": "urn:li:fs_salesSocialMetadata:urn:li:activity:7194090753654939648",
+                        "threadUrn": "urn:li:activity:7194090753654939648",
+                        "reactionsCount": 7,
+                        "commentsCount": 0,
+                        "canComment": true
+                    },
+                    "activityUrl": "https:\/\/www.linkedin.com\/feed\/sales-navigator\/urn:li:share:7194090753239703553",
+                    "message": {
+                        "attributes": [],
+                        "text": "Thank you UWBA for championing these great programs\u2014colleagues, check them out!"
+                    },
+                    "rootActivity": {
+                        "contentSummaryUnion": {
+                            "mediaContentSummary": {
+                                "mediaType": "STILLIMAGE",
+                                "thumnailUrl": "https:\/\/media.licdn.com\/dms\/image\/D5610AQG0QwVZ-bHQSQ\/image-shrink_1280\/0\/1715013724321?e=1717977600&v=beta&t=efQoXrOLvMdR8EyBg31sbscpADCdiRDoip0PNyxtgL8"
+                            }
+                        },
+                        "activityUrl": "https:\/\/www.linkedin.com\/feed\/sales-navigator\/urn:li:share:7193288931151351808",
+                        "message": {
+                            "attributes": [
+                                {
+                                    "start": 6,
+                                    "length": 43,
+                                    "value": {
+                                        "com.linkedin.common.HashtagAttributedEntity": {
+                                            "hashtag": "urn:li:hashtag:asianamericannativehawaiianpacificislander"
+                                        }
+                                    }
+                                },
+                                {
+                                    "start": 313,
+                                    "length": 21,
+                                    "value": {
+                                        "com.linkedin.common.HyperlinkAttributedEntity": {
+                                            "url": "https:\/\/okt.to\/UGyOZL"
+                                        }
+                                    }
+                                },
+                                {
+                                    "start": 496,
+                                    "length": 12,
+                                    "value": {
+                                        "com.linkedin.common.HashtagAttributedEntity": {
+                                            "hashtag": "urn:li:hashtag:theworkuwba"
+                                        }
+                                    }
+                                }
+                            ],
+                            "text": "Happy #AsianAmericanNativeHawaiianPacificIslander, and Jewish American Heritage Month! \n\nAs UWBA celebrates both Asian American Pacific Islander Heritage Month and Jewish American Heritage Month, we encourage you to explore these highlights from The Journey (as well as a few bonus pieces!) throughout May. Visit https:\/\/okt.to\/UGyOZL to find more resources like from The Journey! \n\nWe hope these resources provide insight into some reflections, shared learnings, conversation, and celebration!  #TheWorkUWBA "
+                        },
+                        "entityUrn": "urn:li:share:7193288931151351808"
+                    },
+                    "entityUrn": "urn:li:share:7194090753239703553"
+                }
+            }
+        },
+        {
+            "createdAt": 1713565560000,
+            "insightId": "77c19937-fa15-4e83-b065-9e22e091444a",
+            "activityUnion": {
+                "postActivity": {
+                    "socialMetadata": {
+                        "reactionTypeCounts": [
+                            {
+                                "type": "PRAISE",
+                                "count": 3
+                            },
+                            {
+                                "type": "LIKE",
+                                "count": 21
+                            },
+                            {
+                                "type": "EMPATHY",
+                                "count": 9
+                            },
+                            {
+                                "type": "INTEREST",
+                                "count": 1
+                            }
+                        ],
+                        "entityUrn": "urn:li:fs_salesSocialMetadata:urn:li:activity:7187214921439277056",
+                        "threadUrn": "urn:li:activity:7187214921439277056",
+                        "reactionsCount": 34,
+                        "commentsCount": 1,
+                        "canComment": true
+                    },
+                    "activityUrl": "https:\/\/www.linkedin.com\/feed\/sales-navigator\/urn:li:share:7187214920965337088",
+                    "message": {
+                        "attributes": [],
+                        "text": "Lyell is looking forward to having two interns from this great Program!"
+                    },
+                    "rootActivity": {
+                        "contentSummaryUnion": {
+                            "mediaContentSummary": {
+                                "mediaType": "STILLIMAGE",
+                                "thumnailUrl": "https:\/\/media.licdn.com\/dms\/image\/D5622AQHlpRSpZQpu-w\/feedshare-shrink_2048_1536\/0\/1713240101358?e=1720051200&v=beta&t=6VFHhtOlWN7HfPdUxXjXL_q27PheU0TEC90Pb7tm_sc"
+                            }
+                        },
+                        "activityUrl": "https:\/\/www.linkedin.com\/feed\/sales-navigator\/urn:li:share:7185849814784356352",
+                        "message": {
+                            "attributes": [
+                                {
+                                    "length": 14,
+                                    "start": 94,
+                                    "value": {
+                                        "com.linkedin.common.CompanyAttributedEntity": {
+                                            "company": "urn:li:company:36015025"
+                                        }
+                                    }
+                                },
+                                {
+                                    "length": 27,
+                                    "start": 131,
+                                    "value": {
+                                        "com.linkedin.common.CompanyAttributedEntity": {
+                                            "company": "urn:li:company:74396709"
+                                        }
+                                    }
+                                },
+                                {
+                                    "length": 25,
+                                    "start": 159,
+                                    "value": {
+                                        "com.linkedin.common.CompanyAttributedEntity": {
+                                            "company": "urn:li:company:10934952"
+                                        }
+                                    }
+                                },
+                                {
+                                    "length": 28,
+                                    "start": 185,
+                                    "value": {
+                                        "com.linkedin.common.CompanyAttributedEntity": {
+                                            "company": "urn:li:company:54130668"
+                                        }
+                                    }
+                                },
+                                {
+                                    "length": 31,
+                                    "start": 214,
+                                    "value": {
+                                        "com.linkedin.common.CompanyAttributedEntity": {
+                                            "company": "urn:li:company:52181238"
+                                        }
+                                    }
+                                },
+                                {
+                                    "length": 27,
+                                    "start": 250,
+                                    "value": {
+                                        "com.linkedin.common.CompanyAttributedEntity": {
+                                            "company": "urn:li:company:86937139"
+                                        }
+                                    }
+                                },
+                                {
+                                    "length": 27,
+                                    "start": 988,
+                                    "value": {
+                                        "com.linkedin.common.CompanyAttributedEntity": {
+                                            "company": "urn:li:company:74396709"
+                                        }
+                                    }
+                                },
+                                {
+                                    "length": 25,
+                                    "start": 1249,
+                                    "value": {
+                                        "com.linkedin.common.HyperlinkAttributedEntity": {
+                                            "url": "https:\/\/projectonramp.us\/"
+                                        }
+                                    }
+                                }
+                            ],
+                            "text": "We are looking to open more doors for  summer interns to enter Life Science companies through Project Onramp, a program offered at Life Science Cares Bay Area Life Science Cares Boston Life Science Cares San Diego Life Science Cares Philadelphia and Life Science Cares New York\n\nThis is an opportunity to provide promising undergraduate students from under-resourced backgrounds (Low income, first generation, BIPOC etc...) a chance to enter the opportunity-rich filled field of Life Sciences.\n\nOne of the biggest misconceptions by the students I talk to about Life Sciences is that you need a Science major to enter Biotech. The truth is virtually every major is welcome within Life Sciences: there are HR, Marketing, Analytics, Finance, Supply chain,  Government and Public Affairs even corporate philanthropy and so many other fields within Life Sciences leading to fulfilling careers for those with the desire and  hunger to succeed.\n\nBelow are students from our 2023 summer class at Life Science Cares Bay Area,  upon graduation they shared with great excitement the transformational opportunity provided by Project Onramp. Please let us know if you have a summer opportunity for one of these students. Check our website for more information.  https:\/\/projectonramp.us\/"
+                        },
+                        "entityUrn": "urn:li:share:7185849814784356352"
+                    },
+                    "entityUrn": "urn:li:share:7187214920965337088"
+                }
+            }
+        },
+        {
+            "createdAt": 1712786220000,
+            "insightId": "ae351630-5e1a-46d5-b18e-defe0cc2e093",
+            "activityUnion": {
+                "postActivity": {
+                    "socialMetadata": {
+                        "reactionTypeCounts": [
+                            {
+                                "type": "PRAISE",
+                                "count": 6
+                            },
+                            {
+                                "type": "APPRECIATION",
+                                "count": 2
+                            },
+                            {
+                                "type": "LIKE",
+                                "count": 29
+                            },
+                            {
+                                "type": "EMPATHY",
+                                "count": 1
+                            }
+                        ],
+                        "entityUrn": "urn:li:fs_salesSocialMetadata:urn:li:activity:7183946168219889665",
+                        "threadUrn": "urn:li:activity:7183946168219889665",
+                        "reactionsCount": 38,
+                        "commentsCount": 3,
+                        "canComment": true
+                    },
+                    "activityUrl": "https:\/\/www.linkedin.com\/feed\/sales-navigator\/urn:li:share:7183946167703990272",
+                    "message": {
+                        "attributes": [],
+                        "text": "Looking forward to Chairing this event and learning from a line up of exceptional Leaders"
+                    },
+                    "rootActivity": {
+                        "contentSummaryUnion": {
+                            "ingestedContentSummary": {
+                                "image": {
+                                    "attributes": [
+                                        {
+                                            "originalImageUrl": "https:\/\/media.licdn.com\/dms\/image\/D4D10AQHmOrLaUPusuw\/image-shrink_1280\/0\/1712736262734\/TopCompaniesMaster1png?e=1717977600&v=beta&t=ZFXeBZp-BugZV3qZqPKIgulTSt96YkRSD6ydf7YGrQ0",
+                                            "sourceType": "URL",
+                                            "imageUrl": "https:\/\/media.licdn.com\/dms\/image\/D4D10AQHmOrLaUPusuw\/image-shrink_1280\/0\/1712736262734\/TopCompaniesMaster1png?e=1717977600&v=beta&t=ZFXeBZp-BugZV3qZqPKIgulTSt96YkRSD6ydf7YGrQ0"
+                                        }
+                                    ]
+                                },
+                                "resolvedUrl": "https:\/\/leap-hr-lifesciences-west.com\/program\/full-event-guide\/?utm_source=digital&utm_medium=ppc&utm_campaign=content&utm_content=linkedin\/sponsored-ad\/audience\/ev-41806",
+                                "title": "Download Your Free Copy of the Agenda! LEAP HR: Life Sciences West 2024 | May 13-15, San Diego"
+                            }
+                        },
+                        "activityUrl": "https:\/\/www.linkedin.com\/feed\/sales-navigator\/urn:li:share:7183738565481152512",
+                        "message": {
+                            "attributes": [],
+                            "text": "Working within HR, TA, or People Development in a San Fran or San Diego Biotech\u2753\n\nThis is the one conference in 2024 you cannot miss!\n\nReturning for its 6th year, the largest Biotech specific HR conference now has:\n\u2705150+ HR Professionals in the Room\n\u270535+ Expert Speakers from Biotech & Pharma\n\u27053-Days of Content \n\nLearn more today!"
+                        },
+                        "entityUrn": "urn:li:share:7183738565481152512"
+                    },
+                    "entityUrn": "urn:li:share:7183946167703990272"
+                }
+            }
+        },
+        {
+            "createdAt": 1711239600000,
+            "insightId": "1343ecea-4a50-40fb-b7d2-014344e6eda9",
+            "activityUnion": {
+                "postActivity": {
+                    "socialMetadata": {
+                        "reactionTypeCounts": [
+                            {
+                                "type": "PRAISE",
+                                "count": 4
+                            },
+                            {
+                                "type": "APPRECIATION",
+                                "count": 1
+                            },
+                            {
+                                "type": "LIKE",
+                                "count": 48
+                            },
+                            {
+                                "type": "EMPATHY",
+                                "count": 5
+                            }
+                        ],
+                        "entityUrn": "urn:li:fs_salesSocialMetadata:urn:li:activity:7177459101541568512",
+                        "threadUrn": "urn:li:activity:7177459101541568512",
+                        "reactionsCount": 58,
+                        "commentsCount": 3,
+                        "canComment": true
+                    },
+                    "activityUrl": "https:\/\/www.linkedin.com\/feed\/sales-navigator\/urn:li:share:7177459101042401280",
+                    "message": {
+                        "attributes": [],
+                        "text": "So proud to work at this Company\u2026"
+                    },
+                    "rootActivity": {
+                        "contentSummaryUnion": {
+                            "mediaContentSummary": {
+                                "mediaType": "STILLIMAGE",
+                                "thumnailUrl": "https:\/\/media.licdn.com\/dms\/image\/D5622AQEgZrx1RpfZmQ\/feedshare-shrink_2048_1536\/0\/1711146232285?e=1720051200&v=beta&t=ZqTepZ6MsvI4vE15_QeHQqACb7JyPG0aTgA36bVXxQE"
+                            }
+                        },
+                        "activityUrl": "https:\/\/www.linkedin.com\/feed\/sales-navigator\/urn:li:share:7177067490940780544",
+                        "message": {
+                            "attributes": [],
+                            "text": ""
+                        },
+                        "entityUrn": "urn:li:share:7177067490940780544"
+                    },
+                    "entityUrn": "urn:li:share:7177459101042401280"
+                }
+            }
+        },
+        {
+            "createdAt": 1710294720000,
+            "insightId": "1ce9b247-3c68-44c6-b504-d681fe6e6370",
+            "activityUnion": {
+                "postActivity": {
+                    "socialMetadata": {
+                        "reactionTypeCounts": [
+                            {
+                                "type": "LIKE",
+                                "count": 5
+                            }
+                        ],
+                        "entityUrn": "urn:li:fs_salesSocialMetadata:urn:li:activity:7173496062630879233",
+                        "threadUrn": "urn:li:activity:7173496062630879233",
+                        "reactionsCount": 5,
+                        "commentsCount": 0,
+                        "canComment": true
+                    },
+                    "activityUrl": "https:\/\/www.linkedin.com\/feed\/sales-navigator\/urn:li:share:7173496062022705152",
+                    "message": {
+                        "attributes": [],
+                        "text": "Exciting opportunity to make a difference for patients with solid tumor cancers!"
+                    },
+                    "rootActivity": {
+                        "contentSummaryUnion": {
+                            "referenceContentSummary": {
+                                "entityUrn": "urn:li:job:3851221464"
+                            }
+                        },
+                        "activityUrl": "https:\/\/www.linkedin.com\/feed\/sales-navigator\/urn:li:share:7173343211371913216",
+                        "message": {
+                            "attributes": [
+                                {
+                                    "start": 0,
+                                    "length": 16,
+                                    "value": {
+                                        "com.linkedin.common.HashtagAttributedEntity": {
+                                            "hashtag": "urn:li:hashtag:comejoinourteam"
+                                        }
+                                    }
+                                }
+                            ],
+                            "text": "#comejoinourteam "
+                        },
+                        "entityUrn": "urn:li:share:7173343211371913216"
+                    },
+                    "entityUrn": "urn:li:share:7173496062022705152"
+                }
+            }
+        },
+        {
+            "createdAt": 1715204700000,
+            "insightId": "ba3fc6d2-4dda-41df-9339-32fe408ac310",
+            "activityUnion": {
+                "commentActivity": {
+                    "socialMetadata": {
+                        "reactionTypeCounts": [
+                            {
+                                "type": "EMPATHY",
+                                "count": 1
+                            }
+                        ],
+                        "entityUrn": "urn:li:fs_salesSocialMetadata:urn:li:comment:(ugcPost:7192336470404206594,7194090130809237504)",
+                        "threadUrn": "urn:li:ugcPost:7192336470404206594",
+                        "reactionsCount": 1,
+                        "commentsCount": 0,
+                        "canComment": true
+                    },
+                    "commentary": {
+                        "attributes": [],
+                        "text": "Congrats Leslie!!"
+                    },
+                    "activityUrl": "https:\/\/www.linkedin.com\/feed\/sales-navigator\/urn:li:ugcPost:7192336470404206594"
+                }
+            }
+        },
+        {
+            "createdAt": 1714781400000,
+            "insightId": "6e2091a6-6754-4c35-af8e-e318fd653006",
+            "activityUnion": {
+                "commentActivity": {
+                    "socialMetadata": {
+                        "reactionTypeCounts": [
+                            {
+                                "type": "EMPATHY",
+                                "count": 1
+                            }
+                        ],
+                        "entityUrn": "urn:li:fs_salesSocialMetadata:urn:li:comment:(activity:7192300568382431232,7192314633272135680)",
+                        "threadUrn": "urn:li:activity:7192300568382431232",
+                        "reactionsCount": 1,
+                        "commentsCount": 0,
+                        "canComment": true
+                    },
+                    "commentary": {
+                        "attributes": [],
+                        "text": "Great Job!!!"
+                    },
+                    "activityUrl": "https:\/\/www.linkedin.com\/feed\/sales-navigator\/urn:li:activity:7192300568382431232"
+                }
+            }
+        },
+        {
+            "createdAt": 1714713540000,
+            "insightId": "b000ba65-51e0-47fb-beb1-28fff27f537d",
+            "activityUnion": {
+                "commentActivity": {
+                    "socialMetadata": {
+                        "reactionTypeCounts": [],
+                        "entityUrn": "urn:li:fs_salesSocialMetadata:urn:li:comment:(activity:7191830293836623872,7192030014559735808)",
+                        "threadUrn": "urn:li:activity:7191830293836623872",
+                        "reactionsCount": 0,
+                        "commentsCount": 0,
+                        "canComment": true
+                    },
+                    "commentary": {
+                        "attributes": [],
+                        "text": "Great job UWBA!!"
+                    },
+                    "activityUrl": "https:\/\/www.linkedin.com\/feed\/sales-navigator\/urn:li:activity:7191830293836623872"
+                }
+            }
+        },
+        {
+            "createdAt": 1714187880000,
+            "insightId": "5d591675-1bc3-4c45-b922-fe096bff327f",
+            "activityUnion": {
+                "commentActivity": {
+                    "socialMetadata": {
+                        "reactionTypeCounts": [
+                            {
+                                "type": "EMPATHY",
+                                "count": 1
+                            }
+                        ],
+                        "entityUrn": "urn:li:fs_salesSocialMetadata:urn:li:comment:(activity:7189805543329353728,7189825170117660672)",
+                        "threadUrn": "urn:li:activity:7189805543329353728",
+                        "reactionsCount": 1,
+                        "commentsCount": 0,
+                        "canComment": true
+                    },
+                    "commentary": {
+                        "attributes": [],
+                        "text": "You\u2019re a great part of the HR Team Kristina!! Wish I had an opening\u2026"
+                    },
+                    "activityUrl": "https:\/\/www.linkedin.com\/feed\/sales-navigator\/urn:li:activity:7189805543329353728"
+                }
+            }
+        },
+        {
+            "createdAt": 1713565500000,
+            "insightId": "528ae1d5-9df6-4ea9-8b07-d3ac3014f365",
+            "activityUnion": {
+                "commentActivity": {
+                    "socialMetadata": {
+                        "reactionTypeCounts": [
+                            {
+                                "type": "EMPATHY",
+                                "count": 1
+                            }
+                        ],
+                        "entityUrn": "urn:li:fs_salesSocialMetadata:urn:li:comment:(activity:7185849816520749056,7187214847724384256)",
+                        "threadUrn": "urn:li:activity:7185849816520749056",
+                        "reactionsCount": 1,
+                        "commentsCount": 0,
+                        "canComment": true
+                    },
+                    "commentary": {
+                        "attributes": [],
+                        "text": "Lyell is looking forward to having two interns from this great Program!"
+                    },
+                    "activityUrl": "https:\/\/www.linkedin.com\/feed\/sales-navigator\/urn:li:activity:7185849816520749056"
+                }
+            }
+        },
+        {
+            "createdAt": 1713197700000,
+            "insightId": "71b16168-6ebb-4307-af6c-1e22f35a3b49",
+            "activityUnion": {
+                "commentActivity": {
+                    "socialMetadata": {
+                        "reactionTypeCounts": [],
+                        "entityUrn": "urn:li:fs_salesSocialMetadata:urn:li:comment:(ugcPost:7185652322381799424,7185672196856463360)",
+                        "threadUrn": "urn:li:ugcPost:7185652322381799424",
+                        "reactionsCount": 0,
+                        "commentsCount": 0,
+                        "canComment": true
+                    },
+                    "commentary": {
+                        "attributes": [],
+                        "text": "Congrats Vonnie!!"
+                    },
+                    "activityUrl": "https:\/\/www.linkedin.com\/feed\/sales-navigator\/urn:li:ugcPost:7185652322381799424"
+                }
+            }
+        },
+        {
+            "createdAt": 1712962080000,
+            "insightId": "219ee0c0-2630-42a2-b6de-e4047d86861a",
+            "activityUnion": {
+                "commentActivity": {
+                    "socialMetadata": {
+                        "reactionTypeCounts": [
+                            {
+                                "type": "PRAISE",
+                                "count": 1
+                            }
+                        ],
+                        "entityUrn": "urn:li:fs_salesSocialMetadata:urn:li:comment:(activity:7184669113791778816,7184683850189475840)",
+                        "threadUrn": "urn:li:activity:7184669113791778816",
+                        "reactionsCount": 1,
+                        "commentsCount": 0,
+                        "canComment": true
+                    },
+                    "commentary": {
+                        "attributes": [],
+                        "text": "Congrats!"
+                    },
+                    "activityUrl": "https:\/\/www.linkedin.com\/feed\/sales-navigator\/urn:li:activity:7184669113791778816"
+                }
+            }
+        },
+        {
+            "createdAt": 1711822260000,
+            "insightId": "60a90871-744a-4038-88fd-4731b6288190",
+            "activityUnion": {
+                "commentActivity": {
+                    "socialMetadata": {
+                        "reactionTypeCounts": [],
+                        "entityUrn": "urn:li:fs_salesSocialMetadata:urn:li:comment:(ugcPost:7179150124567203841,7179903169773129728)",
+                        "threadUrn": "urn:li:ugcPost:7179150124567203841",
+                        "reactionsCount": 0,
+                        "commentsCount": 0,
+                        "canComment": true
+                    },
+                    "commentary": {
+                        "attributes": [],
+                        "text": "Excellent Panel! Thank you!"
+                    },
+                    "activityUrl": "https:\/\/www.linkedin.com\/feed\/sales-navigator\/urn:li:ugcPost:7179150124567203841"
+                }
+            }
+        },
+        {
+            "createdAt": 1711687980000,
+            "insightId": "860f2632-d0aa-4c3b-8556-d7d67a9e17ff",
+            "activityUnion": {
+                "commentActivity": {
+                    "socialMetadata": {
+                        "reactionTypeCounts": [],
+                        "entityUrn": "urn:li:fs_salesSocialMetadata:urn:li:comment:(activity:7179225654171697153,7179339850792202240)",
+                        "threadUrn": "urn:li:activity:7179225654171697153",
+                        "reactionsCount": 0,
+                        "commentsCount": 0,
+                        "canComment": true
+                    },
+                    "commentary": {
+                        "attributes": [],
+                        "text": "Congratulations Yayra!!!"
+                    },
+                    "activityUrl": "https:\/\/www.linkedin.com\/feed\/sales-navigator\/urn:li:activity:7179225654171697153"
+                }
+            }
+        },
+        {
+            "createdAt": 1711054620000,
+            "insightId": "90ec9074-dc27-403a-bd12-950fb21e6c9c",
+            "activityUnion": {
+                "commentActivity": {
+                    "socialMetadata": {
+                        "reactionTypeCounts": [],
+                        "entityUrn": "urn:li:fs_salesSocialMetadata:urn:li:comment:(ugcPost:7176333765097508867,7176683317398831104)",
+                        "threadUrn": "urn:li:ugcPost:7176333765097508867",
+                        "reactionsCount": 0,
+                        "commentsCount": 0,
+                        "canComment": true
+                    },
+                    "commentary": {
+                        "attributes": [],
+                        "text": "Congratulations SFSU and Sparkpoint!"
+                    },
+                    "activityUrl": "https:\/\/www.linkedin.com\/feed\/sales-navigator\/urn:li:ugcPost:7176333765097508867"
+                }
+            }
+        },
+        {
+            "createdAt": 1710960540000,
+            "insightId": "eb16e97a-fb3b-4d70-8e1a-54ae4caf66d9",
+            "activityUnion": {
+                "commentActivity": {
+                    "socialMetadata": {
+                        "reactionTypeCounts": [],
+                        "entityUrn": "urn:li:fs_salesSocialMetadata:urn:li:comment:(ugcPost:7175482666362810368,7176288712538886144)",
+                        "threadUrn": "urn:li:ugcPost:7175482666362810368",
+                        "reactionsCount": 0,
+                        "commentsCount": 0,
+                        "canComment": true
+                    },
+                    "commentary": {
+                        "attributes": [],
+                        "text": "Congrats Jonathan"
+                    },
+                    "activityUrl": "https:\/\/www.linkedin.com\/feed\/sales-navigator\/urn:li:ugcPost:7175482666362810368"
+                }
+            }
+        },
+        {
+            "createdAt": 1710898920000,
+            "insightId": "c0162fa3-4548-45dd-9391-6a02d14f8176",
+            "activityUnion": {
+                "commentActivity": {
+                    "socialMetadata": {
+                        "reactionTypeCounts": [
+                            {
+                                "type": "EMPATHY",
+                                "count": 1
+                            }
+                        ],
+                        "entityUrn": "urn:li:fs_salesSocialMetadata:urn:li:comment:(activity:7175888881005834242,7176030378304921600)",
+                        "threadUrn": "urn:li:activity:7175888881005834242",
+                        "reactionsCount": 1,
+                        "commentsCount": 1,
+                        "canComment": true
+                    },
+                    "commentary": {
+                        "attributes": [],
+                        "text": "So well deserved!! Congratulations \ud83c\udf89"
+                    },
+                    "activityUrl": "https:\/\/www.linkedin.com\/feed\/sales-navigator\/urn:li:activity:7175888881005834242"
+                }
+            }
+        },
+        {
+            "createdAt": 1710298860000,
+            "insightId": "34a4632a-343f-47c6-b99d-6d8cfd7f7af4",
+            "activityUnion": {
+                "commentActivity": {
+                    "socialMetadata": {
+                        "reactionTypeCounts": [],
+                        "entityUrn": "urn:li:fs_salesSocialMetadata:urn:li:comment:(ugcPost:7173428952168955904,7173513525040963584)",
+                        "threadUrn": "urn:li:ugcPost:7173428952168955904",
+                        "reactionsCount": 0,
+                        "commentsCount": 0,
+                        "canComment": true
+                    },
+                    "commentary": {
+                        "attributes": [],
+                        "text": "Congratulations Liz!"
+                    },
+                    "activityUrl": "https:\/\/www.linkedin.com\/feed\/sales-navigator\/urn:li:ugcPost:7173428952168955904"
+                }
+            }
+        },
+        {
+            "createdAt": 1710298800000,
+            "insightId": "37499b44-539f-433e-9e52-b3dbe4b08d7c",
+            "activityUnion": {
+                "commentActivity": {
+                    "socialMetadata": {
+                        "reactionTypeCounts": [],
+                        "entityUrn": "urn:li:fs_salesSocialMetadata:urn:li:comment:(ugcPost:7170489714628648960,7173513173872963584)",
+                        "threadUrn": "urn:li:ugcPost:7170489714628648960",
+                        "reactionsCount": 0,
+                        "commentsCount": 0,
+                        "canComment": true
+                    },
+                    "commentary": {
+                        "attributes": [],
+                        "text": "Congrats Liam!!"
+                    },
+                    "activityUrl": "https:\/\/www.linkedin.com\/feed\/sales-navigator\/urn:li:ugcPost:7170489714628648960"
+                }
+            }
+        }
+    ]
+}

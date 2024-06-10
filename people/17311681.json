@@ -1,0 +1,706 @@
+{
+    "summary": "Senior eDC Clinical Database Designer\/Principal Design Consultant.\nAn experienced eDC Clinical Database Design Professional with an understanding of solutions, industry best practices, business processes and agile technology designs within a product\/technology family. Manages the creation of Medidata Rave and InForm Databases for Clinical Trials for multiple Therapeutic Area studies, specifically Oncology. \nManages the Design and Development of Clinical Trials, including Database Build, Design and Testing. Builds Electronic Case Report Forms (eCRFs), Edit Checks, Dynamics, Schedule of Assessments (Matrix and Folders) and eCRF guideline documentation for Cancer and Inflammatory disease studies by researching protocols and methods in conjunction with Clinical Study Team members. My current software uses are: Medidata Rave; Central Designer v6.3 and Inform v6.3; Medidata Rave and Veeva Vault.\n\nSpecialties:\nClinical Programming, Dynamics\/Annotations\/Edit Checks\neDC Medidata Rave 5.6.3, 5.6.4, 2020\neDC Veeva Vault CDMS Studio 2020\neDC Phase Forward Central Designer versions 1.1, 1.4, 2.0, 5.0, 5.5, 6.1, 6.3\neDC Phase Forward Inform versions 4.6, 5.5, 6.0, 6.1, 6.3\neCRF Design and Development Training in the following databases: Veeva Vault, Medrio, TrialKit and IBM\nGCP\/ICH Training\nCDISC\/CDASH STDM Training\nOncology Target Lesions Recist 1.1 Training\nVeeva Vault CDMS Studio 2020\nDatabase Testing\nWriting test scripts\nDatabase Administration\nData Management\nProtocol review\/research\nIVRS\/IRT\/LNMT Integrations\nHTML\nMeeting\/Presentation skills\nTechnical and Clinical Writing",
+    "pastPositions": [
+        {
+            "endedOn": {
+                "month": 9,
+                "year": 2021
+            },
+            "companyName": "ADC Therapeutics",
+            "title": "Database Programmer, Biometrics",
+            "companyUrn": "urn:li:fs_salesCompany:8297253",
+            "posId": 1,
+            "current": true,
+            "startedOn": {
+                "month": 5,
+                "year": 2021
+            }
+        }
+    ],
+    "lastName": "Sukla",
+    "objectUrn": "urn:li:member:17311681",
+    "geoRegion": "Greater Philadelphia",
+    "fullName": "Annie Sukla",
+    "firstName": "Annie",
+    "currentPositions": [],
+    "entityUrn": "urn:li:fs_salesProfile:(ACwAAAEIJ8EBwWg_4JDcnSRTmQBj0geNjIoXXx0,NAME_SEARCH,vZB-)",
+    "profilePictureDisplayImage": {
+        "artifacts": [
+            {
+                "width": 100,
+                "fileIdentifyingUrlPathSegment": "100_100\/0\/1569803913137?e=1723075200&v=beta&t=OZWLqfypmRo4v5_CS1tqJAQ_JKIVeuT9PvTeJsxmVnA",
+                "height": 100
+            },
+            {
+                "width": 200,
+                "fileIdentifyingUrlPathSegment": "200_200\/0\/1569803913107?e=1723075200&v=beta&t=oKyl_U3v0Pc4LsBNixmGEUPyeJ0Ywmszomngyo15osU",
+                "height": 200
+            },
+            {
+                "width": 400,
+                "fileIdentifyingUrlPathSegment": "400_400\/0\/1569803913171?e=1723075200&v=beta&t=IrFWR0BzyYFTVNFJNxh3OnoAUI6oFGgLmuBtcyANmw8",
+                "height": 400
+            },
+            {
+                "width": 450,
+                "fileIdentifyingUrlPathSegment": "800_800\/0\/1569803913249?e=1723075200&v=beta&t=RhRT6iq70sTvr6BIoLgAcaJYGQJPeej71MJTf64Eavw",
+                "height": 450
+            }
+        ],
+        "rootUrl": "https:\/\/media.licdn.com\/dms\/image\/C4E03AQHQIFXOE3DarA\/profile-displayphoto-shrink_"
+    },
+    "projects": [],
+    "contactInfo": {},
+    "industry": "Biotechnology Research",
+    "educations": [
+        {
+            "endedOn": {
+                "year": 2007
+            },
+            "degree": "Business Management",
+            "eduId": 37644295,
+            "schoolUrn": "urn:li:fs_salesSchool:290755",
+            "school": "urn:li:fs_salesSchool:290755",
+            "fieldsOfStudy": [
+                "Associates in Applied Science"
+            ],
+            "schoolName": "Mercer County Community College",
+            "startedOn": {
+                "year": 2001
+            }
+        },
+        {
+            "fieldsOfStudy": [
+                "Computer and Information Sciences and Support Services"
+            ],
+            "degree": "Certification",
+            "schoolName": "The Cittone Institute",
+            "eduId": 351704299
+        }
+    ],
+    "skills": [
+        {
+            "numOfEndorsement": 1,
+            "name": "Data Validation"
+        },
+        {
+            "numOfEndorsement": 35,
+            "name": "EDC"
+        },
+        {
+            "numOfEndorsement": 20,
+            "name": "Oncology"
+        },
+        {
+            "numOfEndorsement": 15,
+            "name": "Pharmaceutical Industry"
+        },
+        {
+            "numOfEndorsement": 13,
+            "name": "CRF design"
+        },
+        {
+            "numOfEndorsement": 15,
+            "name": "Data Management"
+        },
+        {
+            "numOfEndorsement": 3,
+            "name": "Clinical Programming"
+        },
+        {
+            "numOfEndorsement": 7,
+            "name": "Databases"
+        },
+        {
+            "numOfEndorsement": 4,
+            "name": "Database Design"
+        },
+        {
+            "numOfEndorsement": 2,
+            "name": "Database Development"
+        },
+        {
+            "numOfEndorsement": 19,
+            "name": "Clinical Trials"
+        },
+        {
+            "numOfEndorsement": 11,
+            "name": "Therapeutic Areas"
+        },
+        {
+            "numOfEndorsement": 1,
+            "name": "Phase II\/III Clinical Trials"
+        },
+        {
+            "numOfEndorsement": 0,
+            "name": "Inform 4.6"
+        },
+        {
+            "numOfEndorsement": 1,
+            "name": "Phase Forward InForm"
+        },
+        {
+            "numOfEndorsement": 0,
+            "name": "Central Designer v.1.1, 1.3, 1.4"
+        },
+        {
+            "numOfEndorsement": 2,
+            "name": "eCRF"
+        },
+        {
+            "numOfEndorsement": 2,
+            "name": "Clinical Workflow"
+        },
+        {
+            "numOfEndorsement": 8,
+            "name": "Clinical Development"
+        },
+        {
+            "numOfEndorsement": 8,
+            "name": "Clinical Research"
+        },
+        {
+            "numOfEndorsement": 3,
+            "name": "ICH-GCP"
+        },
+        {
+            "numOfEndorsement": 3,
+            "name": "CDISC"
+        },
+        {
+            "numOfEndorsement": 4,
+            "name": "Clinical Study Design"
+        },
+        {
+            "numOfEndorsement": 9,
+            "name": "GCP"
+        },
+        {
+            "numOfEndorsement": 9,
+            "name": "CRO"
+        },
+        {
+            "numOfEndorsement": 6,
+            "name": "21 CFR Part 11"
+        },
+        {
+            "numOfEndorsement": 6,
+            "name": "CTMS"
+        },
+        {
+            "numOfEndorsement": 5,
+            "name": "Clinical Data Management"
+        },
+        {
+            "numOfEndorsement": 1,
+            "name": "Clinical Pharmacology"
+        },
+        {
+            "numOfEndorsement": 4,
+            "name": "Biotechnology"
+        },
+        {
+            "numOfEndorsement": 1,
+            "name": "SOP development"
+        },
+        {
+            "numOfEndorsement": 2,
+            "name": "HTML"
+        },
+        {
+            "numOfEndorsement": 5,
+            "name": "Software Documentation"
+        },
+        {
+            "numOfEndorsement": 4,
+            "name": "Medical Writing"
+        },
+        {
+            "numOfEndorsement": 0,
+            "name": "Clinical Writing"
+        },
+        {
+            "numOfEndorsement": 0,
+            "name": "TFS"
+        },
+        {
+            "numOfEndorsement": 0,
+            "name": "eTMF"
+        },
+        {
+            "numOfEndorsement": 6,
+            "name": "SOP"
+        },
+        {
+            "numOfEndorsement": 3,
+            "name": "Protocol"
+        },
+        {
+            "numOfEndorsement": 0,
+            "name": "J-Review"
+        },
+        {
+            "numOfEndorsement": 3,
+            "name": "Management"
+        },
+        {
+            "numOfEndorsement": 0,
+            "name": "IVRS"
+        },
+        {
+            "numOfEndorsement": 0,
+            "name": "Integration"
+        },
+        {
+            "numOfEndorsement": 8,
+            "name": "Electronic Data Capture (EDC)"
+        },
+        {
+            "numOfEndorsement": 3,
+            "name": "Clinical Trial Management System (CTMS)"
+        },
+        {
+            "numOfEndorsement": 4,
+            "name": "Standard Operating Procedure (SOP)"
+        },
+        {
+            "numOfEndorsement": 6,
+            "name": "Good Clinical Practice (GCP)"
+        },
+        {
+            "numOfEndorsement": 2,
+            "name": "CDISC Standards"
+        },
+        {
+            "numOfEndorsement": 4,
+            "name": "CRO Management"
+        },
+        {
+            "numOfEndorsement": 2,
+            "name": "U.S. Title 21 CFR Part 11 Regulation"
+        }
+    ],
+    "pronoun": "She\/Her",
+    "numOfConnections": 829,
+    "patents": [],
+    "headline": "Clinical Database Programmer\/eDC Systems Designer, Data Management",
+    "courses": [],
+    "certifications": [
+        {
+            "name": "DIA"
+        }
+    ],
+    "memberBadges": {
+        "premium": false,
+        "openLink": false,
+        "jobSeeker": false
+    },
+    "flagshipProfileUrl": "https:\/\/www.linkedin.com\/in\/annie-sukla-40196a5",
+    "organizations": [],
+    "location": "Greater Philadelphia",
+    "publications": [],
+    "positions": null,
+    "posts": [
+        {
+            "createdAt": 1716467880000,
+            "insightId": "64f5f318-8743-4021-a9fd-575e97f774f4",
+            "activityUnion": {
+                "postActivity": {
+                    "socialMetadata": {
+                        "reactionTypeCounts": [
+                            {
+                                "type": "LIKE",
+                                "count": 4
+                            },
+                            {
+                                "type": "EMPATHY",
+                                "count": 2
+                            }
+                        ],
+                        "entityUrn": "urn:li:fs_salesSocialMetadata:urn:li:activity:7199388097384435713",
+                        "threadUrn": "urn:li:activity:7199388097384435713",
+                        "reactionsCount": 6,
+                        "commentsCount": 0,
+                        "canComment": true
+                    },
+                    "activityUrl": "https:\/\/www.linkedin.com\/feed\/sales-navigator\/urn:li:share:7199388096801501184",
+                    "message": {
+                        "attributes": [],
+                        "text": "Excellent! Way to go Dorothy!"
+                    },
+                    "rootActivity": {
+                        "contentSummaryUnion": {
+                            "mediaContentSummary": {
+                                "mediaType": "STILLIMAGE",
+                                "thumnailUrl": "https:\/\/media.licdn.com\/dms\/image\/D5610AQFpqOePjhVM_w\/image-shrink_1280\/0\/1716343211691?e=1717977600&v=beta&t=o4VUPy8Ag_MP7RgGrE99L570zvPw6VYxNL0cSzsBQEs"
+                            }
+                        },
+                        "activityUrl": "https:\/\/www.linkedin.com\/feed\/sales-navigator\/urn:li:share:7198865204535832576",
+                        "message": {
+                            "attributes": [
+                                {
+                                    "start": 48,
+                                    "length": 14,
+                                    "value": {
+                                        "com.linkedin.common.HashtagAttributedEntity": {
+                                            "hashtag": "urn:li:hashtag:positivevibes"
+                                        }
+                                    }
+                                },
+                                {
+                                    "start": 63,
+                                    "length": 17,
+                                    "value": {
+                                        "com.linkedin.common.HashtagAttributedEntity": {
+                                            "hashtag": "urn:li:hashtag:positiveattitude"
+                                        }
+                                    }
+                                },
+                                {
+                                    "start": 81,
+                                    "length": 13,
+                                    "value": {
+                                        "com.linkedin.common.HashtagAttributedEntity": {
+                                            "hashtag": "urn:li:hashtag:positivenews"
+                                        }
+                                    }
+                                }
+                            ],
+                            "text": "Ending this day by sharing something Positive.\n\n#PositiveVibes #PositiveAttitude #positivenews"
+                        },
+                        "entityUrn": "urn:li:share:7198865204535832576"
+                    },
+                    "entityUrn": "urn:li:share:7199388096801501184"
+                }
+            }
+        },
+        {
+            "createdAt": 1712012280000,
+            "insightId": "23e533e3-7b01-4688-9aba-a0e41c13c386",
+            "activityUnion": {
+                "postActivity": {
+                    "socialMetadata": {
+                        "reactionTypeCounts": [
+                            {
+                                "type": "LIKE",
+                                "count": 2
+                            },
+                            {
+                                "type": "EMPATHY",
+                                "count": 1
+                            }
+                        ],
+                        "entityUrn": "urn:li:fs_salesSocialMetadata:urn:li:ugcPost:7180700166956437504",
+                        "threadUrn": "urn:li:ugcPost:7180700166956437504",
+                        "reactionsCount": 3,
+                        "commentsCount": 0,
+                        "canComment": true
+                    },
+                    "activityUrl": "https:\/\/www.linkedin.com\/feed\/sales-navigator\/urn:li:ugcPost:7180700166956437504",
+                    "message": {
+                        "attributes": [],
+                        "text": "OMG this made my day:)) Thanks for posting, Quil!!"
+                    },
+                    "rootActivity": {
+                        "contentSummaryUnion": {
+                            "mediaContentSummary": {
+                                "mediaType": "VIDEO",
+                                "thumnailUrl": "https:\/\/dms.licdn.com\/playlist\/vid\/D4E05AQEHQtNup-F2cQ\/videocover-firstframe-low\/0\/1712004327458?e=1717977600&v=beta&t=L5NvjCOa4xj1DWUVGSke7dVb-9lT2l5vianjAblZFtY"
+                            }
+                        },
+                        "activityUrl": "https:\/\/www.linkedin.com\/feed\/sales-navigator\/urn:li:ugcPost:7180666590277857280",
+                        "message": {
+                            "attributes": [
+                                {
+                                    "length": 11,
+                                    "start": 344,
+                                    "value": {
+                                        "com.linkedin.common.HashtagAttributedEntity": {
+                                            "hashtag": "urn:li:hashtag:friendship"
+                                        }
+                                    }
+                                },
+                                {
+                                    "length": 5,
+                                    "start": 356,
+                                    "value": {
+                                        "com.linkedin.common.HashtagAttributedEntity": {
+                                            "hashtag": "urn:li:hashtag:love"
+                                        }
+                                    }
+                                },
+                                {
+                                    "length": 10,
+                                    "start": 362,
+                                    "value": {
+                                        "com.linkedin.common.HashtagAttributedEntity": {
+                                            "hashtag": "urn:li:hashtag:diversity"
+                                        }
+                                    }
+                                }
+                            ],
+                            "text": "Love knows no color or race. It transcends boundaries and connects hearts. In a world often divided, friendship reminds us that genuine connections are built on mutual respect and understanding. \n\nLet's celebrate the beauty of diversity in our friendships, embracing the unique perspectives each individual brings. \n\nOne Love Always \u2764\ufe0f\ud83d\udc9b\ud83d\udc9a\ud83e\udec2\n\n\n#Friendship #Love #Diversity"
+                        },
+                        "entityUrn": "urn:li:ugcPost:7180666590277857280"
+                    },
+                    "entityUrn": "urn:li:ugcPost:7180700166956437504"
+                }
+            }
+        },
+        {
+            "createdAt": 1712012160000,
+            "insightId": "699320d2-c75d-4437-83b1-6124a51a2582",
+            "activityUnion": {
+                "postActivity": {
+                    "socialMetadata": {
+                        "reactionTypeCounts": [],
+                        "entityUrn": "urn:li:fs_salesSocialMetadata:urn:li:ugcPost:7180699667553243136",
+                        "threadUrn": "urn:li:ugcPost:7180699667553243136",
+                        "reactionsCount": 0,
+                        "commentsCount": 0,
+                        "canComment": true
+                    },
+                    "activityUrl": "https:\/\/www.linkedin.com\/feed\/sales-navigator\/urn:li:ugcPost:7180699667553243136",
+                    "message": {
+                        "attributes": [],
+                        "text": "Love this one!"
+                    },
+                    "rootActivity": {
+                        "contentSummaryUnion": {
+                            "mediaContentSummary": {
+                                "mediaType": "STILLIMAGE",
+                                "thumnailUrl": "https:\/\/media.licdn.com\/dms\/image\/D5622AQH6mAh1kzl49A\/feedshare-shrink_2048_1536\/0\/1712008840188?e=1720051200&v=beta&t=9zGKyQwjeSGy8J6zUa9jnLJx_MF3-czMEKN9-r1YQ2s"
+                            }
+                        },
+                        "activityUrl": "https:\/\/www.linkedin.com\/feed\/sales-navigator\/urn:li:groupPost:13927028-7180685528932007937",
+                        "message": {
+                            "attributes": [
+                                {
+                                    "start": 407,
+                                    "length": 21,
+                                    "value": {
+                                        "com.linkedin.common.HashtagAttributedEntity": {
+                                            "hashtag": "urn:li:hashtag:learningfrommistakes"
+                                        }
+                                    }
+                                },
+                                {
+                                    "start": 429,
+                                    "length": 24,
+                                    "value": {
+                                        "com.linkedin.common.HashtagAttributedEntity": {
+                                            "hashtag": "urn:li:hashtag:growththroughexperience"
+                                        }
+                                    }
+                                }
+                            ],
+                            "text": "\ud83d\udc49Experience is gained through the errors and missteps we encounter in life. \n\n\ud83d\udc49Instead of seeing these mistakes as failures, we view them as opportunities to learn and grow. \n\n\ud83d\udc49Each mistake teaches us valuable lessons and helps us become better versions of ourselves.\n\n\ud83d\udc49By Our mistakes, we can gain valuable experience and wisdom that ultimately contribute to our personal and professional development.\n#LearningFromMistakes #GrowthThroughExperience "
+                        },
+                        "entityUrn": "urn:li:groupPost:13927028-7180685528932007937"
+                    },
+                    "entityUrn": "urn:li:ugcPost:7180699667553243136"
+                }
+            }
+        },
+        {
+            "createdAt": 1711991700000,
+            "insightId": "787ae750-1462-47d4-a9e4-80221b7e30e9",
+            "activityUnion": {
+                "postActivity": {
+                    "socialMetadata": {
+                        "reactionTypeCounts": [
+                            {
+                                "type": "EMPATHY",
+                                "count": 1
+                            }
+                        ],
+                        "entityUrn": "urn:li:fs_salesSocialMetadata:urn:li:ugcPost:7180613690302312448",
+                        "threadUrn": "urn:li:ugcPost:7180613690302312448",
+                        "reactionsCount": 1,
+                        "commentsCount": 0,
+                        "canComment": true
+                    },
+                    "activityUrl": "https:\/\/www.linkedin.com\/feed\/sales-navigator\/urn:li:ugcPost:7180613690302312448",
+                    "message": {
+                        "attributes": [],
+                        "text": "needed a reminder for this..."
+                    },
+                    "rootActivity": {
+                        "contentSummaryUnion": {
+                            "mediaContentSummary": {
+                                "mediaType": "STILLIMAGE",
+                                "thumnailUrl": "https:\/\/media.licdn.com\/dms\/image\/D4D22AQGOxv4w6i-88g\/feedshare-shrink_2048_1536\/0\/1711987191837?e=1720051200&v=beta&t=fySkrpIsOEi_FP2zUTHMW94iDhFeBNrXQHOrsculSho"
+                            }
+                        },
+                        "activityUrl": "https:\/\/www.linkedin.com\/feed\/sales-navigator\/urn:li:groupPost:13927028-7180594731230392322",
+                        "message": {
+                            "attributes": [
+                                {
+                                    "start": 723,
+                                    "length": 15,
+                                    "value": {
+                                        "com.linkedin.common.HashtagAttributedEntity": {
+                                            "hashtag": "urn:li:hashtag:successmindset"
+                                        }
+                                    }
+                                },
+                                {
+                                    "start": 739,
+                                    "length": 7,
+                                    "value": {
+                                        "com.linkedin.common.HashtagAttributedEntity": {
+                                            "hashtag": "urn:li:hashtag:wisdom"
+                                        }
+                                    }
+                                },
+                                {
+                                    "start": 747,
+                                    "length": 18,
+                                    "value": {
+                                        "com.linkedin.common.HashtagAttributedEntity": {
+                                            "hashtag": "urn:li:hashtag:powerfuldecisions"
+                                        }
+                                    }
+                                }
+                            ],
+                            "text": "You are powerful only if you know how to maintain your own happiness....Right?\nWe all face different and sometimes very difficult people in our lives who can spoil the peace of our lives if we are too naive....\nThe judgement and verdicts of many people especially on every other person spills negative colours which creates terrible suffering for many innocent people...\nDo you know that to combat these issues and master them to live happily is actually within your own power?\nAs Albert Einstein rightly said, \"Weak people revenge. \nStrong people forgive.\nIntelligent people ignore.\"\n You can choose yourself to carry your live happily and most importantly powerfully...hopefully with the Intelligent mindset always\u2764\ufe0f\ud83d\ude4f\ud83c\udf1e\n#successmindset #wisdom #powerfuldecisions "
+                        },
+                        "entityUrn": "urn:li:groupPost:13927028-7180594731230392322"
+                    },
+                    "entityUrn": "urn:li:ugcPost:7180613690302312448"
+                }
+            }
+        },
+        {
+            "createdAt": 1711404720000,
+            "insightId": "e10313f8-7970-4c31-86c5-56d1d1fff44b",
+            "activityUnion": {
+                "postActivity": {
+                    "socialMetadata": {
+                        "reactionTypeCounts": [
+                            {
+                                "type": "LIKE",
+                                "count": 1
+                            }
+                        ],
+                        "entityUrn": "urn:li:fs_salesSocialMetadata:urn:li:activity:7178151822279258112",
+                        "threadUrn": "urn:li:activity:7178151822279258112",
+                        "reactionsCount": 1,
+                        "commentsCount": 0,
+                        "canComment": true
+                    },
+                    "activityUrl": "https:\/\/www.linkedin.com\/feed\/sales-navigator\/urn:li:share:7178151821729755136",
+                    "message": {
+                        "attributes": [],
+                        "text": "Nicely said!"
+                    },
+                    "rootActivity": {
+                        "contentSummaryUnion": {
+                            "mediaContentSummary": {
+                                "mediaType": "STILLIMAGE",
+                                "thumnailUrl": "https:\/\/media.licdn.com\/dms\/image\/D5622AQFLfm19vU9yOQ\/feedshare-shrink_2048_1536\/0\/1711341563603?e=1720051200&v=beta&t=irDQ7OzFo8QRVDjKXWixm9_kgdMHzj0UwTbkKMDS5as"
+                            }
+                        },
+                        "activityUrl": "https:\/\/www.linkedin.com\/feed\/sales-navigator\/urn:li:share:7177886767797211136",
+                        "message": {
+                            "attributes": [],
+                            "text": ""
+                        },
+                        "entityUrn": "urn:li:share:7177886767797211136"
+                    },
+                    "entityUrn": "urn:li:share:7178151821729755136"
+                }
+            }
+        },
+        {
+            "createdAt": 1710858480000,
+            "insightId": "063ec331-2661-46e3-8fb6-c3c79e67266e",
+            "activityUnion": {
+                "postActivity": {
+                    "socialMetadata": {
+                        "reactionTypeCounts": [],
+                        "entityUrn": "urn:li:fs_salesSocialMetadata:urn:li:ugcPost:7175860618967556096",
+                        "threadUrn": "urn:li:ugcPost:7175860618967556096",
+                        "reactionsCount": 0,
+                        "commentsCount": 0,
+                        "canComment": true
+                    },
+                    "activityUrl": "https:\/\/www.linkedin.com\/feed\/sales-navigator\/urn:li:ugcPost:7175860618967556096",
+                    "message": {
+                        "attributes": [],
+                        "text": "Just Saying...."
+                    },
+                    "rootActivity": {
+                        "contentSummaryUnion": {
+                            "mediaContentSummary": {
+                                "mediaType": "VIDEO",
+                                "thumnailUrl": "https:\/\/dms.licdn.com\/playlist\/vid\/D4E05AQECq1XjgVBM4Q\/videocover-firstframe-low\/0\/1710312417878?e=1717977600&v=beta&t=mATQfTzvadGxv-HT_X1aKAXDBJJl-IUQd-wHeb21dMU"
+                            }
+                        },
+                        "activityUrl": "https:\/\/www.linkedin.com\/feed\/sales-navigator\/urn:li:ugcPost:7173570187672170499",
+                        "message": {
+                            "attributes": [
+                                {
+                                    "start": 91,
+                                    "length": 24,
+                                    "value": {
+                                        "com.linkedin.common.HyperlinkAttributedEntity": {
+                                            "url": "https:\/\/lnkd.in\/eCV8dw79"
+                                        }
+                                    }
+                                },
+                                {
+                                    "start": 175,
+                                    "length": 24,
+                                    "value": {
+                                        "com.linkedin.common.HyperlinkAttributedEntity": {
+                                            "url": "https:\/\/lnkd.in\/enmdA8hq"
+                                        }
+                                    }
+                                },
+                                {
+                                    "start": 212,
+                                    "length": 24,
+                                    "value": {
+                                        "com.linkedin.common.HyperlinkAttributedEntity": {
+                                            "url": "https:\/\/lnkd.in\/eR3wE6tF"
+                                        }
+                                    }
+                                }
+                            ],
+                            "text": "Love this \ud83d\udc95 2 Books You should read \u25b6\ufe0f \ud83e\udd47Elevate Your Leadership: A 30-Day Challenge \ud83c\udfc6\u27a1\ufe0f https:\/\/lnkd.in\/eCV8dw79\n\n\ud83d\udca1102 Most Useful Excel Functions : The Ultimate Guide\u2b50\u25b6\ufe0f https:\/\/lnkd.in\/enmdA8hq\n\n\n\nCredit : https:\/\/lnkd.in\/eR3wE6tF"
+                        },
+                        "entityUrn": "urn:li:ugcPost:7173570187672170499"
+                    },
+                    "entityUrn": "urn:li:ugcPost:7175860618967556096"
+                }
+            }
+        },
+        {
+            "createdAt": 1709579760000,
+            "insightId": "856bb5ab-1fdc-49d0-84af-2886745a0c6d",
+            "activityUnion": {
+                "commentActivity": {
+                    "socialMetadata": {
+                        "reactionTypeCounts": [
+                            {
+                                "type": "LIKE",
+                                "count": 1
+                            }
+                        ],
+                        "entityUrn": "urn:li:fs_salesSocialMetadata:urn:li:comment:(ugcPost:7170486901571862529,7170497348517761027)",
+                        "threadUrn": "urn:li:ugcPost:7170486901571862529",
+                        "reactionsCount": 1,
+                        "commentsCount": 0,
+                        "canComment": true
+                    },
+                    "commentary": {
+                        "attributes": [],
+                        "text": "Awwwww! made my day, thanks for posting!\n"
+                    },
+                    "activityUrl": "https:\/\/www.linkedin.com\/feed\/sales-navigator\/urn:li:ugcPost:7170486901571862529"
+                }
+            }
+        }
+    ]
+}

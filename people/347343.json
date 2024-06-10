@@ -1,0 +1,798 @@
+{
+    "summary": "My professional and personal goal is to help build and distribute the best pre-clinical research study software in the world, so every research dollar can be used more effectively, data can be preserved and used in future and so we can get treatments and cures to patients faster. My personal goals are to continue to learn, grow and make a positive difference. Leave it better than you find it.",
+    "lastName": "Ibsen",
+    "objectUrn": "urn:li:member:347343",
+    "geoRegion": "Pacifica, California, United States",
+    "fullName": "Eric Ibsen",
+    "firstName": "Eric",
+    "currentPositions": [
+        {
+            "companyName": "Studylog Systems, Inc",
+            "description": "A panel of Bio-Pharma Informatics Industry Experts at the 2015 Bio-IT World Conference and Expo honored Studylog Software with the Best of Show Award. Studylog was the first animal-related application in over a decade to receive such an accolade. Eight of the world\u2019s top-10 Pharmaceutical companies, the world\u2019s top Biotech company, over half of the top-20 CROs, the US and German National Cancer Institutes, Harvard, Yale, Stanford, UCSF and numerous other leading academic labs selected Studylog as the best system available to manage efficacy and basic research studies. Users tell us that Studylog increased their study throughput by 2 to 4-fold while making and their data searchable and usable forever! It feels great to make such a difference and have those precious research funds go farther.",
+            "title": "Chief Executive Officer",
+            "companyUrnResolutionResult": {
+                "employeeCountRange": "11-50",
+                "headquarters": {
+                    "geographicArea": "California",
+                    "country": "United States",
+                    "city": "Pacifica",
+                    "postalCode": "94044",
+                    "line2": "Ste. 3",
+                    "line1": "200 San Marlo Way"
+                },
+                "website": "https:\/\/www.studylog.com",
+                "flagshipCompanyUrl": "https:\/\/www.linkedin.com\/company\/studylog-systems-inc\/",
+                "industry": "Biotechnology Research"
+            },
+            "companyUrn": "urn:li:fs_salesCompany:71634246",
+            "tenureAtCompany": {
+                "numYears": 21,
+                "numMonths": 4
+            },
+            "startedOn": {
+                "month": 2,
+                "year": 2003
+            }
+        }
+    ],
+    "entityUrn": "urn:li:fs_salesProfile:(ACwAAAAFTM8BkWBJYkqOTI4L-Hz_1IUVomJix_w,NAME_SEARCH,HRMy)",
+    "profilePictureDisplayImage": {
+        "artifacts": [
+            {
+                "width": 100,
+                "fileIdentifyingUrlPathSegment": "100_100\/0\/1526941134518?e=1723075200&v=beta&t=PWi9UL7k74CdIcK3H5_5iYsNc5oKZ8xwA1VTZpzQPKo",
+                "height": 100
+            },
+            {
+                "width": 200,
+                "fileIdentifyingUrlPathSegment": "200_200\/0\/1526941134548?e=1723075200&v=beta&t=UN1HgQqtypbdGyhO8dOTQ-QLXg5n-oEljU90CKhoL64",
+                "height": 200
+            },
+            {
+                "width": 400,
+                "fileIdentifyingUrlPathSegment": "400_400\/0\/1526941134721?e=1723075200&v=beta&t=koFxgovFl2w-j_Z9eKXwNQOomOmP1Z23p7wTi4d8I8c",
+                "height": 400
+            },
+            {
+                "width": 500,
+                "fileIdentifyingUrlPathSegment": "800_800\/0\/1526941134544?e=1723075200&v=beta&t=4nAXJ1-cYhG2dxYvnQ2U7PCCEq3exTfYWPGIJxb159M",
+                "height": 500
+            }
+        ],
+        "rootUrl": "https:\/\/media.licdn.com\/dms\/image\/C5603AQFPQaksENMjJw\/profile-displayphoto-shrink_"
+    },
+    "projects": [],
+    "contactInfo": {
+        "websites": [
+            {
+                "$anti_abuse_annotations": [
+                    {
+                        "attributeId": 97,
+                        "entityId": 19,
+                        "sourceUrn": "urn:li:member:347343"
+                    },
+                    {
+                        "attributeId": 48,
+                        "entityId": 19,
+                        "sourceUrn": "urn:li:member:347343"
+                    }
+                ],
+                "category": "PERSONAL",
+                "dataSource": "LINKEDIN",
+                "url": "http:\/\/www.studylog.com"
+            }
+        ]
+    },
+    "industry": "Biotechnology Research",
+    "educations": [
+        {
+            "endedOn": {
+                "year": 1987
+            },
+            "degree": "Bsc",
+            "eduId": 2095481,
+            "schoolUrn": "urn:li:fs_salesSchool:4556",
+            "school": "urn:li:fs_salesSchool:4556",
+            "fieldsOfStudy": [
+                "Zoology, Biology"
+            ],
+            "startedOn": {
+                "year": 1982
+            }
+        }
+    ],
+    "skills": [
+        {
+            "numOfEndorsement": 8,
+            "name": "Molecular Biology"
+        },
+        {
+            "numOfEndorsement": 26,
+            "name": "Biotechnology"
+        },
+        {
+            "numOfEndorsement": 20,
+            "name": "Entrepreneurship"
+        },
+        {
+            "numOfEndorsement": 5,
+            "name": "Pharmaceutical Industry"
+        },
+        {
+            "numOfEndorsement": 10,
+            "name": "Lifesciences"
+        },
+        {
+            "numOfEndorsement": 13,
+            "name": "Drug Discovery"
+        },
+        {
+            "numOfEndorsement": 3,
+            "name": "Small Animal Models"
+        },
+        {
+            "numOfEndorsement": 2,
+            "name": "Oncology"
+        },
+        {
+            "numOfEndorsement": 6,
+            "name": "Clinical Development"
+        },
+        {
+            "numOfEndorsement": 4,
+            "name": "Biochemistry"
+        },
+        {
+            "numOfEndorsement": 5,
+            "name": "Cell Culture"
+        },
+        {
+            "numOfEndorsement": 10,
+            "name": "Life Sciences"
+        },
+        {
+            "numOfEndorsement": 3,
+            "name": "In Vivo"
+        },
+        {
+            "numOfEndorsement": 2,
+            "name": "Technology Transfer"
+        },
+        {
+            "numOfEndorsement": 3,
+            "name": "Cell Biology"
+        },
+        {
+            "numOfEndorsement": 1,
+            "name": "CRO"
+        },
+        {
+            "numOfEndorsement": 1,
+            "name": "Immunology"
+        },
+        {
+            "numOfEndorsement": 1,
+            "name": "CRO Management"
+        },
+        {
+            "numOfEndorsement": 1,
+            "name": "Drug Development"
+        },
+        {
+            "numOfEndorsement": 0,
+            "name": "Cancer"
+        }
+    ],
+    "numOfConnections": 1260,
+    "patents": [],
+    "headline": "Co-Founder\/President: Studylog Systems, Inc. \nStudylog Makes Animal Study Workflow Software",
+    "courses": [],
+    "certifications": [
+        {
+            "authority": "American Association of Laboratory Animal Science",
+            "name": "LATG",
+            "company": "urn:li:fs_salesCompany:0",
+            "companyUrn": "urn:li:fs_salesCompany:0"
+        }
+    ],
+    "memberBadges": {
+        "premium": false,
+        "openLink": false,
+        "jobSeeker": false
+    },
+    "flagshipProfileUrl": "https:\/\/www.linkedin.com\/in\/eric-ibsen-013149",
+    "organizations": [
+        {
+            "name": "The Norwegian Club",
+            "position": "Board Member (2022)",
+            "startedOn": {
+                "month": 4,
+                "year": 2015
+            }
+        },
+        {
+            "name": "Sons of Norway-Ibsen Lodge",
+            "position": "Member"
+        },
+        {
+            "name": "Young Scandanavian Club",
+            "position": "Member"
+        }
+    ],
+    "location": "Pacifica, California, United States",
+    "publications": [],
+    "positions": null,
+    "posts": [
+        {
+            "createdAt": 1713212160000,
+            "insightId": "080cd75f-53de-49f7-b07a-684974f9755e",
+            "activityUnion": {
+                "postActivity": {
+                    "socialMetadata": {
+                        "reactionTypeCounts": [
+                            {
+                                "type": "LIKE",
+                                "count": 2
+                            }
+                        ],
+                        "entityUrn": "urn:li:fs_salesSocialMetadata:urn:li:activity:7185732758537732096",
+                        "threadUrn": "urn:li:activity:7185732758537732096",
+                        "reactionsCount": 2,
+                        "commentsCount": 0,
+                        "canComment": true
+                    },
+                    "activityUrl": "https:\/\/www.linkedin.com\/feed\/sales-navigator\/urn:li:share:7185732758000840706",
+                    "message": {
+                        "attributes": [],
+                        "text": "Move your in vivo research away from Excel and into your informatics ecosystem!"
+                    },
+                    "rootActivity": {
+                        "contentSummaryUnion": {
+                            "mediaContentSummary": {
+                                "mediaType": "STILLIMAGE",
+                                "thumnailUrl": "https:\/\/media.licdn.com\/dms\/image\/D5622AQGEFnW1qwt-mA\/feedshare-shrink_2048_1536\/0\/1713211792723?e=1720051200&v=beta&t=ukbiQAhOscpazv8X6khqMYdOuQda64N7o9B7wD9en7s"
+                            }
+                        },
+                        "activityUrl": "https:\/\/www.linkedin.com\/feed\/sales-navigator\/urn:li:share:7185731077343207426",
+                        "message": {
+                            "attributes": [
+                                {
+                                    "start": 107,
+                                    "length": 9,
+                                    "value": {
+                                        "com.linkedin.common.HashtagAttributedEntity": {
+                                            "hashtag": "urn:li:hashtag:studylog"
+                                        }
+                                    }
+                                },
+                                {
+                                    "start": 222,
+                                    "length": 12,
+                                    "value": {
+                                        "com.linkedin.common.HashtagAttributedEntity": {
+                                            "hashtag": "urn:li:hashtag:biotitworld"
+                                        }
+                                    }
+                                },
+                                {
+                                    "start": 235,
+                                    "length": 13,
+                                    "value": {
+                                        "com.linkedin.common.HashtagAttributedEntity": {
+                                            "hashtag": "urn:li:hashtag:bioitworld24"
+                                        }
+                                    }
+                                },
+                                {
+                                    "start": 249,
+                                    "length": 8,
+                                    "value": {
+                                        "com.linkedin.common.HashtagAttributedEntity": {
+                                            "hashtag": "urn:li:hashtag:bioit24"
+                                        }
+                                    }
+                                },
+                                {
+                                    "start": 258,
+                                    "length": 14,
+                                    "value": {
+                                        "com.linkedin.common.HashtagAttributedEntity": {
+                                            "hashtag": "urn:li:hashtag:drugdiscovery"
+                                        }
+                                    }
+                                },
+                                {
+                                    "start": 273,
+                                    "length": 7,
+                                    "value": {
+                                        "com.linkedin.common.HashtagAttributedEntity": {
+                                            "hashtag": "urn:li:hashtag:invivo"
+                                        }
+                                    }
+                                },
+                                {
+                                    "start": 281,
+                                    "length": 19,
+                                    "value": {
+                                        "com.linkedin.common.HashtagAttributedEntity": {
+                                            "hashtag": "urn:li:hashtag:preclinicalstudies"
+                                        }
+                                    }
+                                },
+                                {
+                                    "start": 301,
+                                    "length": 15,
+                                    "value": {
+                                        "com.linkedin.common.HashtagAttributedEntity": {
+                                            "hashtag": "urn:li:hashtag:bioinformatics"
+                                        }
+                                    }
+                                }
+                            ],
+                            "text": "We are excited to be in Boston at the Bio-IT World Conference & Expo this week! Visit booth 309 to see how #Studylog can double your study throughput, make your job easier, and keep your data at your fingertips forever. \n\n#BiotITWorld #BioITWorld24 #bioit24 #drugdiscovery #invivo #preclinicalstudies #bioinformatics "
+                        },
+                        "entityUrn": "urn:li:share:7185731077343207426"
+                    },
+                    "entityUrn": "urn:li:share:7185732758000840706"
+                }
+            }
+        },
+        {
+            "createdAt": 1711659600000,
+            "insightId": "255d3cc7-c5b4-44d5-9aa6-1cfd5720b40f",
+            "activityUnion": {
+                "postActivity": {
+                    "socialMetadata": {
+                        "reactionTypeCounts": [
+                            {
+                                "type": "LIKE",
+                                "count": 3
+                            },
+                            {
+                                "type": "PRAISE",
+                                "count": 1
+                            }
+                        ],
+                        "entityUrn": "urn:li:fs_salesSocialMetadata:urn:li:activity:7179220798040117248",
+                        "threadUrn": "urn:li:activity:7179220798040117248",
+                        "reactionsCount": 4,
+                        "commentsCount": 0,
+                        "canComment": true
+                    },
+                    "activityUrl": "https:\/\/www.linkedin.com\/feed\/sales-navigator\/urn:li:share:7179220797520003073",
+                    "message": {
+                        "attributes": [],
+                        "text": "Congratulations and Thank you, Kelly!"
+                    },
+                    "rootActivity": {
+                        "contentSummaryUnion": {
+                            "mediaContentSummary": {
+                                "mediaType": "STILLIMAGE",
+                                "thumnailUrl": "https:\/\/media.licdn.com\/dms\/image\/D5622AQEj_c4e-Ott8g\/feedshare-shrink_2048_1536\/0\/1711647535382?e=1720051200&v=beta&t=x80YMX_n0r0-jYkCK5z0U7ZmYLwxUe4FeE_zxUloIyw"
+                            }
+                        },
+                        "activityUrl": "https:\/\/www.linkedin.com\/feed\/sales-navigator\/urn:li:share:7179170109087764481",
+                        "message": {
+                            "attributes": [
+                                {
+                                    "start": 19,
+                                    "length": 14,
+                                    "value": {
+                                        "com.linkedin.common.MemberAttributedEntity": {
+                                            "member": "urn:li:member:574958836"
+                                        }
+                                    }
+                                },
+                                {
+                                    "start": 212,
+                                    "length": 9,
+                                    "value": {
+                                        "com.linkedin.common.HashtagAttributedEntity": {
+                                            "hashtag": "urn:li:hashtag:studylog"
+                                        }
+                                    }
+                                },
+                                {
+                                    "start": 222,
+                                    "length": 16,
+                                    "value": {
+                                        "com.linkedin.common.HashtagAttributedEntity": {
+                                            "hashtag": "urn:li:hashtag:workanniversary"
+                                        }
+                                    }
+                                },
+                                {
+                                    "start": 239,
+                                    "length": 7,
+                                    "value": {
+                                        "com.linkedin.common.HashtagAttributedEntity": {
+                                            "hashtag": "urn:li:hashtag:invivo"
+                                        }
+                                    }
+                                },
+                                {
+                                    "start": 247,
+                                    "length": 15,
+                                    "value": {
+                                        "com.linkedin.common.HashtagAttributedEntity": {
+                                            "hashtag": "urn:li:hashtag:cancerresearch"
+                                        }
+                                    }
+                                },
+                                {
+                                    "start": 263,
+                                    "length": 11,
+                                    "value": {
+                                        "com.linkedin.common.HashtagAttributedEntity": {
+                                            "hashtag": "urn:li:hashtag:immunology"
+                                        }
+                                    }
+                                },
+                                {
+                                    "start": 275,
+                                    "length": 12,
+                                    "value": {
+                                        "com.linkedin.common.HashtagAttributedEntity": {
+                                            "hashtag": "urn:li:hashtag:preclinical"
+                                        }
+                                    }
+                                },
+                                {
+                                    "start": 288,
+                                    "length": 15,
+                                    "value": {
+                                        "com.linkedin.common.HashtagAttributedEntity": {
+                                            "hashtag": "urn:li:hashtag:datamanagement"
+                                        }
+                                    }
+                                }
+                            ],
+                            "text": "Congratulations to Kelly Castaldo, our Director of Product Management, for celebrating six years with Studylog! Your effervescent personality, hard work, and impressive skills are an absolute boon to our team. \n\n#studylog #workanniversary #invivo #cancerresearch #immunology #preclinical #datamanagement "
+                        },
+                        "entityUrn": "urn:li:share:7179170109087764481"
+                    },
+                    "entityUrn": "urn:li:share:7179220797520003073"
+                }
+            }
+        },
+        {
+            "createdAt": 1711407900000,
+            "insightId": "0a924181-608a-43d1-acd1-e761c2074fb8",
+            "activityUnion": {
+                "postActivity": {
+                    "socialMetadata": {
+                        "reactionTypeCounts": [
+                            {
+                                "type": "LIKE",
+                                "count": 10
+                            }
+                        ],
+                        "entityUrn": "urn:li:fs_salesSocialMetadata:urn:li:activity:7178165047481757697",
+                        "threadUrn": "urn:li:activity:7178165047481757697",
+                        "reactionsCount": 10,
+                        "commentsCount": 0,
+                        "canComment": true
+                    },
+                    "activityUrl": "https:\/\/www.linkedin.com\/feed\/sales-navigator\/urn:li:share:7178165046949150720",
+                    "message": {
+                        "attributes": [],
+                        "text": "Studylog is the software of choice for most of the top 10 pharmas. Come see for yourself why at Bio-IT."
+                    },
+                    "rootActivity": {
+                        "contentSummaryUnion": {
+                            "mediaContentSummary": {
+                                "mediaType": "STILLIMAGE",
+                                "thumnailUrl": "https:\/\/media.licdn.com\/dms\/image\/D5622AQGdtUZJtnRdBw\/feedshare-shrink_2048_1536\/0\/1711403580337?e=1720051200&v=beta&t=cRwqciHR3dNy2VJL1JdvtfvCvA6Hkqj6orhMfoAZAdo"
+                            }
+                        },
+                        "activityUrl": "https:\/\/www.linkedin.com\/feed\/sales-navigator\/urn:li:share:7178146883964477440",
+                        "message": {
+                            "attributes": [
+                                {
+                                    "start": 359,
+                                    "length": 9,
+                                    "value": {
+                                        "com.linkedin.common.HashtagAttributedEntity": {
+                                            "hashtag": "urn:li:hashtag:studylog"
+                                        }
+                                    }
+                                },
+                                {
+                                    "start": 369,
+                                    "length": 8,
+                                    "value": {
+                                        "com.linkedin.common.HashtagAttributedEntity": {
+                                            "hashtag": "urn:li:hashtag:bioit24"
+                                        }
+                                    }
+                                },
+                                {
+                                    "start": 378,
+                                    "length": 11,
+                                    "value": {
+                                        "com.linkedin.common.HashtagAttributedEntity": {
+                                            "hashtag": "urn:li:hashtag:bioitworld"
+                                        }
+                                    }
+                                },
+                                {
+                                    "start": 390,
+                                    "length": 14,
+                                    "value": {
+                                        "com.linkedin.common.HashtagAttributedEntity": {
+                                            "hashtag": "urn:li:hashtag:drugdiscovery"
+                                        }
+                                    }
+                                },
+                                {
+                                    "start": 405,
+                                    "length": 7,
+                                    "value": {
+                                        "com.linkedin.common.HashtagAttributedEntity": {
+                                            "hashtag": "urn:li:hashtag:invivo"
+                                        }
+                                    }
+                                },
+                                {
+                                    "start": 413,
+                                    "length": 19,
+                                    "value": {
+                                        "com.linkedin.common.HashtagAttributedEntity": {
+                                            "hashtag": "urn:li:hashtag:preclinicalstudies"
+                                        }
+                                    }
+                                },
+                                {
+                                    "start": 433,
+                                    "length": 15,
+                                    "value": {
+                                        "com.linkedin.common.HashtagAttributedEntity": {
+                                            "hashtag": "urn:li:hashtag:datamanagement"
+                                        }
+                                    }
+                                },
+                                {
+                                    "start": 449,
+                                    "length": 15,
+                                    "value": {
+                                        "com.linkedin.common.HashtagAttributedEntity": {
+                                            "hashtag": "urn:li:hashtag:bioinformatics"
+                                        }
+                                    }
+                                },
+                                {
+                                    "start": 465,
+                                    "length": 13,
+                                    "value": {
+                                        "com.linkedin.common.HashtagAttributedEntity": {
+                                            "hashtag": "urn:li:hashtag:lifesciences"
+                                        }
+                                    }
+                                },
+                                {
+                                    "start": 479,
+                                    "length": 7,
+                                    "value": {
+                                        "com.linkedin.common.HashtagAttributedEntity": {
+                                            "hashtag": "urn:li:hashtag:boston"
+                                        }
+                                    }
+                                }
+                            ],
+                            "text": "We are heading to Boston for the Bio-IT World Conference and Expo very soon! Visit booth 309 to learn how Studylog Animal Study Workflow Software makes in vivo study conduct easier, more organized, and reproducible. With Studylog,  researchers report doubling their study throughput while reducing effort, errors, and stress. We look forward to seeing you!\n\n #studylog #bioit24 #BioITWorld #drugdiscovery #invivo #preclinicalstudies #datamanagement #bioinformatics #lifesciences #boston \n"
+                        },
+                        "entityUrn": "urn:li:share:7178146883964477440"
+                    },
+                    "entityUrn": "urn:li:share:7178165046949150720"
+                }
+            }
+        },
+        {
+            "createdAt": 1709918100000,
+            "insightId": "7427dffe-0e5e-4d5d-b547-ff182fecf814",
+            "activityUnion": {
+                "postActivity": {
+                    "socialMetadata": {
+                        "reactionTypeCounts": [
+                            {
+                                "type": "LIKE",
+                                "count": 7
+                            }
+                        ],
+                        "entityUrn": "urn:li:fs_salesSocialMetadata:urn:li:activity:7171916411710255104",
+                        "threadUrn": "urn:li:activity:7171916411710255104",
+                        "reactionsCount": 7,
+                        "commentsCount": 1,
+                        "canComment": true
+                    },
+                    "activityUrl": "https:\/\/www.linkedin.com\/feed\/sales-navigator\/urn:li:share:7171916411185958912",
+                    "message": {
+                        "attributes": [],
+                        "text": "We are lucky to have people like Javier Goitia of Deka Biosciences as part of our Studylog user family! "
+                    },
+                    "rootActivity": {
+                        "contentSummaryUnion": {
+                            "mediaContentSummary": {
+                                "mediaType": "STILLIMAGE",
+                                "thumnailUrl": "https:\/\/media.licdn.com\/dms\/image\/D5622AQEPByguXXPEMQ\/feedshare-shrink_2048_1536\/0\/1709917089139?e=1720051200&v=beta&t=dAuYBUA_h93e1duFKsLhhE5Ms24wwHHLKPfn8qKZbbE"
+                            }
+                        },
+                        "activityUrl": "https:\/\/www.linkedin.com\/feed\/sales-navigator\/urn:li:share:7171912088808796160",
+                        "message": {
+                            "attributes": [
+                                {
+                                    "start": 48,
+                                    "length": 13,
+                                    "value": {
+                                        "com.linkedin.common.MemberAttributedEntity": {
+                                            "member": "urn:li:member:627294840"
+                                        }
+                                    }
+                                },
+                                {
+                                    "start": 253,
+                                    "length": 24,
+                                    "value": {
+                                        "com.linkedin.common.HyperlinkAttributedEntity": {
+                                            "url": "https:\/\/lnkd.in\/gR9t64eV"
+                                        }
+                                    }
+                                },
+                                {
+                                    "start": 280,
+                                    "length": 9,
+                                    "value": {
+                                        "com.linkedin.common.HashtagAttributedEntity": {
+                                            "hashtag": "urn:li:hashtag:studylog"
+                                        }
+                                    }
+                                },
+                                {
+                                    "start": 290,
+                                    "length": 7,
+                                    "value": {
+                                        "com.linkedin.common.HashtagAttributedEntity": {
+                                            "hashtag": "urn:li:hashtag:invivo"
+                                        }
+                                    }
+                                },
+                                {
+                                    "start": 298,
+                                    "length": 10,
+                                    "value": {
+                                        "com.linkedin.common.HashtagAttributedEntity": {
+                                            "hashtag": "urn:li:hashtag:interview"
+                                        }
+                                    }
+                                }
+                            ],
+                            "text": "Please check out our most recent interview with Javier Goitia, an Associate Researcher at Deka Biosciences and a dedicated Studylog user. Javier shares advice for young people considering a career in science, his favorite Studylog feature, and more!  \n\nhttps:\/\/lnkd.in\/gR9t64eV \n\n#studylog #invivo #interview"
+                        },
+                        "entityUrn": "urn:li:share:7171912088808796160"
+                    },
+                    "entityUrn": "urn:li:share:7171916411185958912"
+                }
+            }
+        },
+        {
+            "createdAt": 1716934140000,
+            "insightId": "9db7f0b9-6011-489f-b5e8-a7e013243617",
+            "activityUnion": {
+                "commentActivity": {
+                    "socialMetadata": {
+                        "reactionTypeCounts": [
+                            {
+                                "type": "LIKE",
+                                "count": 1
+                            }
+                        ],
+                        "entityUrn": "urn:li:fs_salesSocialMetadata:urn:li:comment:(ugcPost:7201244561304694785,7201343832825683968)",
+                        "threadUrn": "urn:li:ugcPost:7201244561304694785",
+                        "reactionsCount": 1,
+                        "commentsCount": 0,
+                        "canComment": true
+                    },
+                    "commentary": {
+                        "attributes": [],
+                        "text": "Congrats Caroline!"
+                    },
+                    "activityUrl": "https:\/\/www.linkedin.com\/feed\/sales-navigator\/urn:li:ugcPost:7201244561304694785"
+                }
+            }
+        },
+        {
+            "createdAt": 1715563920000,
+            "insightId": "f89c4afd-8efb-4fcf-a56a-0726eda9a325",
+            "activityUnion": {
+                "commentActivity": {
+                    "socialMetadata": {
+                        "reactionTypeCounts": [
+                            {
+                                "type": "LIKE",
+                                "count": 1
+                            }
+                        ],
+                        "entityUrn": "urn:li:fs_salesSocialMetadata:urn:li:comment:(ugcPost:7192071613696126977,7195596642190860289)",
+                        "threadUrn": "urn:li:ugcPost:7192071613696126977",
+                        "reactionsCount": 1,
+                        "commentsCount": 1,
+                        "canComment": true
+                    },
+                    "commentary": {
+                        "attributes": [],
+                        "text": "Congrats! Let's catch up, Charlotte! "
+                    },
+                    "activityUrl": "https:\/\/www.linkedin.com\/feed\/sales-navigator\/urn:li:ugcPost:7192071613696126977"
+                }
+            }
+        },
+        {
+            "createdAt": 1711668540000,
+            "insightId": "f5da60e7-5544-462d-ac2b-2d07f4c9961f",
+            "activityUnion": {
+                "commentActivity": {
+                    "socialMetadata": {
+                        "reactionTypeCounts": [],
+                        "entityUrn": "urn:li:fs_salesSocialMetadata:urn:li:comment:(ugcPost:7175697070236868608,7179258239480414208)",
+                        "threadUrn": "urn:li:ugcPost:7175697070236868608",
+                        "reactionsCount": 0,
+                        "commentsCount": 0,
+                        "canComment": true
+                    },
+                    "commentary": {
+                        "attributes": [],
+                        "text": "Congrats Sumiti! "
+                    },
+                    "activityUrl": "https:\/\/www.linkedin.com\/feed\/sales-navigator\/urn:li:ugcPost:7175697070236868608"
+                }
+            }
+        },
+        {
+            "createdAt": 1710799380000,
+            "insightId": "69f61f74-c049-46d8-83e6-bacdfc0a0665",
+            "activityUnion": {
+                "commentActivity": {
+                    "socialMetadata": {
+                        "reactionTypeCounts": [],
+                        "entityUrn": "urn:li:fs_salesSocialMetadata:urn:li:comment:(ugcPost:7171964661817298944,7175612718584901632)",
+                        "threadUrn": "urn:li:ugcPost:7171964661817298944",
+                        "reactionsCount": 0,
+                        "commentsCount": 0,
+                        "canComment": true
+                    },
+                    "commentary": {
+                        "attributes": [],
+                        "text": "I'm happy for you, Kirsten! well done! "
+                    },
+                    "activityUrl": "https:\/\/www.linkedin.com\/feed\/sales-navigator\/urn:li:ugcPost:7171964661817298944"
+                }
+            }
+        },
+        {
+            "createdAt": 1710427440000,
+            "insightId": "10e5b8b3-4439-460e-955b-30e5c5168a92",
+            "activityUnion": {
+                "commentActivity": {
+                    "socialMetadata": {
+                        "reactionTypeCounts": [
+                            {
+                                "type": "LIKE",
+                                "count": 1
+                            }
+                        ],
+                        "entityUrn": "urn:li:fs_salesSocialMetadata:urn:li:comment:(ugcPost:7173485471807856640,7174052776325332992)",
+                        "threadUrn": "urn:li:ugcPost:7173485471807856640",
+                        "reactionsCount": 1,
+                        "commentsCount": 1,
+                        "canComment": true
+                    },
+                    "commentary": {
+                        "attributes": [],
+                        "text": "Congrats Jessica! "
+                    },
+                    "activityUrl": "https:\/\/www.linkedin.com\/feed\/sales-navigator\/urn:li:ugcPost:7173485471807856640"
+                }
+            }
+        }
+    ]
+}

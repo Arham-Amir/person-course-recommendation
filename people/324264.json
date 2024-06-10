@@ -1,0 +1,776 @@
+{
+    "lastName": "Danner",
+    "objectUrn": "urn:li:member:324264",
+    "geoRegion": "Colorado Springs, Colorado, United States",
+    "fullName": "Tom Danner",
+    "firstName": "Tom",
+    "currentPositions": [
+        {
+            "companyName": "Stealth AI Company",
+            "title": "Researcher",
+            "tenureAtCompany": {
+                "numMonths": 4
+            },
+            "startedOn": {
+                "month": 2,
+                "year": 2024
+            }
+        }
+    ],
+    "entityUrn": "urn:li:fs_salesProfile:(ACwAAAAE8qgBM7aiH0Mzxay34ukdWtcF8ogybBM,NAME_SEARCH,yg6l)",
+    "profilePictureDisplayImage": {
+        "artifacts": [
+            {
+                "width": 100,
+                "fileIdentifyingUrlPathSegment": "100_100\/0\/1560389934853?e=1723075200&v=beta&t=X645cLmaDKrJegn5jXZcUG7ngHUZfJkM7OSO2qTcb1o",
+                "height": 100
+            },
+            {
+                "width": 200,
+                "fileIdentifyingUrlPathSegment": "200_200\/0\/1560389934375?e=1723075200&v=beta&t=lahjB_kaOrURpYGFmBVyBpu-9Sy1K81eUimUa_s1_Go",
+                "height": 200
+            },
+            {
+                "width": 400,
+                "fileIdentifyingUrlPathSegment": "400_400\/0\/1560389934378?e=1723075200&v=beta&t=8S8Ib_nipttt1DyUBFXRGMTdI03CLKi-zOGnC_4lQAs",
+                "height": 400
+            },
+            {
+                "width": 500,
+                "fileIdentifyingUrlPathSegment": "800_800\/0\/1560389934183?e=1723075200&v=beta&t=GEqiuKNBn0-kDcVo6n5uPBm9wxaR0Bj54D6PB0rFtCc",
+                "height": 500
+            }
+        ],
+        "rootUrl": "https:\/\/media.licdn.com\/dms\/image\/C4E03AQHl4gcuKuScHg\/profile-displayphoto-shrink_"
+    },
+    "projects": [],
+    "contactInfo": {
+        "websites": [
+            {
+                "$anti_abuse_annotations": [
+                    {
+                        "attributeId": 97,
+                        "entityId": 19,
+                        "sourceUrn": "urn:li:member:324264"
+                    },
+                    {
+                        "attributeId": 48,
+                        "entityId": 19,
+                        "sourceUrn": "urn:li:member:324264"
+                    }
+                ],
+                "category": "COMPANY",
+                "dataSource": "LINKEDIN",
+                "url": "http:\/\/www.burstiq.com"
+            }
+        ]
+    },
+    "industry": "Hospitals and Health Care",
+    "educations": [
+        {
+            "endedOn": {
+                "year": 1986
+            },
+            "degree": "BBA - Information Systems",
+            "eduId": 923732,
+            "schoolUrn": "urn:li:fs_salesSchool:6350",
+            "school": "urn:li:fs_salesSchool:6350",
+            "fieldsOfStudy": [
+                "Business & Information Systems"
+            ],
+            "schoolName": "Georgia State University"
+        },
+        {
+            "school": "urn:li:fs_salesSchool:3558",
+            "fieldsOfStudy": [
+                "Computer Science"
+            ],
+            "schoolName": "Georgia Institute of Technology",
+            "schoolUrn": "urn:li:fs_salesSchool:3558",
+            "eduId": 377173969
+        },
+        {
+            "school": "urn:li:fs_salesSchool:10614624",
+            "fieldsOfStudy": [
+                "Computer Science"
+            ],
+            "schoolName": "UC Irvine Donald Bren School of Information and Computer Sciences",
+            "schoolUrn": "urn:li:fs_salesSchool:10614624",
+            "eduId": 377177123
+        }
+    ],
+    "skills": [
+        {
+            "numOfEndorsement": 96,
+            "name": "Enterprise Architecture"
+        },
+        {
+            "numOfEndorsement": 53,
+            "name": "Solution Architecture"
+        },
+        {
+            "numOfEndorsement": 15,
+            "name": "Big Data"
+        },
+        {
+            "numOfEndorsement": 23,
+            "name": "Content Management"
+        },
+        {
+            "numOfEndorsement": 36,
+            "name": "Enterprise Software"
+        },
+        {
+            "numOfEndorsement": 16,
+            "name": "Business Strategy"
+        },
+        {
+            "numOfEndorsement": 15,
+            "name": "Enterprise Content Management"
+        },
+        {
+            "numOfEndorsement": 69,
+            "name": "Integration"
+        },
+        {
+            "numOfEndorsement": 9,
+            "name": "Architecture"
+        },
+        {
+            "numOfEndorsement": 18,
+            "name": "SOA"
+        },
+        {
+            "numOfEndorsement": 16,
+            "name": "Requirements Analysis"
+        },
+        {
+            "numOfEndorsement": 73,
+            "name": "SaaS"
+        },
+        {
+            "numOfEndorsement": 89,
+            "name": "Cloud Computing"
+        },
+        {
+            "numOfEndorsement": 50,
+            "name": "Agile Methodologies"
+        },
+        {
+            "numOfEndorsement": 11,
+            "name": "Software Project Management"
+        },
+        {
+            "numOfEndorsement": 29,
+            "name": "Software Development"
+        },
+        {
+            "numOfEndorsement": 9,
+            "name": "Technical Leadership"
+        },
+        {
+            "numOfEndorsement": 9,
+            "name": "System Architecture"
+        },
+        {
+            "numOfEndorsement": 6,
+            "name": "Cisco Technologies"
+        },
+        {
+            "numOfEndorsement": 22,
+            "name": "Telecommunications"
+        },
+        {
+            "numOfEndorsement": 18,
+            "name": "Scrum"
+        },
+        {
+            "numOfEndorsement": 35,
+            "name": "Business Intelligence"
+        },
+        {
+            "numOfEndorsement": 33,
+            "name": "Program Management"
+        },
+        {
+            "numOfEndorsement": 11,
+            "name": "Mobile Devices"
+        },
+        {
+            "numOfEndorsement": 25,
+            "name": "Product Management"
+        },
+        {
+            "numOfEndorsement": 8,
+            "name": "SDLC"
+        },
+        {
+            "numOfEndorsement": 21,
+            "name": "Business Development"
+        },
+        {
+            "numOfEndorsement": 6,
+            "name": "Security"
+        },
+        {
+            "numOfEndorsement": 43,
+            "name": "Strategy"
+        },
+        {
+            "numOfEndorsement": 27,
+            "name": "Business Process"
+        },
+        {
+            "numOfEndorsement": 3,
+            "name": "PMP"
+        },
+        {
+            "numOfEndorsement": 3,
+            "name": "Java"
+        },
+        {
+            "numOfEndorsement": 5,
+            "name": "Architectures"
+        },
+        {
+            "numOfEndorsement": 3,
+            "name": "Analytics"
+        },
+        {
+            "numOfEndorsement": 5,
+            "name": "Pre-sales"
+        },
+        {
+            "numOfEndorsement": 2,
+            "name": "Unix"
+        },
+        {
+            "numOfEndorsement": 2,
+            "name": "Agile Project Management"
+        },
+        {
+            "numOfEndorsement": 8,
+            "name": "IT Strategy"
+        },
+        {
+            "numOfEndorsement": 5,
+            "name": "Testing"
+        },
+        {
+            "numOfEndorsement": 2,
+            "name": "Software Engineering"
+        },
+        {
+            "numOfEndorsement": 3,
+            "name": "IT Management"
+        },
+        {
+            "numOfEndorsement": 13,
+            "name": "Leadership"
+        },
+        {
+            "numOfEndorsement": 32,
+            "name": "Management"
+        },
+        {
+            "numOfEndorsement": 15,
+            "name": "Consulting"
+        },
+        {
+            "numOfEndorsement": 16,
+            "name": "Start-ups"
+        },
+        {
+            "numOfEndorsement": 8,
+            "name": "Business Analysis"
+        },
+        {
+            "numOfEndorsement": 4,
+            "name": "Software as a Service (SaaS)"
+        },
+        {
+            "numOfEndorsement": 3,
+            "name": "Software Development Life Cycle (SDLC)"
+        },
+        {
+            "numOfEndorsement": 6,
+            "name": "Project Management"
+        },
+        {
+            "numOfEndorsement": 4,
+            "name": "Service-Oriented Architecture (SOA)"
+        }
+    ],
+    "numOfConnections": 1723,
+    "patents": [
+        {
+            "inventors": [
+                {
+                    "entityUrn": "urn:li:fs_salesProfile:(ACwAAAAE8qgBM7aiH0Mzxay34ukdWtcF8ogybBM,NAME_SEARCH,yg6l)"
+                }
+            ],
+            "description": "An interactive media delivery system enables interactive media programming to a multimedia device and also tracks a subscriber's use of the multimedia device. For example, the device tracks events, such as a change in programming, a change in channel selection, and\/or the subscriber's interaction with a particular interactive services application. Each event may be stored as an event record in a database, and one or more of the event records may be merged with content data to form event timelines of programming or other activity to the multimedia device over a selected time period. Further, timelines may be analyzed to generate ratings and other information about programming and may also be correlated with demographics data for marketing analysis.",
+            "title": "Method & System for Tracking Network Use",
+            "url": "http:\/\/patft.uspto.gov\/netacgi\/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=1&f=G&l=50&d=PTXT&p=1&p=1&S1=(%22Danner,+III%22.INNM.)&OS=IN\/%22Danner,+III%22&RS=IN\/%22Danner,+III%22",
+            "issuer": "us",
+            "issuedOn": {
+                "month": 1,
+                "day": 3,
+                "year": 2006
+            }
+        },
+        {
+            "inventors": [
+                {
+                    "entityUrn": "urn:li:fs_salesProfile:(ACwAAAAE8qgBM7aiH0Mzxay34ukdWtcF8ogybBM,NAME_SEARCH,yg6l)"
+                }
+            ],
+            "description": "An asymmetrical data communications system (ADCS) provides point-to-multipoint television programming including conventional television programming, near video-on-demand (NVoD) or video-on-demand (VoD), and the full variety of available programming, via a compressed, digitized UHF transmission. A program subsystem of the ADCS receives programming from content providers and processes the received signals for channel and VoD or NVoD service, then sends the aggregated signal to a transmission subsystem that modulates, channelizes, amplifies, filters and broadcasts the digital UHF signals over the air. Subscribing viewers are equipped with an intelligent control box (ICB) suitably configured to receive, demodulate, and decode the digital UHF broadcast and to transmit the resulting signal to one or more display or other terminal devices. The ICB further provides a matrix switch or gateway for receiving signals over any available transmission path. In addition to the ICBs of the subscribing viewers, a return path subsystem of the ADCS system includes a session control and administrative facility to which the ICBs are linked via the public switched telephone network or suitable wireless alternative so that transaction and viewing data can be received from the subscribing viewers. The return path subsystem, in turn, is linked to the program subsystem in order to route to that subsystem any information necessary or useful for providing programming.",
+            "title": "Asymmetric Data Communication System for Digital Television Services",
+            "url": "http:\/\/patft.uspto.gov\/netacgi\/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=5&f=G&l=50&d=PTXT&p=1&p=1&S1=(%22Danner,+III%22.INNM.)&OS=IN\/%22Danner,+III%22&RS=IN\/%22Danner,+III%22",
+            "issuer": "us",
+            "issuedOn": {
+                "month": 9,
+                "day": 12,
+                "year": 2000
+            }
+        },
+        {
+            "inventors": [
+                {
+                    "entityUrn": "urn:li:fs_salesProfile:(ACwAAAAE8qgBM7aiH0Mzxay34ukdWtcF8ogybBM,NAME_SEARCH,yg6l)"
+                }
+            ],
+            "description": "A system and method are described for providing interactive television services and for switching between television programs, such as to an interactive program session from another program. An interactive server, capable of providing requested interactive video services to a set of subscribers in a given geographic area, is coupled to a network to which subscriber set top boxes are also coupled. Television programming, which may be furnished by any number of sources, is accompanied by a signal that indicates the availability of other programming, such as interactive television service related to the program being viewed, as well as information to be used in requesting such service. The user, when notified by this signal, may input to the set top box a request for a second program, such as an interactive program or application. The identity of the original program channel is stored, and a session with the video service provider is established over the network. When the session is terminated, the set top box re-tunes the television signal to the original program channel.",
+            "title": "System and Method for Providing Interactive Television Services",
+            "url": "http:\/\/patft.uspto.gov\/netacgi\/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=2&f=G&l=50&d=PTXT&p=1&p=1&S1=(%22Danner,+III%22.INNM.)&OS=IN\/%22Danner,+III%22&RS=IN\/%22Danner,+III%22",
+            "issuer": "us",
+            "issuedOn": {
+                "month": 11,
+                "day": 30,
+                "year": 2004
+            }
+        },
+        {
+            "inventors": [
+                {
+                    "entityUrn": "urn:li:fs_salesProfile:(ACwAAAAE8qgBM7aiH0Mzxay34ukdWtcF8ogybBM,NAME_SEARCH,yg6l)"
+                }
+            ],
+            "description": "A system and method are described for providing interactive television services and for switching between television programs, such as to an interactive program session from another program. An interactive server, capable of providing requested interactive video services to a set of subscribers in a given geographic area, is coupled to a network to which subscriber set top boxes are also coupled. Television programming, which may be furnished by any number of sources, is accompanied by a signal that indicates the availability of other programming, such as interactive television service related to the program being viewed, as well as information to be used in requesting such service. The user, when notified by this signal, may input to the set top box a request for a second program, such as an interactive program or application. The identity of the original program channel is stored, and a session with the video service provider is established over the network. When the session is terminated, the set top box re-tunes the television signal to the original program channel.",
+            "title": "System and Method for Providing Television Service",
+            "url": "http:\/\/patft.uspto.gov\/netacgi\/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=3&f=G&l=50&d=PTXT&p=1&p=1&S1=(%22Danner,+III%22.INNM.)&OS=IN\/%22Danner,+III%22&RS=IN\/%22Danner,+III%22",
+            "issuer": "us",
+            "issuedOn": {
+                "month": 5,
+                "day": 20,
+                "year": 2003
+            }
+        },
+        {
+            "inventors": [
+                {
+                    "entityUrn": "urn:li:fs_salesProfile:(ACwAAAAE8qgBM7aiH0Mzxay34ukdWtcF8ogybBM,NAME_SEARCH,yg6l)"
+                }
+            ],
+            "description": "A system and method are described for providing interactive television services and for switching between television programs, such as to an interactive program session from another program. An interactive server, capable of providing requested interactive video services to a set of subscribers in a given geographic area, is coupled to a network to which subscriber set top boxes are also coupled. Television programming, which may be furnished by any number of sources, is accompanied by a signal that indicates the availability of other programming, such as interactive television service related to the program being viewed, as well as information to be used in requesting such service. The user, when notified by this signal, may input to the set top box a request for a second program, such as an interactive program or application. The identity of the original program channel is stored, and a session with the video service provider is established over the network. When the session is terminated, the set top box re-tunes the television signal to the original program channel.",
+            "title": "System and Method for Providing Television Services",
+            "url": "http:\/\/patft.uspto.gov\/netacgi\/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=4&f=G&l=50&d=PTXT&p=1&p=1&S1=(%22Danner,+III%22.INNM.)&OS=IN\/%22Danner,+III%22&RS=IN\/%22Danner,+III%22",
+            "issuer": "us",
+            "issuedOn": {
+                "month": 12,
+                "day": 31,
+                "year": 2002
+            }
+        },
+        {
+            "inventors": [
+                {
+                    "entityUrn": "urn:li:fs_salesProfile:(ACwAAAAE8qgBM7aiH0Mzxay34ukdWtcF8ogybBM,NAME_SEARCH,yg6l)"
+                }
+            ],
+            "title": "Blockchain-Based Mechanisms For Secure Health Information Resource Exchange  (Pending)",
+            "issuer": "us"
+        }
+    ],
+    "headline": "Stealth AI Company",
+    "courses": [],
+    "certifications": [
+        {
+            "name": "Certified Scrum Master",
+            "startedOn": {
+                "month": 5,
+                "year": 2011
+            }
+        },
+        {
+            "name": "Mastering Business Development",
+            "licenseNumber": "Mastering Business Development, Inc.",
+            "startedOn": {
+                "year": 2004
+            },
+            "url": "http:\/\/www.mbdi.com"
+        },
+        {
+            "authority": "Partners in Leadership",
+            "name": "Certificate in Cultural Transformation",
+            "startedOn": {
+                "year": 2015
+            },
+            "url": "http:\/\/www.piltools.com"
+        }
+    ],
+    "memberBadges": {
+        "premium": false,
+        "openLink": false,
+        "jobSeeker": false
+    },
+    "flagshipProfileUrl": "https:\/\/www.linkedin.com\/in\/danner",
+    "organizations": [],
+    "location": "Colorado Springs, Colorado, United States",
+    "publications": [],
+    "positions": null,
+    "posts": [
+        {
+            "createdAt": 1715290380000,
+            "insightId": "22f189c1-bd37-4674-acb4-7ac4ec2aaea0",
+            "activityUnion": {
+                "postActivity": {
+                    "socialMetadata": {
+                        "reactionTypeCounts": [
+                            {
+                                "type": "LIKE",
+                                "count": 3
+                            }
+                        ],
+                        "entityUrn": "urn:li:fs_salesSocialMetadata:urn:li:activity:7194449511014969345",
+                        "threadUrn": "urn:li:activity:7194449511014969345",
+                        "reactionsCount": 3,
+                        "commentsCount": 1,
+                        "canComment": true
+                    },
+                    "activityUrl": "https:\/\/www.linkedin.com\/feed\/sales-navigator\/urn:li:share:7194449510574485505",
+                    "message": {
+                        "attributes": [],
+                        "text": "seriously?"
+                    },
+                    "rootActivity": {
+                        "contentSummaryUnion": {
+                            "mediaContentSummary": {
+                                "mediaType": "STILLIMAGE",
+                                "thumnailUrl": "https:\/\/media.licdn.com\/dms\/image\/D5622AQFyA3O31_T3ag\/feedshare-shrink_2048_1536\/0\/1715210524106?e=1720051200&v=beta&t=LFeLEVoNb78mhJeg14yg7Uuy4QtmDJXg_Wu3vWRAYkk"
+                            }
+                        },
+                        "activityUrl": "https:\/\/www.linkedin.com\/feed\/sales-navigator\/urn:li:share:7194114364168151040",
+                        "message": {
+                            "attributes": [],
+                            "text": "Physicians at one health system must click 14 times to order Tylenol. Yes, that\u2019s right.\n\nYet physicians at another health system using the same EHR must click 61 times!\n\nWhile it\u2019s easy to bash EHR companies for poor usability, this variation shows we must blame ourselves, too.\n\nMany (most?) healthcare organizations fail to optimize their EHRs continually, and few engage their clinicians in regular (re-)training.\n\nThe lesson applies to healthcare AI \u2014 the work must continue well beyond implementation.\n\n[Reference = doi:10.1093\/jamia\/ocy088]"
+                        },
+                        "entityUrn": "urn:li:share:7194114364168151040"
+                    },
+                    "entityUrn": "urn:li:share:7194449510574485505"
+                }
+            }
+        },
+        {
+            "createdAt": 1715216100000,
+            "insightId": "a6524dea-8322-4c02-94d2-490e2ac0dabf",
+            "activityUnion": {
+                "postActivity": {
+                    "contentSummaryUnion": {
+                        "ingestedContentSummary": {
+                            "image": {
+                                "attributes": [
+                                    {
+                                        "originalImageUrl": "https:\/\/media.licdn.com\/dms\/image\/sync\/D5627AQGnYzOjWaywaA\/articleshare-shrink_800\/0\/1715178147810?e=1717977600&v=beta&t=IOlWekibnbsuyI9eMQ9gE--ls-iSBR0WGdHv1khxUKI",
+                                        "sourceType": "URL",
+                                        "imageUrl": "https:\/\/media.licdn.com\/dms\/image\/sync\/D5627AQGnYzOjWaywaA\/articleshare-shrink_800\/0\/1715178147810?e=1717977600&v=beta&t=IOlWekibnbsuyI9eMQ9gE--ls-iSBR0WGdHv1khxUKI"
+                                    }
+                                ]
+                            },
+                            "description": "U.S. President Joe Biden on Wednesday unveiled plans by Microsoft Corp to build a $3.3 billion data center in southeastern Wisconsin, drawing a sharp contrast to his Republican predecessor who had backed a previous $10 billion project at the same site...",
+                            "resolvedUrl": "https:\/\/www.reuters.com\/world\/us\/biden-unveil-33-billion-microsoft-ai-investment-battleground-wisconsin-2024-05-08\/",
+                            "title": "Biden touts new $3.3 billion Microsoft data center at failed Foxconn site Trump backed"
+                        }
+                    },
+                    "socialMetadata": {
+                        "reactionTypeCounts": [
+                            {
+                                "type": "LIKE",
+                                "count": 1
+                            },
+                            {
+                                "type": "ENTERTAINMENT",
+                                "count": 3
+                            }
+                        ],
+                        "entityUrn": "urn:li:fs_salesSocialMetadata:urn:li:activity:7194137907383660546",
+                        "threadUrn": "urn:li:activity:7194137907383660546",
+                        "reactionsCount": 4,
+                        "commentsCount": 0,
+                        "canComment": true
+                    },
+                    "activityUrl": "https:\/\/www.linkedin.com\/feed\/sales-navigator\/urn:li:share:7194137906863644673",
+                    "message": {
+                        "attributes": [
+                            {
+                                "start": 74,
+                                "length": 24,
+                                "value": {
+                                    "com.linkedin.common.HyperlinkAttributedEntity": {
+                                        "url": "https:\/\/lnkd.in\/gQu_BmcY"
+                                    }
+                                }
+                            }
+                        ],
+                        "text": "i seldom post things, but there's a lot of humor and irony in this event: https:\/\/lnkd.in\/gQu_BmcY.    Keep on keeping on MSFT.  We need more GPU cycles!!!\n"
+                    },
+                    "entityUrn": "urn:li:share:7194137906863644673"
+                }
+            }
+        },
+        {
+            "createdAt": 1711915560000,
+            "insightId": "09c2f2a4-13f5-4b05-a7b2-e905b37114c0",
+            "activityUnion": {
+                "postActivity": {
+                    "socialMetadata": {
+                        "reactionTypeCounts": [
+                            {
+                                "type": "LIKE",
+                                "count": 3
+                            },
+                            {
+                                "type": "PRAISE",
+                                "count": 3
+                            }
+                        ],
+                        "entityUrn": "urn:li:fs_salesSocialMetadata:urn:li:ugcPost:7180294495656194048",
+                        "threadUrn": "urn:li:ugcPost:7180294495656194048",
+                        "reactionsCount": 6,
+                        "commentsCount": 2,
+                        "canComment": true
+                    },
+                    "activityUrl": "https:\/\/www.linkedin.com\/feed\/sales-navigator\/urn:li:ugcPost:7180294495656194048",
+                    "message": {
+                        "attributes": [],
+                        "text": "Congrats Anna"
+                    },
+                    "rootActivity": {
+                        "contentSummaryUnion": {
+                            "referenceContentSummary": {
+                                "entityUrn": "urn:li:celebrateJobChange:7180275014305267712"
+                            }
+                        },
+                        "activityUrl": "https:\/\/www.linkedin.com\/feed\/sales-navigator\/urn:li:ugcPost:7180275015873904640",
+                        "message": {
+                            "attributes": [
+                                {
+                                    "length": 14,
+                                    "start": 101,
+                                    "value": {
+                                        "com.linkedin.common.CompanyAttributedEntity": {
+                                            "company": "urn:li:company:31000336"
+                                        }
+                                    }
+                                }
+                            ],
+                            "text": "I\u2019m happy to share that I\u2019m starting a new position as Product Manager, AI and Business Analytics at GluCare.Health!"
+                        },
+                        "entityUrn": "urn:li:ugcPost:7180275015873904640"
+                    },
+                    "entityUrn": "urn:li:ugcPost:7180294495656194048"
+                }
+            }
+        },
+        {
+            "createdAt": 1711668600000,
+            "insightId": "8fe8166a-7c51-46e9-bb59-a10730b72a54",
+            "activityUnion": {
+                "postActivity": {
+                    "socialMetadata": {
+                        "reactionTypeCounts": [
+                            {
+                                "type": "LIKE",
+                                "count": 4
+                            },
+                            {
+                                "type": "INTEREST",
+                                "count": 1
+                            }
+                        ],
+                        "entityUrn": "urn:li:fs_salesSocialMetadata:urn:li:activity:7179258534000250883",
+                        "threadUrn": "urn:li:activity:7179258534000250883",
+                        "reactionsCount": 5,
+                        "commentsCount": 2,
+                        "canComment": true
+                    },
+                    "activityUrl": "https:\/\/www.linkedin.com\/feed\/sales-navigator\/urn:li:share:7179258532251213824",
+                    "message": {
+                        "attributes": [],
+                        "text": "Simple yet clear thinking!"
+                    },
+                    "rootActivity": {
+                        "contentSummaryUnion": {
+                            "mediaContentSummary": {
+                                "mediaType": "STILLIMAGE",
+                                "thumnailUrl": "https:\/\/media.licdn.com\/dms\/image\/D4E22AQFQ2wLX50NjKg\/feedshare-shrink_2048_1536\/0\/1711458335720?e=1720051200&v=beta&t=iXpRbVLD11Ni_5KTsODPic2KyRYXTfhKYMw3oKmyNfo"
+                            }
+                        },
+                        "activityUrl": "https:\/\/www.linkedin.com\/feed\/sales-navigator\/urn:li:share:7178376547769143298",
+                        "message": {
+                            "attributes": [
+                                {
+                                    "length": 13,
+                                    "start": 932,
+                                    "value": {
+                                        "com.linkedin.common.MemberAttributedEntity": {
+                                            "member": "urn:li:member:59690978"
+                                        }
+                                    }
+                                },
+                                {
+                                    "length": 11,
+                                    "start": 976,
+                                    "value": {
+                                        "com.linkedin.common.HashtagAttributedEntity": {
+                                            "hashtag": "urn:li:hashtag:braindumps"
+                                        }
+                                    }
+                                }
+                            ],
+                            "text": "Please STOP chasing funding without a plan.\n\nI see too many founders with big dreams but no fundamentals.\n\nIf you want to raise capital, do this at each stage:\n\n1. Pre-Seed: Focus on developing your MVP and proving technical feasibility\n\n2. Seed: Validate product-market fit and establish early traction\n\n3. Series A: Implement a scalable go-to-market strategy and grow your customer base\n\n4. Series B: Expand your addressable market and optimize operations\n\nFor example:\n\n\u2192 Conduct user testing to refine your MVP\n\u2192 Survey customers to identify key pain points\n\u2192 Hire experienced sales leaders to scale revenue\n\u2192 Invest in infrastructure to support rapid growth\n\nYou will build a fundable startup by methodically decreasing risk at each stage rather than just chasing the next round.\n\nDo that consistently and watch your valuation soar.\n\n--\n\n\u267b\ufe0f Found this helpful? Repost it so your network can learn from it, too.\n\nAnd follow me, Chris Tottman, for more content like this.\n\n#BrainDumps \ud83e\udde0 \ud83d\udca9 \/\/ Brain Dump #40\n"
+                        },
+                        "entityUrn": "urn:li:share:7178376547769143298"
+                    },
+                    "entityUrn": "urn:li:share:7179258532251213824"
+                }
+            }
+        },
+        {
+            "createdAt": 1714146420000,
+            "insightId": "38953e72-6160-4da5-98ee-ca7cb953094f",
+            "activityUnion": {
+                "commentActivity": {
+                    "socialMetadata": {
+                        "reactionTypeCounts": [
+                            {
+                                "type": "LIKE",
+                                "count": 1
+                            }
+                        ],
+                        "entityUrn": "urn:li:fs_salesSocialMetadata:urn:li:comment:(ugcPost:7189645265270673410,7189651214437879810)",
+                        "threadUrn": "urn:li:ugcPost:7189645265270673410",
+                        "reactionsCount": 1,
+                        "commentsCount": 0,
+                        "canComment": true
+                    },
+                    "commentary": {
+                        "attributes": [],
+                        "text": "Congrats Michael W."
+                    },
+                    "activityUrl": "https:\/\/www.linkedin.com\/feed\/sales-navigator\/urn:li:ugcPost:7189645265270673410"
+                }
+            }
+        },
+        {
+            "createdAt": 1712176620000,
+            "insightId": "47e505d3-575e-4793-8cfc-5622a7fdf894",
+            "activityUnion": {
+                "commentActivity": {
+                    "socialMetadata": {
+                        "reactionTypeCounts": [],
+                        "entityUrn": "urn:li:fs_salesSocialMetadata:urn:li:comment:(activity:7181368606339862528,7181389285487521793)",
+                        "threadUrn": "urn:li:activity:7181368606339862528",
+                        "reactionsCount": 0,
+                        "commentsCount": 0,
+                        "canComment": true
+                    },
+                    "commentary": {
+                        "attributes": [],
+                        "text": "Congrats!!"
+                    },
+                    "activityUrl": "https:\/\/www.linkedin.com\/feed\/sales-navigator\/urn:li:activity:7181368606339862528"
+                }
+            }
+        },
+        {
+            "createdAt": 1711915560000,
+            "insightId": "a814db86-2259-4435-84c7-c3b374021c67",
+            "activityUnion": {
+                "commentActivity": {
+                    "socialMetadata": {
+                        "reactionTypeCounts": [
+                            {
+                                "type": "LIKE",
+                                "count": 1
+                            }
+                        ],
+                        "entityUrn": "urn:li:fs_salesSocialMetadata:urn:li:comment:(ugcPost:7180275015873904640,7180294457148293120)",
+                        "threadUrn": "urn:li:ugcPost:7180275015873904640",
+                        "reactionsCount": 1,
+                        "commentsCount": 0,
+                        "canComment": true
+                    },
+                    "commentary": {
+                        "attributes": [],
+                        "text": "Congrats Anna"
+                    },
+                    "activityUrl": "https:\/\/www.linkedin.com\/feed\/sales-navigator\/urn:li:ugcPost:7180275015873904640"
+                }
+            }
+        },
+        {
+            "createdAt": 1711668900000,
+            "insightId": "2d2eded2-0f42-4007-88db-f43379e906e2",
+            "activityUnion": {
+                "commentActivity": {
+                    "socialMetadata": {
+                        "reactionTypeCounts": [],
+                        "entityUrn": "urn:li:fs_salesSocialMetadata:urn:li:comment:(activity:7179258534000250883,7179259829012582400)",
+                        "threadUrn": "urn:li:activity:7179258534000250883",
+                        "reactionsCount": 0,
+                        "commentsCount": 0,
+                        "canComment": true
+                    },
+                    "commentary": {
+                        "attributes": [
+                            {
+                                "start": 0,
+                                "length": 13,
+                                "value": {
+                                    "com.linkedin.common.MemberAttributedEntity": {
+                                        "member": "urn:li:member:59690978"
+                                    }
+                                }
+                            }
+                        ],
+                        "text": "Chris Tottman please tell me about notion.  Would like to\nLearn more."
+                    },
+                    "activityUrl": "https:\/\/www.linkedin.com\/feed\/sales-navigator\/urn:li:activity:7179258534000250883"
+                }
+            }
+        },
+        {
+            "createdAt": 1711550700000,
+            "insightId": "e5836037-28f3-4613-8a02-a7c5559439cb",
+            "activityUnion": {
+                "commentActivity": {
+                    "socialMetadata": {
+                        "reactionTypeCounts": [],
+                        "entityUrn": "urn:li:fs_salesSocialMetadata:urn:li:comment:(ugcPost:7178419216335740928,7178763991261872129)",
+                        "threadUrn": "urn:li:ugcPost:7178419216335740928",
+                        "reactionsCount": 0,
+                        "commentsCount": 0,
+                        "canComment": true
+                    },
+                    "commentary": {
+                        "attributes": [],
+                        "text": "Congrats Peter!!"
+                    },
+                    "activityUrl": "https:\/\/www.linkedin.com\/feed\/sales-navigator\/urn:li:ugcPost:7178419216335740928"
+                }
+            }
+        }
+    ]
+}

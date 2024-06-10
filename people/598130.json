@@ -1,0 +1,742 @@
+{
+    "summary": "-Miembro del Consejo asesor sobre diabetes. Ag\u00e8ncia de Salut P\u00fablica de Catalunya Departament de Salut Generalitat de Catalunya(2018-...)\n-Miembro participante del Comit\u00e9 de Especialidades Pedi\u00e1tricas del Hospital Universitario Vall Hebron en el Programa de Transici\u00f3n de la adolescencia a la edad adulta. ( 2022-...)\n-Grupo de trabajo de la plataforma de Movilidad mConnecta. Soluci\u00f3n de movilidad del Departament de Salut (Tics salut social).\n-Consultor\u00eda y management en planificaci\u00f3n estrat\u00e9gica del tercer sector, ONG's mayormente del \u00e1mbito sanitario. Asesoramiento en el que ofrezco servicios de desarrollo organizacional, la optimizaci\u00f3n de la estructura de la entidad y la mejora de procesos internos. Ejemplos: Tous, Ellayelabanico.org,Taranna,ADC, Ajuntament Matar\u00f3, etc.  http:\/\/sandracanudas.com\n- Consultora formadora y psicoterapeuta para empresas  y particulares \n- Equipo de consultor\u00eda y educaci\u00f3n \"From Fab Labs to Fab Cities\": proponiendo un modelo de ciudades productivas y autosuficientes en el mundo, una iniciativa liderada por el Instituto de Arquitectura Avanzada de Catalu\u00f1a (IaaC), Massachusetts Institute of Technology ( MIT) y la Fundaci\u00f3n Fab. Barcelona.\n-Entre sus proyectos: la colaboraci\u00f3n con el Gobierno de Antioquia (Colombia); apoyo en la coordinaci\u00f3n del proyecto Leonardo da Vinci EU con \"Transnational Project Management Education & culture\".\n-Ponente en congresos, talleres y formaciones sobre: gesti\u00f3n multicultural, liderazgo, creatividad, oratoria, coaching, asociacionismo, estrategias, temas sanitarios ...\n-Organizaci\u00f3n, coordinaci\u00f3n y supervisi\u00f3n de MICE. Engagement Manager: reuniones entre organizaciones-clientes, coordinando proyectos multidimensionales, mentorizando a todo el equipo.\n-Ex columnista (Suplemento de La Vanguardia), locutora de Catalunya Radio, Herri Irratia o R4 (RNE).\n-Redactora aut\u00f3noma de art\u00edculos en diversas revistas (Bolet\u00edn tur\u00edstico,02b,Cambio16, La Vanguardia,...)  conferenciante y autora de libros.\n\nV\u00eddeos sobre m\u00ed:\nhttp:\/\/vimeo.com\/36009317\nhttp:\/\/www.tv3.cat\/videos\/1469249\n\u200b",
+    "lastName": "Canudas Maturana",
+    "objectUrn": "urn:li:member:598130",
+    "geoRegion": "Barcelona, Catalonia, Spain",
+    "fullName": "Sandra Canudas Maturana",
+    "firstName": "Sandra",
+    "currentPositions": [
+        {
+            "companyName": "Associaci\u00f3 de Diabetis de Catalunya",
+            "description": "Gerente de Asociaci\u00f3n.\nMiembro del consejo asesor sobre la diabetes (Dept. Salut. Generalitat de Catalunya)",
+            "title": "Gerente",
+            "companyUrnResolutionResult": {
+                "employeeCountRange": "11-50",
+                "headquarters": {
+                    "geographicArea": "Barcelona",
+                    "country": "Spain",
+                    "city": "Barcelona",
+                    "postalCode": "08015",
+                    "line2": "1\u00ba3\u00aa",
+                    "line1": "C\/ Carrer Consell de Cent 143"
+                },
+                "website": "http:\/\/www.adc.cat",
+                "flagshipCompanyUrl": "https:\/\/www.linkedin.com\/company\/associacio-de-diabetis-de-catalunya\/",
+                "industry": "Non-profit Organizations"
+            },
+            "companyUrn": "urn:li:fs_salesCompany:10443669",
+            "tenureAtCompany": {
+                "numYears": 5,
+                "numMonths": 10
+            },
+            "startedOn": {
+                "month": 8,
+                "year": 2018
+            }
+        }
+    ],
+    "entityUrn": "urn:li:fs_salesProfile:(ACwAAAAJIHIB4yhR7weMhg1B0wbSQoC1dqS2Ijw,NAME_SEARCH,luWq)",
+    "profilePictureDisplayImage": {
+        "artifacts": [
+            {
+                "width": 100,
+                "fileIdentifyingUrlPathSegment": "100_100\/0\/1516229477171?e=1723075200&v=beta&t=Quq-eElGrb0hIToblmJ8nY8fNOA7S5GuLwrwiY9kFnA",
+                "height": 100
+            },
+            {
+                "width": 200,
+                "fileIdentifyingUrlPathSegment": "200_200\/0\/1516229477135?e=1723075200&v=beta&t=r5Co1K5D34TGE5yVSXEx79V0cEvIcmz6YTJ1C-N5I-4",
+                "height": 200
+            },
+            {
+                "width": 400,
+                "fileIdentifyingUrlPathSegment": "400_400\/0\/1516229478265?e=1723075200&v=beta&t=LjoWc2u6LlAAA92-VVWNDHyQbHwUcYVnH613SWtkWcs",
+                "height": 400
+            },
+            {
+                "width": 450,
+                "fileIdentifyingUrlPathSegment": "800_800\/0\/1516229477230?e=1723075200&v=beta&t=RZ1DUrjfkHUPtDKckTuQdRPvXvdG4O0BsEbBU4pqojI",
+                "height": 450
+            }
+        ],
+        "rootUrl": "https:\/\/media.licdn.com\/dms\/image\/C4E03AQE427QTTr9g1g\/profile-displayphoto-shrink_"
+    },
+    "projects": [],
+    "contactInfo": {
+        "socialHandles": [
+            {
+                "type": "TWITTER",
+                "name": "turismoygenero",
+                "dataSource": "LINKEDIN"
+            }
+        ]
+    },
+    "industry": "Community Services",
+    "educations": [
+        {
+            "endedOn": {
+                "month": 11,
+                "year": 2022
+            },
+            "eduId": 861308443,
+            "schoolUrn": "urn:li:fs_salesSchool:164299",
+            "school": "urn:li:fs_salesSchool:164299",
+            "fieldsOfStudy": [
+                "HALIGN Course for Patient Representatives"
+            ],
+            "schoolName": "IESE Business School",
+            "startedOn": {
+                "month": 10,
+                "year": 2022
+            }
+        },
+        {
+            "endedOn": {
+                "year": 2020
+            },
+            "eduId": 647896058,
+            "schoolUrn": "urn:li:fs_salesSchool:1646",
+            "school": "urn:li:fs_salesSchool:1646",
+            "fieldsOfStudy": [
+                "Improving Your Business Through a Culture of Health"
+            ],
+            "schoolName": "Harvard University",
+            "startedOn": {
+                "year": 2020
+            }
+        },
+        {
+            "endedOn": {
+                "year": 2020
+            },
+            "degree": "Liderazgo y  Relaciones Institucionales en Sanidad ( Deusto Business School) ",
+            "eduId": 732203916,
+            "schoolUrn": "urn:li:fs_salesSchool:53503",
+            "school": "urn:li:fs_salesSchool:53503",
+            "schoolName": "University of Deusto",
+            "startedOn": {
+                "year": 2019
+            }
+        },
+        {
+            "endedOn": {
+                "year": 2019
+            },
+            "eduId": 648402247,
+            "schoolUrn": "urn:li:fs_salesSchool:29216",
+            "school": "urn:li:fs_salesSchool:29216",
+            "fieldsOfStudy": [
+                "Gerencia Asociaci\u00f3n pacientes"
+            ],
+            "schoolName": "Universidad Europea",
+            "startedOn": {
+                "year": 2019
+            }
+        },
+        {
+            "endedOn": {
+                "year": 2019
+            },
+            "fieldsOfStudy": [
+                "Gesti\u00f3n de Recursos Humanos"
+            ],
+            "schoolName": "Lae Formaci\u00f3n ",
+            "startedOn": {
+                "year": 2018
+            },
+            "eduId": 647894697
+        },
+        {
+            "endedOn": {
+                "year": 2019
+            },
+            "fieldsOfStudy": [
+                "Programa de Cumplimiento Penal"
+            ],
+            "schoolName": "Lae Formaci\u00f3n ",
+            "startedOn": {
+                "year": 2018
+            },
+            "eduId": 647895143
+        },
+        {
+            "endedOn": {
+                "year": 2018
+            },
+            "degree": "Curso de Psicolog\u00eda Especialista en Trastornos de la Personalidad",
+            "eduId": 546841975,
+            "schoolUrn": "urn:li:fs_salesSchool:15134582",
+            "school": "urn:li:fs_salesSchool:15134582",
+            "fieldsOfStudy": [
+                "Psychology"
+            ],
+            "schoolName": "Euroinnova Business School",
+            "startedOn": {
+                "year": 2018
+            }
+        },
+        {
+            "endedOn": {
+                "year": 2017
+            },
+            "degree": "Curso de psicologia infantil",
+            "eduId": 426665609,
+            "schoolUrn": "urn:li:fs_salesSchool:43360",
+            "school": "urn:li:fs_salesSchool:43360",
+            "fieldsOfStudy": [
+                "Psychology"
+            ],
+            "schoolName": "Universidad Antonio de Nebrija",
+            "startedOn": {
+                "year": 2017
+            }
+        },
+        {
+            "endedOn": {
+                "year": 2016
+            },
+            "degree": "MA \/ Diplomado en Psicoterapia Human\u00edstica e Integrativa",
+            "schoolName": "Meta Escola",
+            "startedOn": {
+                "year": 2014
+            },
+            "eduId": 256681106
+        },
+        {
+            "endedOn": {
+                "year": 2014
+            },
+            "degree": "Psicolog\u00eda e Inteligencia Emocional para Empresas",
+            "eduId": 173923728,
+            "fieldsOfStudy": [
+                "Aplicaci\u00f3n de principios y procedimientos psicol\u00f3gicos en entornos empresariales e industriales."
+            ],
+            "schoolName": "European Institute of Business Studies",
+            "startedOn": {
+                "year": 2013
+            }
+        },
+        {
+            "endedOn": {
+                "year": 2013
+            },
+            "degree": "Business & executive coaching",
+            "schoolName": "Euroinnova Business School",
+            "startedOn": {
+                "year": 2012
+            },
+            "eduId": 151593627
+        },
+        {
+            "endedOn": {
+                "year": 2012
+            },
+            "fieldsOfStudy": [
+                "Grado en Igualdad de G\u00e9nero"
+            ],
+            "schoolName": "INESEM University",
+            "startedOn": {
+                "year": 2011
+            },
+            "eduId": 80514665
+        },
+        {
+            "endedOn": {
+                "year": 2006
+            },
+            "fieldsOfStudy": [
+                "MBA en Comercio Exterior y Marketing Internacional"
+            ],
+            "schoolName": "Esma University",
+            "startedOn": {
+                "year": 2005
+            },
+            "eduId": 80513807
+        },
+        {
+            "endedOn": {
+                "year": 2004
+            },
+            "eduId": 80513396,
+            "schoolUrn": "urn:li:fs_salesSchool:166678",
+            "school": "urn:li:fs_salesSchool:166678",
+            "fieldsOfStudy": [
+                "International Leadership"
+            ],
+            "schoolName": "University of Technology Sydney",
+            "startedOn": {
+                "year": 2004
+            }
+        },
+        {
+            "endedOn": {
+                "year": 1995
+            },
+            "eduId": 80512434,
+            "schoolUrn": "urn:li:fs_salesSchool:8082",
+            "school": "urn:li:fs_salesSchool:8082",
+            "fieldsOfStudy": [
+                "Business Administration BA"
+            ],
+            "schoolName": "Universitat de Barcelona",
+            "startedOn": {
+                "year": 1992
+            }
+        },
+        {
+            "endedOn": {
+                "year": 1994
+            },
+            "eduId": 80513102,
+            "schoolUrn": "urn:li:fs_salesSchool:8082",
+            "school": "urn:li:fs_salesSchool:8082",
+            "fieldsOfStudy": [
+                "Licenciatura en Ciencias Pol\u00edticas"
+            ],
+            "schoolName": "Universitat de Barcelona",
+            "startedOn": {
+                "year": 1992
+            }
+        }
+    ],
+    "skills": [
+        {
+            "numOfEndorsement": 12,
+            "name": "Strategic Planning"
+        },
+        {
+            "numOfEndorsement": 13,
+            "name": "Project Management"
+        },
+        {
+            "numOfEndorsement": 14,
+            "name": "Tourism"
+        },
+        {
+            "numOfEndorsement": 6,
+            "name": "Leisure"
+        },
+        {
+            "numOfEndorsement": 5,
+            "name": "Leisure Travel"
+        },
+        {
+            "numOfEndorsement": 9,
+            "name": "Event Management"
+        },
+        {
+            "numOfEndorsement": 6,
+            "name": "Adventure Travel"
+        },
+        {
+            "numOfEndorsement": 7,
+            "name": "Training"
+        },
+        {
+            "numOfEndorsement": 12,
+            "name": "Management"
+        },
+        {
+            "numOfEndorsement": 4,
+            "name": "Public Relations"
+        },
+        {
+            "numOfEndorsement": 4,
+            "name": "Sustainable Tourism"
+        },
+        {
+            "numOfEndorsement": 3,
+            "name": "Online Marketing"
+        },
+        {
+            "numOfEndorsement": 3,
+            "name": "Public Speaking"
+        },
+        {
+            "numOfEndorsement": 3,
+            "name": "Government"
+        },
+        {
+            "numOfEndorsement": 3,
+            "name": "Incentives"
+        },
+        {
+            "numOfEndorsement": 3,
+            "name": "Hospitality"
+        },
+        {
+            "numOfEndorsement": 3,
+            "name": "Online Advertising"
+        },
+        {
+            "numOfEndorsement": 6,
+            "name": "Leadership"
+        },
+        {
+            "numOfEndorsement": 4,
+            "name": "Marketing Strategy"
+        },
+        {
+            "numOfEndorsement": 4,
+            "name": "Marketing Communications"
+        },
+        {
+            "numOfEndorsement": 3,
+            "name": "Destination Marketing"
+        },
+        {
+            "numOfEndorsement": 3,
+            "name": "Coaching"
+        },
+        {
+            "numOfEndorsement": 3,
+            "name": "Negotiation"
+        },
+        {
+            "numOfEndorsement": 2,
+            "name": "Business Planning"
+        },
+        {
+            "numOfEndorsement": 4,
+            "name": "Social Media"
+        },
+        {
+            "numOfEndorsement": 2,
+            "name": "Vacation"
+        },
+        {
+            "numOfEndorsement": 2,
+            "name": "Social Networking"
+        },
+        {
+            "numOfEndorsement": 2,
+            "name": "Social Media Marketing"
+        },
+        {
+            "numOfEndorsement": 2,
+            "name": "Management Consulting"
+        },
+        {
+            "numOfEndorsement": 2,
+            "name": "Start-ups"
+        },
+        {
+            "numOfEndorsement": 2,
+            "name": "Event Planning"
+        },
+        {
+            "numOfEndorsement": 4,
+            "name": "Business Strategy"
+        },
+        {
+            "numOfEndorsement": 2,
+            "name": "Business Development"
+        },
+        {
+            "numOfEndorsement": 2,
+            "name": "E-commerce"
+        },
+        {
+            "numOfEndorsement": 2,
+            "name": "Advertising"
+        },
+        {
+            "numOfEndorsement": 2,
+            "name": "New Business Development"
+        },
+        {
+            "numOfEndorsement": 2,
+            "name": "Online Travel"
+        },
+        {
+            "numOfEndorsement": 2,
+            "name": "Market Research"
+        },
+        {
+            "numOfEndorsement": 2,
+            "name": "Strategic Communications"
+        },
+        {
+            "numOfEndorsement": 5,
+            "name": "Spanish"
+        },
+        {
+            "numOfEndorsement": 2,
+            "name": "Marketing"
+        },
+        {
+            "numOfEndorsement": 2,
+            "name": "Strategy"
+        },
+        {
+            "numOfEndorsement": 3,
+            "name": "English"
+        },
+        {
+            "numOfEndorsement": 2,
+            "name": "Hotels"
+        },
+        {
+            "numOfEndorsement": 2,
+            "name": "Team Leadership"
+        },
+        {
+            "numOfEndorsement": 2,
+            "name": "Travel Management"
+        },
+        {
+            "numOfEndorsement": 2,
+            "name": "Entrepreneurship"
+        },
+        {
+            "numOfEndorsement": 2,
+            "name": "Project Planning"
+        }
+    ],
+    "numOfConnections": 494,
+    "patents": [],
+    "headline": "Gerente  Associaci\u00f3 de Diabetis de Catalunya-\nPsicoterapeuta",
+    "courses": [],
+    "certifications": [],
+    "memberBadges": {
+        "premium": false,
+        "openLink": false,
+        "jobSeeker": false
+    },
+    "flagshipProfileUrl": "https:\/\/www.linkedin.com\/in\/sandra-canudas-maturana-18224a",
+    "organizations": [],
+    "location": "Barcelona, Catalonia, Spain",
+    "publications": [
+        {
+            "publishedOn": {
+                "year": 2008
+            },
+            "description": "En esta ocasi\u00f3n, aporta consejos dirigidos a las mujeres que quieran atreverse a dar un paso m\u00e1s all\u00e1 y convertirse en osadas viajeras.\nOn this occasion, it provides tips aimed at women who want to dare to go a step further and become daring travelers.",
+            "url": "http:\/\/books.google.es\/books?id=us3d5_1ajzwC&printsec=frontcover&dq=manual+para+viajeras&hl=es&sa=X&ei=a1wLUvvFBcWf7Aa8pYC4Bg&ved=0CDQQ6AEwAA#v=onepage&q=manual%20para%20viajeras&f=false",
+            "name": "Manual para viajeras",
+            "publisher": "Sandra Canudas",
+            "authors": [
+                {
+                    "entityUrn": "urn:li:fs_salesProfile:(ACwAAAAJIHIB4yhR7weMhg1B0wbSQoC1dqS2Ijw,NAME_SEARCH,luWq)"
+                }
+            ]
+        },
+        {
+            "publishedOn": {
+                "year": 2007
+            },
+            "description": "A partir de su larga experiencia en el mundo de los viajes, Canudas desarrolla un manual para aprender a viajar. Este libro quiere reivindicar los viajes de larga duraci\u00f3n y los llamados sab\u00e1ticos, pero tambi\u00e9n es \u00fatil para toda aquella persona que desee emprender \u00a1cualquier otro tipo de peregrinaje por el mundo!\nFrom her long experience in the world of travel, Canudas develops a manual to learn how to travel. This book wants to claim sabbaticals trips  but it is also useful for anyone wishing to undertake any other pilgrimage! ",
+            "url": "http:\/\/books.google.es\/books?id=ac3HjvKM05wC&printsec=frontcover&dq=manual+para+viajeras&hl=es&sa=X&ei=a1wLUvvFBcWf7Aa8pYC4Bg&ved=0CDkQ6AEwAQ#v=onepage&q=manual%20para%20viajeras&f=false",
+            "name": "Manual de una vuelta al mundo",
+            "publisher": "Sandra Canudas",
+            "authors": [
+                {
+                    "entityUrn": "urn:li:fs_salesProfile:(ACwAAAAJIHIB4yhR7weMhg1B0wbSQoC1dqS2Ijw,NAME_SEARCH,luWq)"
+                }
+            ]
+        },
+        {
+            "publishedOn": {
+                "year": 2009
+            },
+            "description": "Es un manual que analiza las costumbres, pr\u00e1cticas, h\u00e1bitos y creencias en materia sexual y amorosa alrededor del mundo. Canudas revela los rasgos distintivos de los seres humanos en su modo de relacionarse y de practicar el amor.\nIt is a manual that discusses the practices, habits and beliefs in matters of sexuality and love around the world. Canudas reveals the distinctive traits of human beings in his way of relating and practise love.",
+            "url": "http:\/\/books.google.es\/books?id=Qd-mLRTFi1wC&printsec=frontcover&dq=atlas+mundial+del+orgasmo&hl=es&sa=X&ei=914LUo63B4bD7Abj8oGgDw&ved=0CDQQ6AEwAA#v=onepage&q=atlas%20mundial%20del%20orgasmo&f=false",
+            "name": "Atlas mundial del orgasmo",
+            "publisher": "Sandra Canudas",
+            "authors": [
+                {
+                    "entityUrn": "urn:li:fs_salesProfile:(ACwAAAAJIHIB4yhR7weMhg1B0wbSQoC1dqS2Ijw,NAME_SEARCH,luWq)"
+                }
+            ]
+        },
+        {
+            "publishedOn": {
+                "year": 2010
+            },
+            "description": "Los consejos de la naturaleza para triunfar en el mundo de los negocios.\nThe nature tips to succeed in the business world!",
+            "url": "http:\/\/www.todoebook.com\/EL-INSTINTO-SEXUAL-Y-LA-TEORIA-DE-LA-SELECCION-NATURAL-COMO-TECNICA-PARA-LOGRAR-EL-EXITO-EMPRESARIAL-SANDRA-CANUDAS--MATURANA-SANDRA-CANUDAS-MATURANA-LibroEbook-ES-SPB0122984.html",
+            "name": "El instinto sexual y la t\u00aa de la selecci\u00f3n natural como t\u00e9cnica para lograr el \u00e9xito empresarial",
+            "publisher": "Sandra Canudas",
+            "authors": [
+                {
+                    "entityUrn": "urn:li:fs_salesProfile:(ACwAAAAJIHIB4yhR7weMhg1B0wbSQoC1dqS2Ijw,NAME_SEARCH,luWq)"
+                }
+            ]
+        },
+        {
+            "name": "Colaboraciones entre otros libros: The confidence workout by Michelle Landy \/ Turismo y Genero by M\u00aa del Mar  Alonso\/ El animador by Lluis Mesalles",
+            "authors": [
+                {
+                    "entityUrn": "urn:li:fs_salesProfile:(ACwAAAAJIHIB4yhR7weMhg1B0wbSQoC1dqS2Ijw,NAME_SEARCH,luWq)"
+                }
+            ]
+        },
+        {
+            "publishedOn": {
+                "month": 10,
+                "year": 2017
+            },
+            "description": "\u00bfPuede un viaje llegar a sanarnos? Explorar, salir, estar en nuevos lugares es recibir de forma inconsciente un \"nuevo material\" que, si procesamos de forma adecuada, har\u00e1n que \u00a1la sorpresa y el crecimiento personal est\u00e9n servidos! \n\nLos lugares son una vivencia on\u00edrica y una de las herramientas m\u00e1s \u00fatiles que podemos emplear para aprender de nosotros mismos. Los paisajes visitados incluyen im\u00e1genes y cromatismos con una informaci\u00f3n intr\u00ednseca y una fuerza simb\u00f3lica que afectan s\u00ed o s\u00ed a nuestro ser. Esta conmoci\u00f3n a partir de lo vivido durante el viaje, puede ser abordada desde un punto de vista energ\u00e9tico, simb\u00f3lico o incluso de transmisi\u00f3n de una comunicaci\u00f3n no verbal que afecta a nuestro inconsciente. \n\nEste libro es una gu\u00eda para ayudar a convertirte en la persona que deseas ser: un manual recopilatorio de sabidur\u00edas cuya intenci\u00f3n es esclarecer al m\u00e1ximo, c\u00f3mo los destinos de nuestros viajes y la propia experiencia viajera pueden servir de punto de inflexi\u00f3n para cambiarnos. \n\n\"El viaje como terapia. Gu\u00eda de lugares para sanar emociones\" es una pauta te\u00f3rico pr\u00e1ctica para elegir tu pr\u00f3ximo destino, no s\u00f3lo pensando en lo bonito que pueda ser ese lugar sino tambi\u00e9n y m\u00e1s importante en \u00a1c\u00f3mo puede sanarte! \n\n\"Marchar es una partida para mostrar nuestros potenciales. Regresar, es volver m\u00e1s sabios para compartir estos conocimientos con otros que a\u00fan no han podido dar el paso\". Sandra Canudas ",
+            "url": "https:\/\/books.google.es\/books?id=wwEtDwAAQBAJ&printsec=frontcover&hl=ca&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false",
+            "name": "El viaje como terapia.Gu\u00eda de lugares para sanar emociones",
+            "publisher": "Sandra Canudas",
+            "authors": [
+                {
+                    "entityUrn": "urn:li:fs_salesProfile:(ACwAAAAJIHIB4yhR7weMhg1B0wbSQoC1dqS2Ijw,NAME_SEARCH,luWq)"
+                }
+            ]
+        },
+        {
+            "publishedOn": {
+                "month": 12,
+                "day": 1,
+                "year": 2023
+            },
+            "description": "Esta gu\u00eda quiere favorecer una visi\u00f3n general de los distintos \u00e1mbitos que se aconseja trabajar en caso de ser una persona mayor con diabetes para conseguir una buena calidad de vida en el proceso del envejecimiento. Facilitar un contenido con un lenguaje comprensible para que realmente sea una herramienta de\nconsulta y de comunicaci\u00f3n, que ayude a un buen seguimiento de la enfermedad.",
+            "url": "https:\/\/adc.cat\/home-d\/nova-guia-persones-grans-amb-diabetis\/",
+            "name": "Gu\u00eda para personas mayores con diabetes",
+            "publisher": "ADC",
+            "authors": [
+                {
+                    "entityUrn": "urn:li:fs_salesProfile:(ACwAAAAJIHIB4yhR7weMhg1B0wbSQoC1dqS2Ijw,NAME_SEARCH,luWq)"
+                }
+            ]
+        }
+    ],
+    "positions": null,
+    "posts": [
+        {
+            "createdAt": 1716964140000,
+            "insightId": "963d0711-ad72-4ad2-90c2-75d0c27c6ec9",
+            "activityUnion": {
+                "postActivity": {
+                    "contentSummaryUnion": {
+                        "ingestedContentSummary": {
+                            "image": {
+                                "attributes": [
+                                    {
+                                        "originalImageUrl": "https:\/\/media.licdn.com\/dms\/image\/sync\/D4E27AQEwWXh8Wy9xig\/articleshare-shrink_800\/0\/1716964172160?e=1717977600&v=beta&t=4EagDDk8Am7RpB2Z-NQyShODipCDr0ChA7akieisHjE",
+                                        "sourceType": "URL",
+                                        "imageUrl": "https:\/\/media.licdn.com\/dms\/image\/sync\/D4E27AQEwWXh8Wy9xig\/articleshare-shrink_800\/0\/1716964172160?e=1717977600&v=beta&t=4EagDDk8Am7RpB2Z-NQyShODipCDr0ChA7akieisHjE"
+                                    }
+                                ]
+                            },
+                            "description": "Informaci\u00f3n y educaci\u00f3n: conocer y entender la enfermedad es fundamental para reducir la ansiedad y el miedo. Es destacable asegurar recibir una adecuada educaci\u00f3n para comprender el funcionamiento y aprender a gestionarla adecuadamente. Comunicaci\u00f3n...",
+                            "fullText": "Informaci\u00f3n y educaci\u00f3n: conocer y entender la enfermedad es fundamental para reducir la ansiedad y el miedo. Es destacable asegurar recibir una adecuada educaci\u00f3n para comprender el funcionamiento y aprender a gestionarla adecuadamente. Comunicaci\u00f3n abierta: hablar abiertamente con los profesionales sanitarios, puede orientar sobre las emociones e inquietudes. Tambi\u00e9n se puede buscar ayuda de grupos de apoyo de personas donde se pueden compartir las mismas experiencias con otras que est\u00e9n pasan",
+                            "resolvedUrl": "https:\/\/www.sandracanudas.com\/post\/algunas-estrategias-para-gestionar-las-emociones-en-enfermedades",
+                            "title": "Algunas estrategias para gestionar las emociones en enfermedades",
+                            "sourceDomain": "sandracanudas.com"
+                        }
+                    },
+                    "socialMetadata": {
+                        "reactionTypeCounts": [
+                            {
+                                "type": "LIKE",
+                                "count": 2
+                            }
+                        ],
+                        "entityUrn": "urn:li:fs_salesSocialMetadata:urn:li:activity:7201469718052884480",
+                        "threadUrn": "urn:li:activity:7201469718052884480",
+                        "reactionsCount": 2,
+                        "commentsCount": 0,
+                        "canComment": true
+                    },
+                    "activityUrl": "https:\/\/www.linkedin.com\/feed\/sales-navigator\/urn:li:share:7201469717620867072",
+                    "message": {
+                        "attributes": [],
+                        "text": ""
+                    },
+                    "entityUrn": "urn:li:share:7201469717620867072"
+                }
+            }
+        },
+        {
+            "createdAt": 1712314740000,
+            "insightId": "b413f2df-b983-42bc-b996-43f7152f78b5",
+            "activityUnion": {
+                "postActivity": {
+                    "socialMetadata": {
+                        "reactionTypeCounts": [
+                            {
+                                "type": "LIKE",
+                                "count": 2
+                            },
+                            {
+                                "type": "APPRECIATION",
+                                "count": 1
+                            }
+                        ],
+                        "entityUrn": "urn:li:fs_salesSocialMetadata:urn:li:activity:7181968565305040896",
+                        "threadUrn": "urn:li:activity:7181968565305040896",
+                        "reactionsCount": 3,
+                        "commentsCount": 0,
+                        "canComment": true
+                    },
+                    "activityUrl": "https:\/\/www.linkedin.com\/feed\/sales-navigator\/urn:li:share:7181968564692664321",
+                    "message": {
+                        "attributes": [],
+                        "text": ""
+                    },
+                    "rootActivity": {
+                        "contentSummaryUnion": {
+                            "mediaContentSummary": {
+                                "mediaType": "STILLIMAGE",
+                                "thumnailUrl": "https:\/\/media.licdn.com\/dms\/image\/D4D22AQEhPQrJK9whAA\/feedshare-shrink_2048_1536\/0\/1712314730108?e=1720051200&v=beta&t=nLbE6TLNlBj9qeAZqtEV_vCItPnV-oF2ErCzadriGSk"
+                            }
+                        },
+                        "activityUrl": "https:\/\/www.linkedin.com\/feed\/sales-navigator\/urn:li:share:7181968523756261376",
+                        "message": {
+                            "attributes": [
+                                {
+                                    "start": 537,
+                                    "length": 24,
+                                    "value": {
+                                        "com.linkedin.common.HyperlinkAttributedEntity": {
+                                            "url": "https:\/\/lnkd.in\/d6cAzEZe"
+                                        }
+                                    }
+                                }
+                            ],
+                            "text": "Les col\u00f2nies i campaments d\u2019estiu de l\u2019ADC s\u00f3n una bona oportunitat perqu\u00e8 el teu fill\/a conegui altres infants i joves amb diabetis. Estan plantejades com una estada convencional, amb les activitats de lleure habituals, per\u00f2 complementades amb diverses accions educatives relacionades amb el propi tractament de la diabetis.\nA partir del dilluns 8 d\u2019abril (socis i s\u00f2cies), ja pots inscriure el teu fill o la teva filla a les col\u00f2nies i campaments d\u2019estiu i a partir del dilluns 22 d\u2019abril (no socis i s\u00f2cies) podr\u00e0s fer la inscripci\u00f3.\nhttps:\/\/lnkd.in\/d6cAzEZe\n"
+                        },
+                        "entityUrn": "urn:li:share:7181968523756261376"
+                    },
+                    "entityUrn": "urn:li:share:7181968564692664321"
+                }
+            }
+        },
+        {
+            "createdAt": 1709819760000,
+            "insightId": "2f0cc279-686f-49ed-80a8-e4708d0496bf",
+            "activityUnion": {
+                "postActivity": {
+                    "contentSummaryUnion": {
+                        "mediaContentSummary": {
+                            "mediaType": "STILLIMAGE",
+                            "thumnailUrl": "https:\/\/media.licdn.com\/dms\/image\/D4D22AQFN6Ad4-WpgaQ\/feedshare-shrink_2048_1536\/0\/1709819809069?e=1720051200&v=beta&t=3MIsImgRjCAvfevwtwK3AYYM2VJ6PWVMs_vLlrfUekM"
+                        }
+                    },
+                    "socialMetadata": {
+                        "reactionTypeCounts": [
+                            {
+                                "type": "LIKE",
+                                "count": 1
+                            }
+                        ],
+                        "entityUrn": "urn:li:fs_salesSocialMetadata:urn:li:activity:7171504075983732736",
+                        "threadUrn": "urn:li:activity:7171504075983732736",
+                        "reactionsCount": 1,
+                        "commentsCount": 0,
+                        "canComment": true
+                    },
+                    "activityUrl": "https:\/\/www.linkedin.com\/feed\/sales-navigator\/urn:li:share:7171504074754932738",
+                    "message": {
+                        "attributes": [],
+                        "text": "Activitat realitzada per una servidora enfocat a familiars i cuidadors\/es de persones amb diabetis o tot aquell que tingui neguit respecte del tema. Algunes de les raons per les quals ens costa tant \u201cdeixar anar\u201d tenen a veure amb la seguretat. Sovint ens aferrem, per que sentim que si deixem anar, perdrem el control.\nEl programa inclou:\n\u2013 El 4 desitjos b\u00e0sics a posar atenci\u00f3: el desig de controlar \/El desig d\u2019aprovaci\u00f3\/El desig de seguretat\/El desig de separaci\u00f3.\n-La meditaci\u00f3 del s\u00ed.\n-El m\u00e8tode Sedona m\u00e8tode que parteix de la premissa que nosaltres no som les nostres emocions.\n-La percepci\u00f3 de la realitat. La relaci\u00f3 cos \u2013 ment \u2013 emocions."
+                    },
+                    "entityUrn": "urn:li:share:7171504074754932738"
+                }
+            }
+        }
+    ]
+}

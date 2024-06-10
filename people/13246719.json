@@ -1,0 +1,1077 @@
+{
+    "summary": "I am a senior level solutions architect who specializes in identity, whether on-premise, hybrid, or cloud, using the Azure stack of products as well as many other related technologies.  Additionally, I have supported customers around low-code solutions using Power Apps and Power Automate.  I have worked and consulted for hundreds of enterprise-sized businesses, and bring 21 years of experience and best practices to my solutions.\n\nTechnologies:\nCloud: Azure Active Directory, Azure infra, Power Platform\nDirectory: Active Directory, Azure Active Directory\nIdentity and Access: Microsoft Identity Manager, Azure AD Connect\nCloud:  Office 365; Microsoft Azure\nFederation:  Active Directory Federation Services\nServer Virtualization: Hyper-V (WS2008-2012 R2) and System Center 2012 R2\nUnified Communications: Office Communications Server 2007 R2\/Lync Server 2010\/2013\nMessaging: Exchange Server 2003-2013, EXO\nCollaboration: SharePoint Server: 2007-2016\nDatabase: MS-SQL 2005-2017\nClients: Windows NT, 2000, XP, 7, 8, 8.1, 10",
+    "lastName": "Garza",
+    "objectUrn": "urn:li:member:13246719",
+    "geoRegion": "Greater Houston",
+    "fullName": "Jose Garza",
+    "firstName": "Jose",
+    "currentPositions": [
+        {
+            "companyName": "Texas Children's Hospital",
+            "title": "Sr IAM Architect",
+            "tenureAtCompany": {
+                "numMonths": 9
+            },
+            "companyUrnResolutionResult": {
+                "employeeCountRange": "10001+",
+                "headquarters": {
+                    "geographicArea": "TX",
+                    "country": "United States",
+                    "city": "Houston",
+                    "postalCode": "77030",
+                    "line1": "6621 Fannin St."
+                },
+                "website": "http:\/\/texaschildrenspeople.org\/",
+                "flagshipCompanyUrl": "https:\/\/www.linkedin.com\/company\/texas-children%27s-hospital\/",
+                "industry": "Hospitals and Health Care"
+            },
+            "startedOn": {
+                "month": 3,
+                "year": 2024
+            },
+            "companyUrn": "urn:li:fs_salesCompany:8445"
+        }
+    ],
+    "entityUrn": "urn:li:fs_salesProfile:(ACwAAADKIP8BPdbrzK-BN1O7TpFW7JDVEwI5N6s,NAME_SEARCH,dKZy)",
+    "profilePictureDisplayImage": {
+        "artifacts": [
+            {
+                "width": 100,
+                "fileIdentifyingUrlPathSegment": "100_100\/0\/1517691075020?e=1723075200&v=beta&t=j0zHu1vpO26_xD1P-lAH6EHoNrgNoLIFx0U7FPpo4eE",
+                "height": 100
+            },
+            {
+                "width": 200,
+                "fileIdentifyingUrlPathSegment": "200_200\/0\/1517691074856?e=1723075200&v=beta&t=s4jFoGpt1gBPG9JObdLJurgWvWc3AK6iLFy-mwh6bRA",
+                "height": 200
+            },
+            {
+                "width": 356,
+                "fileIdentifyingUrlPathSegment": "400_400\/0\/1517691075090?e=1723075200&v=beta&t=R7Uq7rT5ME2c5MrKMDKc3cL88b-2-qJ_oy26GYpxDXI",
+                "height": 356
+            },
+            {
+                "width": 356,
+                "fileIdentifyingUrlPathSegment": "800_800\/0\/1517691074850?e=1723075200&v=beta&t=u-WNzOLGEw1uu51ey6Rh67O64MuoGatAgazUPRP3p58",
+                "height": 356
+            }
+        ],
+        "rootUrl": "https:\/\/media.licdn.com\/dms\/image\/C4E03AQEzAyIWB0Dncw\/profile-displayphoto-shrink_"
+    },
+    "projects": [],
+    "contactInfo": {},
+    "industry": "Hospitals and Health Care",
+    "educations": [
+        {
+            "endedOn": {
+                "month": 3,
+                "year": 2026
+            },
+            "degree": "Bachelor of Science - BS",
+            "eduId": 9526880,
+            "schoolUrn": "urn:li:fs_salesSchool:166068",
+            "school": "urn:li:fs_salesSchool:166068",
+            "fieldsOfStudy": [
+                "Computer Science"
+            ],
+            "schoolName": "Southern New Hampshire University",
+            "startedOn": {
+                "month": 2,
+                "year": 2023
+            }
+        }
+    ],
+    "skills": [
+        {
+            "numOfEndorsement": 0,
+            "name": "Machine Learning"
+        },
+        {
+            "numOfEndorsement": 0,
+            "name": "Azure AI Services"
+        },
+        {
+            "numOfEndorsement": 0,
+            "name": "OpenAI"
+        },
+        {
+            "numOfEndorsement": 0,
+            "name": "Computer Vision"
+        },
+        {
+            "numOfEndorsement": 0,
+            "name": "Data Science"
+        },
+        {
+            "numOfEndorsement": 0,
+            "name": "Regression Analysis"
+        },
+        {
+            "numOfEndorsement": 0,
+            "name": "Analytical Skills"
+        },
+        {
+            "numOfEndorsement": 0,
+            "name": "Leadership"
+        },
+        {
+            "numOfEndorsement": 0,
+            "name": "Azure AD"
+        },
+        {
+            "numOfEndorsement": 0,
+            "name": "Entra ID"
+        },
+        {
+            "numOfEndorsement": 0,
+            "name": "Conditional Access"
+        },
+        {
+            "numOfEndorsement": 0,
+            "name": "Security Consulting"
+        },
+        {
+            "numOfEndorsement": 0,
+            "name": "Flow Diagrams"
+        },
+        {
+            "numOfEndorsement": 0,
+            "name": "Problem Solving"
+        },
+        {
+            "numOfEndorsement": 0,
+            "name": "Computer Science"
+        },
+        {
+            "numOfEndorsement": 0,
+            "name": "Technical Training"
+        },
+        {
+            "numOfEndorsement": 1,
+            "name": "SQL"
+        },
+        {
+            "numOfEndorsement": 0,
+            "name": "Microsoft Products"
+        },
+        {
+            "numOfEndorsement": 0,
+            "name": "Identity and Access Management (IAM)"
+        },
+        {
+            "numOfEndorsement": 0,
+            "name": "Windows"
+        },
+        {
+            "numOfEndorsement": 0,
+            "name": "Databases"
+        },
+        {
+            "numOfEndorsement": 0,
+            "name": "Programming"
+        },
+        {
+            "numOfEndorsement": 0,
+            "name": "Infrastructure"
+        },
+        {
+            "numOfEndorsement": 2,
+            "name": "Low-Code Development Platforms"
+        },
+        {
+            "numOfEndorsement": 1,
+            "name": "Power Platform"
+        },
+        {
+            "numOfEndorsement": 1,
+            "name": "Automation"
+        },
+        {
+            "numOfEndorsement": 1,
+            "name": "Identity & Access Management (IAM)"
+        },
+        {
+            "numOfEndorsement": 0,
+            "name": "Application Development"
+        },
+        {
+            "numOfEndorsement": 0,
+            "name": "Web Services"
+        },
+        {
+            "numOfEndorsement": 1,
+            "name": "Authentication"
+        },
+        {
+            "numOfEndorsement": 1,
+            "name": "Microsoft Identity Manger 2016"
+        },
+        {
+            "numOfEndorsement": 6,
+            "name": "Identity Management"
+        },
+        {
+            "numOfEndorsement": 22,
+            "name": "Active Directory"
+        },
+        {
+            "numOfEndorsement": 1,
+            "name": "Systems Engineering"
+        },
+        {
+            "numOfEndorsement": 11,
+            "name": "Virtualization"
+        },
+        {
+            "numOfEndorsement": 11,
+            "name": "Integration"
+        },
+        {
+            "numOfEndorsement": 8,
+            "name": "Troubleshooting"
+        },
+        {
+            "numOfEndorsement": 9,
+            "name": "Cloud Computing"
+        },
+        {
+            "numOfEndorsement": 7,
+            "name": "Project Management"
+        },
+        {
+            "numOfEndorsement": 6,
+            "name": "Powershell"
+        },
+        {
+            "numOfEndorsement": 10,
+            "name": "Windows Server"
+        },
+        {
+            "numOfEndorsement": 2,
+            "name": ".NET"
+        },
+        {
+            "numOfEndorsement": 19,
+            "name": "SharePoint"
+        },
+        {
+            "numOfEndorsement": 0,
+            "name": "Federation"
+        },
+        {
+            "numOfEndorsement": 0,
+            "name": "SSO"
+        },
+        {
+            "numOfEndorsement": 3,
+            "name": "Network Infrastructure"
+        },
+        {
+            "numOfEndorsement": 0,
+            "name": "Artificial Intelligence (AI)"
+        },
+        {
+            "numOfEndorsement": 0,
+            "name": "Generative AI"
+        },
+        {
+            "numOfEndorsement": 0,
+            "name": "Search Engine Technology"
+        },
+        {
+            "numOfEndorsement": 0,
+            "name": "Chatbots"
+        },
+        {
+            "numOfEndorsement": 0,
+            "name": "Microsoft Search"
+        },
+        {
+            "numOfEndorsement": 0,
+            "name": "ChatGPT"
+        },
+        {
+            "numOfEndorsement": 0,
+            "name": "Computer Ethics"
+        }
+    ],
+    "pronoun": "He\/Him",
+    "numOfConnections": 851,
+    "patents": [],
+    "headline": "Texas Children's Hospital | Ex-Microsoft | SNHU Undergrad",
+    "courses": [],
+    "certifications": [
+        {
+            "companyUrn": "urn:li:fs_salesCompany:1035",
+            "authority": "Microsoft",
+            "name": "Microsoft Specialist: Server Virtualization with Hyper-V and System Center",
+            "company": "urn:li:fs_salesCompany:1035",
+            "licenseNumber": "E568-4529",
+            "startedOn": {
+                "month": 2,
+                "year": 2014
+            }
+        },
+        {
+            "companyUrn": "urn:li:fs_salesCompany:1035",
+            "authority": "Microsoft",
+            "name": "Microsoft Certified Technology Specialist: Forefront Identity Manager, Configuring",
+            "company": "urn:li:fs_salesCompany:1035",
+            "licenseNumber": "E547-2620",
+            "startedOn": {
+                "month": 1,
+                "year": 2014
+            }
+        },
+        {
+            "companyUrn": "urn:li:fs_salesCompany:1035",
+            "authority": "Microsoft",
+            "name": "Microsoft Certified Systems Administrator: Windows Server 2003",
+            "company": "urn:li:fs_salesCompany:1035",
+            "licenseNumber": "A629-3754",
+            "startedOn": {
+                "month": 12,
+                "year": 2009
+            }
+        },
+        {
+            "companyUrn": "urn:li:fs_salesCompany:1035",
+            "authority": "Microsoft",
+            "name": "Microsoft Specialist: Implementing Microsoft Azure Infrastructure Solutions",
+            "company": "urn:li:fs_salesCompany:1035",
+            "licenseNumber": "F675-2536",
+            "startedOn": {
+                "month": 5,
+                "year": 2016
+            }
+        },
+        {
+            "endedOn": {
+                "month": 8,
+                "year": 2021
+            },
+            "companyUrn": "urn:li:fs_salesCompany:1035",
+            "url": "https:\/\/www.youracclaim.com\/badges\/c837c00a-e4be-4f38-8f01-eef5182ee455\/linked_in_profile",
+            "authority": "Microsoft",
+            "name": "Microsoft Certified: Azure Administrator Associate",
+            "company": "urn:li:fs_salesCompany:1035",
+            "startedOn": {
+                "month": 8,
+                "year": 2019
+            }
+        },
+        {
+            "companyUrn": "urn:li:fs_salesCompany:40853579",
+            "url": "https:\/\/www.youracclaim.com\/badges\/eb669e2a-8ad5-4dfe-8809-d98e101fe1bf?source=linked_in_profile",
+            "authority": "Microsoft OpenHack",
+            "name": "OpenHack: Dynamics 365 + Power Platform",
+            "company": "urn:li:fs_salesCompany:40853579",
+            "startedOn": {
+                "month": 2,
+                "year": 2021
+            }
+        },
+        {
+            "companyUrn": "urn:li:fs_salesCompany:2183485",
+            "url": "https:\/\/www.youracclaim.com\/badges\/1024c063-0816-4ba5-a19a-ea4185756148?source=linked_in_profile",
+            "authority": "Learn on Demand Systems",
+            "name": "Instructor Recognition - First Class Delivered",
+            "company": "urn:li:fs_salesCompany:2183485",
+            "startedOn": {
+                "month": 3,
+                "year": 2021
+            }
+        },
+        {
+            "companyUrn": "urn:li:fs_salesCompany:1337",
+            "url": "https:\/\/www.linkedin.com\/learning\/certificates\/af080c2bdc6c4c03410791c0a8ec48fd1c3d8889e025e120cc743302171bb843",
+            "authority": "LinkedIn",
+            "name": "What Is Generative AI?",
+            "company": "urn:li:fs_salesCompany:1337",
+            "startedOn": {
+                "month": 7,
+                "year": 2023
+            }
+        },
+        {
+            "companyUrn": "urn:li:fs_salesCompany:1337",
+            "url": "https:\/\/www.linkedin.com\/learning\/certificates\/d8548adb5db088b412f426d207c4e91c7f2aa3ab118db2876a5a9ce829ac8b34",
+            "authority": "LinkedIn",
+            "name": "Generative AI: The Evolution of Thoughtful Online Search",
+            "company": "urn:li:fs_salesCompany:1337",
+            "startedOn": {
+                "month": 7,
+                "year": 2023
+            }
+        },
+        {
+            "endedOn": {
+                "month": 7,
+                "year": 2024
+            },
+            "companyUrn": "urn:li:fs_salesCompany:1035",
+            "authority": "Microsoft",
+            "name": "Microsoft Certified Trainer (MCT)",
+            "company": "urn:li:fs_salesCompany:1035",
+            "licenseNumber": "BDE474-8357F4",
+            "startedOn": {
+                "month": 7,
+                "year": 2023
+            }
+        },
+        {
+            "companyUrn": "urn:li:fs_salesCompany:1337",
+            "url": "https:\/\/www.linkedin.com\/learning\/certificates\/92398b9e12457da7f138ec60de1471e85376cafec8abecdaa62f89eb150eb135",
+            "authority": "LinkedIn",
+            "name": "Streamlining Your Work with Microsoft Bing Chat",
+            "company": "urn:li:fs_salesCompany:1337",
+            "startedOn": {
+                "month": 7,
+                "year": 2023
+            }
+        },
+        {
+            "companyUrn": "urn:li:fs_salesCompany:1337",
+            "url": "https:\/\/www.linkedin.com\/learning\/certificates\/e3f3a964b90b6803a1403f8a4f76447ea996b5a54b624248a6a9ccf14b2b42bd",
+            "authority": "LinkedIn",
+            "name": "Ethics in the Age of Generative AI",
+            "company": "urn:li:fs_salesCompany:1337",
+            "startedOn": {
+                "month": 7,
+                "year": 2023
+            }
+        },
+        {
+            "endedOn": {
+                "month": 7,
+                "year": 2024
+            },
+            "companyUrn": "urn:li:fs_salesCompany:1035",
+            "url": "https:\/\/learn.microsoft.com\/api\/credentials\/share\/en-us\/JoseGarzaMSFT-7346\/C70115777806008F",
+            "authority": "Microsoft",
+            "name": "Microsoft Certified: Identity and Access Administrator Associate",
+            "company": "urn:li:fs_salesCompany:1035",
+            "licenseNumber": "C70115777806008F",
+            "startedOn": {
+                "month": 7,
+                "year": 2023
+            }
+        },
+        {
+            "companyUrn": "urn:li:fs_salesCompany:1337",
+            "url": "https:\/\/www.linkedin.com\/learning\/certificates\/a7521e261a6bffbbb51eccc9ccb68c07d8fe752efd0ba4adfccc1845084cef60",
+            "authority": "LinkedIn",
+            "name": "Introduction to Artificial Intelligence",
+            "company": "urn:li:fs_salesCompany:1337",
+            "startedOn": {
+                "month": 8,
+                "year": 2023
+            }
+        },
+        {
+            "companyUrn": "urn:li:fs_salesCompany:542990",
+            "url": "https:\/\/app.nsls.org\/web\/public\/social\/share\/badge\/4djNeG3tmMtPwv5gZHovpB",
+            "authority": "The National Society of Leadership and Success",
+            "name": "Orientation and Leadership Training Certificate",
+            "company": "urn:li:fs_salesCompany:542990",
+            "licenseNumber": "FOL 101-1",
+            "startedOn": {
+                "month": 8,
+                "year": 2023
+            }
+        },
+        {
+            "companyUrn": "urn:li:fs_salesCompany:1035",
+            "url": "https:\/\/www.credly.com\/badges\/a46e3b7c-6177-49b8-80f3-2f3cc5f5b9a4\/linked_in_profile",
+            "authority": "Microsoft",
+            "name": "New Kusto Detective!",
+            "company": "urn:li:fs_salesCompany:1035",
+            "startedOn": {
+                "month": 8,
+                "year": 2023
+            }
+        },
+        {
+            "companyUrn": "urn:li:fs_salesCompany:1035",
+            "url": "https:\/\/learn.microsoft.com\/api\/credentials\/share\/en-us\/JoseGarzaMSFT-7346\/41D8E0369A5D2651?sharingId=30DF321BC47A2CA4",
+            "authority": "Microsoft",
+            "name": "Microsoft Certified: Azure AI Fundamentals",
+            "company": "urn:li:fs_salesCompany:1035",
+            "licenseNumber": "41D8E0369A5D2651",
+            "startedOn": {
+                "month": 2,
+                "year": 2024
+            }
+        }
+    ],
+    "memberBadges": {
+        "premium": true,
+        "openLink": false,
+        "jobSeeker": false
+    },
+    "flagshipProfileUrl": "https:\/\/www.linkedin.com\/in\/jgarzamsft",
+    "organizations": [
+        {
+            "name": "Society of Hispanic Professional Engineers",
+            "position": "Member",
+            "startedOn": {
+                "month": 2,
+                "year": 2024
+            }
+        },
+        {
+            "name": "National Society of Leadership and Success",
+            "position": "Member",
+            "startedOn": {
+                "month": 7,
+                "year": 2023
+            }
+        }
+    ],
+    "location": "Greater Houston",
+    "publications": [],
+    "positions": null,
+    "posts": [
+        {
+            "createdAt": 1711793040000,
+            "insightId": "735d0e7d-8b5c-48a4-9280-2493c797a90d",
+            "activityUnion": {
+                "postActivity": {
+                    "contentSummaryUnion": {
+                        "referenceContentSummary": {
+                            "entityUrn": "urn:li:celebrateJobChange:7179780513707020288"
+                        }
+                    },
+                    "socialMetadata": {
+                        "reactionTypeCounts": [
+                            {
+                                "type": "LIKE",
+                                "count": 61
+                            },
+                            {
+                                "type": "PRAISE",
+                                "count": 30
+                            },
+                            {
+                                "type": "EMPATHY",
+                                "count": 8
+                            }
+                        ],
+                        "entityUrn": "urn:li:fs_salesSocialMetadata:urn:li:ugcPost:7179780514919116802",
+                        "threadUrn": "urn:li:ugcPost:7179780514919116802",
+                        "reactionsCount": 99,
+                        "commentsCount": 20,
+                        "canComment": true
+                    },
+                    "activityUrl": "https:\/\/www.linkedin.com\/feed\/sales-navigator\/urn:li:ugcPost:7179780514919116802",
+                    "message": {
+                        "attributes": [
+                            {
+                                "start": 75,
+                                "length": 25,
+                                "value": {
+                                    "com.linkedin.common.CompanyAttributedEntity": {
+                                        "company": "urn:li:company:8445"
+                                    }
+                                }
+                            }
+                        ],
+                        "text": "I\u2019m happy to share that I\u2019m starting a new position as Sr IAM Architect at Texas Children's Hospital!"
+                    },
+                    "entityUrn": "urn:li:ugcPost:7179780514919116802"
+                }
+            }
+        },
+        {
+            "createdAt": 1716762600000,
+            "insightId": "697f299c-1697-42c3-be8a-d1976514fa2c",
+            "activityUnion": {
+                "commentActivity": {
+                    "socialMetadata": {
+                        "reactionTypeCounts": [],
+                        "entityUrn": "urn:li:fs_salesSocialMetadata:urn:li:comment:(activity:7199846023718948865,7200624437107310592)",
+                        "threadUrn": "urn:li:activity:7199846023718948865",
+                        "reactionsCount": 0,
+                        "commentsCount": 0,
+                        "canComment": true
+                    },
+                    "commentary": {
+                        "attributes": [],
+                        "text": "You rule. I know kiddo is proud of you too!"
+                    },
+                    "activityUrl": "https:\/\/www.linkedin.com\/feed\/sales-navigator\/urn:li:activity:7199846023718948865"
+                }
+            }
+        },
+        {
+            "createdAt": 1716001500000,
+            "insightId": "c06a4962-1e9c-46ea-8cfa-c120fb03d9e7",
+            "activityUnion": {
+                "commentActivity": {
+                    "socialMetadata": {
+                        "reactionTypeCounts": [
+                            {
+                                "type": "LIKE",
+                                "count": 1
+                            }
+                        ],
+                        "entityUrn": "urn:li:fs_salesSocialMetadata:urn:li:comment:(ugcPost:7197312498507681792,7197432190563983360)",
+                        "threadUrn": "urn:li:ugcPost:7197312498507681792",
+                        "reactionsCount": 1,
+                        "commentsCount": 1,
+                        "canComment": true
+                    },
+                    "commentary": {
+                        "attributes": [],
+                        "text": "Keep the LAM integrations coming!  Loving it so far.  My in-laws only speak Mandarin, and now I can freely communicate with them when we visit!! \u2764\ufe0f"
+                    },
+                    "activityUrl": "https:\/\/www.linkedin.com\/feed\/sales-navigator\/urn:li:ugcPost:7197312498507681792"
+                }
+            }
+        },
+        {
+            "createdAt": 1715956560000,
+            "insightId": "9839e512-3432-41c2-b43c-16c1a6b9c52a",
+            "activityUnion": {
+                "commentActivity": {
+                    "socialMetadata": {
+                        "reactionTypeCounts": [],
+                        "entityUrn": "urn:li:fs_salesSocialMetadata:urn:li:comment:(activity:7196758753910636544,7197243613683093504)",
+                        "threadUrn": "urn:li:activity:7196758753910636544",
+                        "reactionsCount": 0,
+                        "commentsCount": 0,
+                        "canComment": true
+                    },
+                    "commentary": {
+                        "attributes": [],
+                        "text": "Thanks, Siva!"
+                    },
+                    "activityUrl": "https:\/\/www.linkedin.com\/feed\/sales-navigator\/urn:li:activity:7196758753910636544"
+                }
+            }
+        },
+        {
+            "createdAt": 1715666940000,
+            "insightId": "cd8c135e-e66f-4039-8b93-975326c6e869",
+            "activityUnion": {
+                "commentActivity": {
+                    "socialMetadata": {
+                        "reactionTypeCounts": [],
+                        "entityUrn": "urn:li:fs_salesSocialMetadata:urn:li:comment:(activity:7196000613246066690,7196028958377721859)",
+                        "threadUrn": "urn:li:activity:7196000613246066690",
+                        "reactionsCount": 0,
+                        "commentsCount": 0,
+                        "canComment": true
+                    },
+                    "commentary": {
+                        "attributes": [],
+                        "text": "Very timely information."
+                    },
+                    "activityUrl": "https:\/\/www.linkedin.com\/feed\/sales-navigator\/urn:li:activity:7196000613246066690"
+                }
+            }
+        },
+        {
+            "createdAt": 1714808220000,
+            "insightId": "49d25968-509b-488b-aaf0-27eddb4d2b08",
+            "activityUnion": {
+                "commentActivity": {
+                    "socialMetadata": {
+                        "reactionTypeCounts": [
+                            {
+                                "type": "LIKE",
+                                "count": 1
+                            }
+                        ],
+                        "entityUrn": "urn:li:fs_salesSocialMetadata:urn:li:comment:(ugcPost:7191080726337892354,7192427178272120832)",
+                        "threadUrn": "urn:li:ugcPost:7191080726337892354",
+                        "reactionsCount": 1,
+                        "commentsCount": 0,
+                        "canComment": true
+                    },
+                    "commentary": {
+                        "attributes": [
+                            {
+                                "start": 0,
+                                "length": 10,
+                                "value": {
+                                    "com.linkedin.common.MemberAttributedEntity": {
+                                        "member": "urn:li:member:86885224"
+                                    }
+                                }
+                            }
+                        ],
+                        "text": "Enzo Avigo next level"
+                    },
+                    "activityUrl": "https:\/\/www.linkedin.com\/feed\/sales-navigator\/urn:li:ugcPost:7191080726337892354"
+                }
+            }
+        },
+        {
+            "createdAt": 1714405680000,
+            "insightId": "e1a6fdd4-30fa-4bb8-a628-468c282773d7",
+            "activityUnion": {
+                "commentActivity": {
+                    "socialMetadata": {
+                        "reactionTypeCounts": [],
+                        "entityUrn": "urn:li:fs_salesSocialMetadata:urn:li:comment:(ugcPost:7190101337395601408,7190738627834912768)",
+                        "threadUrn": "urn:li:ugcPost:7190101337395601408",
+                        "reactionsCount": 0,
+                        "commentsCount": 0,
+                        "canComment": true
+                    },
+                    "commentary": {
+                        "attributes": [],
+                        "text": "Congratulations!"
+                    },
+                    "activityUrl": "https:\/\/www.linkedin.com\/feed\/sales-navigator\/urn:li:ugcPost:7190101337395601408"
+                }
+            }
+        },
+        {
+            "createdAt": 1713548700000,
+            "insightId": "c8e98be2-9b33-478e-9705-69ed14e8ad03",
+            "activityUnion": {
+                "commentActivity": {
+                    "socialMetadata": {
+                        "reactionTypeCounts": [
+                            {
+                                "type": "EMPATHY",
+                                "count": 1
+                            }
+                        ],
+                        "entityUrn": "urn:li:fs_salesSocialMetadata:urn:li:comment:(activity:7187140530143748096,7187144260654137344)",
+                        "threadUrn": "urn:li:activity:7187140530143748096",
+                        "reactionsCount": 1,
+                        "commentsCount": 0,
+                        "canComment": true
+                    },
+                    "commentary": {
+                        "attributes": [],
+                        "text": "This looks awesome!!  Congrats man!"
+                    },
+                    "activityUrl": "https:\/\/www.linkedin.com\/feed\/sales-navigator\/urn:li:activity:7187140530143748096"
+                }
+            }
+        },
+        {
+            "createdAt": 1713505440000,
+            "insightId": "ff84330f-14cf-42c6-9527-a83266945468",
+            "activityUnion": {
+                "commentActivity": {
+                    "socialMetadata": {
+                        "reactionTypeCounts": [
+                            {
+                                "type": "LIKE",
+                                "count": 1
+                            }
+                        ],
+                        "entityUrn": "urn:li:fs_salesSocialMetadata:urn:li:comment:(activity:7186136688472080385,7186962859703111681)",
+                        "threadUrn": "urn:li:activity:7186136688472080385",
+                        "reactionsCount": 1,
+                        "commentsCount": 1,
+                        "canComment": true
+                    },
+                    "commentary": {
+                        "attributes": [],
+                        "text": "Very nice!"
+                    },
+                    "activityUrl": "https:\/\/www.linkedin.com\/feed\/sales-navigator\/urn:li:activity:7186136688472080385"
+                }
+            }
+        },
+        {
+            "createdAt": 1713451260000,
+            "insightId": "bdfac9a9-268d-415e-8487-1e1ed7ed2135",
+            "activityUnion": {
+                "commentActivity": {
+                    "socialMetadata": {
+                        "reactionTypeCounts": [
+                            {
+                                "type": "LIKE",
+                                "count": 2
+                            }
+                        ],
+                        "entityUrn": "urn:li:fs_salesSocialMetadata:urn:li:comment:(activity:7186606729818734592,7186735627864813569)",
+                        "threadUrn": "urn:li:activity:7186606729818734592",
+                        "reactionsCount": 2,
+                        "commentsCount": 1,
+                        "canComment": true
+                    },
+                    "commentary": {
+                        "attributes": [],
+                        "text": "Sounds like you would have to write a book on the subject to answer it fully.  Also assumes one has been solely responsible for Entra application lifecycle management throughout the entire process.  Hard question."
+                    },
+                    "activityUrl": "https:\/\/www.linkedin.com\/feed\/sales-navigator\/urn:li:activity:7186606729818734592"
+                }
+            }
+        },
+        {
+            "createdAt": 1713164160000,
+            "insightId": "91eb5875-fd40-42b8-a8ea-afcabb0aeef5",
+            "activityUnion": {
+                "commentActivity": {
+                    "socialMetadata": {
+                        "reactionTypeCounts": [
+                            {
+                                "type": "LIKE",
+                                "count": 1
+                            }
+                        ],
+                        "entityUrn": "urn:li:fs_salesSocialMetadata:urn:li:comment:(ugcPost:7185323059887706112,7185531405626474496)",
+                        "threadUrn": "urn:li:ugcPost:7185323059887706112",
+                        "reactionsCount": 1,
+                        "commentsCount": 0,
+                        "canComment": true
+                    },
+                    "commentary": {
+                        "attributes": [],
+                        "text": "Congrats Jacob!!"
+                    },
+                    "activityUrl": "https:\/\/www.linkedin.com\/feed\/sales-navigator\/urn:li:ugcPost:7185323059887706112"
+                }
+            }
+        },
+        {
+            "createdAt": 1712978280000,
+            "insightId": "d4902165-e54f-472a-8beb-66e0fd018fa1",
+            "activityUnion": {
+                "commentActivity": {
+                    "socialMetadata": {
+                        "reactionTypeCounts": [
+                            {
+                                "type": "PRAISE",
+                                "count": 1
+                            },
+                            {
+                                "type": "EMPATHY",
+                                "count": 2
+                            },
+                            {
+                                "type": "APPRECIATION",
+                                "count": 2
+                            }
+                        ],
+                        "entityUrn": "urn:li:fs_salesSocialMetadata:urn:li:comment:(ugcPost:7184719585412063232,7184751808433565698)",
+                        "threadUrn": "urn:li:ugcPost:7184719585412063232",
+                        "reactionsCount": 5,
+                        "commentsCount": 0,
+                        "canComment": true
+                    },
+                    "commentary": {
+                        "attributes": [],
+                        "text": "Their loss. Your impact on others and evangelism of so many technical areas inspired many, including myself."
+                    },
+                    "activityUrl": "https:\/\/www.linkedin.com\/feed\/sales-navigator\/urn:li:ugcPost:7184719585412063232"
+                }
+            }
+        },
+        {
+            "createdAt": 1711949520000,
+            "insightId": "2914e847-410a-414d-b318-708124539dba",
+            "activityUnion": {
+                "commentActivity": {
+                    "socialMetadata": {
+                        "reactionTypeCounts": [
+                            {
+                                "type": "EMPATHY",
+                                "count": 1
+                            }
+                        ],
+                        "entityUrn": "urn:li:fs_salesSocialMetadata:urn:li:comment:(ugcPost:7180303539674472448,7180436871771009024)",
+                        "threadUrn": "urn:li:ugcPost:7180303539674472448",
+                        "reactionsCount": 1,
+                        "commentsCount": 0,
+                        "canComment": true
+                    },
+                    "commentary": {
+                        "attributes": [],
+                        "text": "Fantastic. I love this. \u2764\ufe0f"
+                    },
+                    "activityUrl": "https:\/\/www.linkedin.com\/feed\/sales-navigator\/urn:li:ugcPost:7180303539674472448"
+                }
+            }
+        },
+        {
+            "createdAt": 1711505520000,
+            "insightId": "030b0d8a-60c0-46d5-baae-ec40ae15886b",
+            "activityUnion": {
+                "commentActivity": {
+                    "socialMetadata": {
+                        "reactionTypeCounts": [],
+                        "entityUrn": "urn:li:fs_salesSocialMetadata:urn:li:comment:(activity:7178446487926812673,7178574529206628352)",
+                        "threadUrn": "urn:li:activity:7178446487926812673",
+                        "reactionsCount": 0,
+                        "commentsCount": 0,
+                        "canComment": true
+                    },
+                    "commentary": {
+                        "attributes": [],
+                        "text": "Congratulations, and happy you are doing so well!  I think about you and everyone often!"
+                    },
+                    "activityUrl": "https:\/\/www.linkedin.com\/feed\/sales-navigator\/urn:li:activity:7178446487926812673"
+                }
+            }
+        },
+        {
+            "createdAt": 1711294800000,
+            "insightId": "57acc43e-0999-4a6e-b555-d450072d1bf4",
+            "activityUnion": {
+                "commentActivity": {
+                    "socialMetadata": {
+                        "reactionTypeCounts": [
+                            {
+                                "type": "LIKE",
+                                "count": 1
+                            },
+                            {
+                                "type": "EMPATHY",
+                                "count": 1
+                            }
+                        ],
+                        "entityUrn": "urn:li:fs_salesSocialMetadata:urn:li:comment:(ugcPost:7177662348998897664,7177690855527370752)",
+                        "threadUrn": "urn:li:ugcPost:7177662348998897664",
+                        "reactionsCount": 2,
+                        "commentsCount": 0,
+                        "canComment": true
+                    },
+                    "commentary": {
+                        "attributes": [],
+                        "text": "The best. \u2764\ufe0f"
+                    },
+                    "activityUrl": "https:\/\/www.linkedin.com\/feed\/sales-navigator\/urn:li:ugcPost:7177662348998897664"
+                }
+            }
+        },
+        {
+            "createdAt": 1711084980000,
+            "insightId": "65cad2ba-f868-438c-afad-37e2f79ec7e7",
+            "activityUnion": {
+                "commentActivity": {
+                    "socialMetadata": {
+                        "reactionTypeCounts": [
+                            {
+                                "type": "LIKE",
+                                "count": 1
+                            }
+                        ],
+                        "entityUrn": "urn:li:fs_salesSocialMetadata:urn:li:comment:(ugcPost:7176650034753515523,7176810817277894657)",
+                        "threadUrn": "urn:li:ugcPost:7176650034753515523",
+                        "reactionsCount": 1,
+                        "commentsCount": 0,
+                        "canComment": true
+                    },
+                    "commentary": {
+                        "attributes": [],
+                        "text": "Looks good!! Congrats and hope all is well!"
+                    },
+                    "activityUrl": "https:\/\/www.linkedin.com\/feed\/sales-navigator\/urn:li:ugcPost:7176650034753515523"
+                }
+            }
+        },
+        {
+            "createdAt": 1710913200000,
+            "insightId": "18d2dfc2-a0fd-48a2-be88-b44bb906ac66",
+            "activityUnion": {
+                "commentActivity": {
+                    "socialMetadata": {
+                        "reactionTypeCounts": [],
+                        "entityUrn": "urn:li:fs_salesSocialMetadata:urn:li:comment:(activity:7105234389868924929,7176090314141528064)",
+                        "threadUrn": "urn:li:activity:7105234389868924929",
+                        "reactionsCount": 0,
+                        "commentsCount": 1,
+                        "canComment": true
+                    },
+                    "commentary": {
+                        "attributes": [],
+                        "text": "I'd love to reconnect with you, man. Let me know if you ever have time to chat. Hope you're doing well!"
+                    },
+                    "activityUrl": "https:\/\/www.linkedin.com\/feed\/sales-navigator\/urn:li:activity:7105234389868924929"
+                }
+            }
+        },
+        {
+            "createdAt": 1709930160000,
+            "insightId": "4e9bc9a9-fddc-4718-bfc4-03271173753c",
+            "activityUnion": {
+                "commentActivity": {
+                    "socialMetadata": {
+                        "reactionTypeCounts": [
+                            {
+                                "type": "LIKE",
+                                "count": 1
+                            }
+                        ],
+                        "entityUrn": "urn:li:fs_salesSocialMetadata:urn:li:comment:(activity:7171637876005277696,7171966992319537152)",
+                        "threadUrn": "urn:li:activity:7171637876005277696",
+                        "reactionsCount": 1,
+                        "commentsCount": 0,
+                        "canComment": true
+                    },
+                    "commentary": {
+                        "attributes": [],
+                        "text": "Amen to this. So many say programming and testing is dead due to AI...nice to see reality set in."
+                    },
+                    "activityUrl": "https:\/\/www.linkedin.com\/feed\/sales-navigator\/urn:li:activity:7171637876005277696"
+                }
+            }
+        },
+        {
+            "createdAt": 1709928540000,
+            "insightId": "371cf6ec-8b8c-4c3f-bd1e-bd8a99c43fbb",
+            "activityUnion": {
+                "commentActivity": {
+                    "socialMetadata": {
+                        "reactionTypeCounts": [
+                            {
+                                "type": "EMPATHY",
+                                "count": 1
+                            }
+                        ],
+                        "entityUrn": "urn:li:fs_salesSocialMetadata:urn:li:comment:(ugcPost:7171584524705873920,7171960278970953728)",
+                        "threadUrn": "urn:li:ugcPost:7171584524705873920",
+                        "reactionsCount": 1,
+                        "commentsCount": 0,
+                        "canComment": true
+                    },
+                    "commentary": {
+                        "attributes": [],
+                        "text": "Wonderful to see!"
+                    },
+                    "activityUrl": "https:\/\/www.linkedin.com\/feed\/sales-navigator\/urn:li:ugcPost:7171584524705873920"
+                }
+            }
+        },
+        {
+            "createdAt": 1709606040000,
+            "insightId": "b9b4b400-0f53-457f-ba17-f49f443cb736",
+            "activityUnion": {
+                "commentActivity": {
+                    "socialMetadata": {
+                        "reactionTypeCounts": [],
+                        "entityUrn": "urn:li:fs_salesSocialMetadata:urn:li:comment:(activity:7170499195345330176,7170607551892443137)",
+                        "threadUrn": "urn:li:activity:7170499195345330176",
+                        "reactionsCount": 0,
+                        "commentsCount": 0,
+                        "canComment": true
+                    },
+                    "commentary": {
+                        "attributes": [
+                            {
+                                "start": 0,
+                                "length": 11,
+                                "value": {
+                                    "com.linkedin.common.MemberAttributedEntity": {
+                                        "member": "urn:li:member:49244688"
+                                    }
+                                }
+                            }
+                        ],
+                        "text": "Francine Di"
+                    },
+                    "activityUrl": "https:\/\/www.linkedin.com\/feed\/sales-navigator\/urn:li:activity:7170499195345330176"
+                }
+            }
+        }
+    ]
+}
