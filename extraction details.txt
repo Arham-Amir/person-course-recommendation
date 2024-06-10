@@ -1,6 +1,6 @@
 {
     name: name
-    summary : -summary
+    summary : summary
     current-position-job-title : -currentPositions[0]['title']
     current-position-job-description : -currentPositions[0]['description']
     current-position-industry : -currentPositions[0]['companyUrnResolutionResult']['industry']
